@@ -7,10 +7,10 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### :e-mail: Kontakt do prowadzącego
 
-mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110
+mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
 
 
-### :computer: Instalacja Jupyter notebook:
+### :computer: Instalacja Jupyter Notebook:
 
 W konsoli:
 
@@ -130,5 +130,25 @@ Link do rejestracji na spotkania:
     - poprawność wykresów, odpowiednie podpisy i tytuły
     - prawidłowa interpretacja wykresów
 - **obrona projektu** (2 pkt - 10%)
+
+
+## :barchart: DataCamp
+
+Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
+
+https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678
+
+Dostęp za pomocą maila uczelnianego trwa do 13 marca.
+
+Ścieżki zawierające przydatne kursy (w zakładce Learn (na górze) -> Courses (oraz Learn -> Assignments)):
+-	Python Data Fundamentals (podstawy Pythona; podstawy matplotlib i numpy; pandas; seaborn)
+-	Data Manipulation in Python (numpy; pandas)
+- Data Visualization in Python (matplotlib; seaborn)
+- Importing & Cleaning Data in Python (pandas - zaawansowany)
+- 
+
+Kurs zawierający elementy HTML i CSS (dla chętnych do KCK):
+-	Web Scraping in Python
+
 
     
