@@ -140,14 +140,21 @@ https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4e
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca.
 
-Ścieżki zawierające przydatne kursy (w zakładce Learn (na górze) -> Courses (oraz Learn -> Assignments)):
--	Python Data Fundamentals (podstawy Pythona; podstawy matplotlib i numpy; pandas; seaborn)
--	Data Manipulation in Python (numpy; pandas)
-- Data Visualization in Python (matplotlib; seaborn)
-- Importing & Cleaning Data in Python (pandas - zaawansowany)
-- 
+Przydatne ścieżki/kursy (w zakładce Learn (na górze) -> Courses (oraz Learn -> Assignments)):
+-	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
+-	Data Manipulation in Python (`numpy`; `pandas`)
+- Data Visualization in Python (`matplotlib`; `seaborn`)
+- Importing & Cleaning Data in Python (`pandas`)
+- Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
+- Hypothesis Testing in Python (`pingouin`)
 
-Kurs zawierający elementy HTML i CSS (dla chętnych do KCK):
+A także opcjonalnie:
+-	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
+-	Experimental Design in Python -> szczególnie: Analyzing Experimental Data: Statistical Tests and Power
+-	Foundations of Inference in Python -> Hypothesis Testing Toolkit, Effect Size
+
+
+Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
 -	Web Scraping in Python
 
 
