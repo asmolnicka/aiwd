@@ -132,7 +132,7 @@ Link do rejestracji na spotkania:
 - **obrona projektu** (2 pkt - 10%)
 
 
-## :barchart: DataCamp
+## &#x1F4CA; DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
