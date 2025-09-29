@@ -1,6 +1,6 @@
 # Analiza i Wizualizacja Danych
 
-*Data analysis and visualization*
+*Data Analysis and Visualization*
 
 Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
@@ -27,8 +27,8 @@ jupyter notebook
 
 ## :books: Organizacja zajęć
 
-- 9 zajęć labolatoryjnych
-- realizacja projektu - analiza i wizualizacja wybranych danych
+1. 9 zajęć labolatoryjnych
+2. Realizacja projektu - analiza i wizualizacja wybranych danych
 
 
 ## :calendar: Terminarz zajęć
@@ -54,7 +54,7 @@ Grupa nr 3:
 |15.| Konsultacje 2 	              |                    | 22.01           |
 |   | Konsultacje - Poprawa * 	    |                    | 2.02 ?          |
 
-\* w razie nieuzbierania wystarczającej liczby punktów
+\* w razie nieuzbierania liczby punktów wystarczającej do zdania
   
 Grupy nr 1, 2:
 
@@ -76,7 +76,7 @@ Grupy nr 1, 2:
 |14.| Konsultacje 2 	              |                    | 29.01               |
 |   | Konsultacje - Poprawa *	      |                    | 2.02 ?              |
 
-\* w razie nieuzbierania wystarczającej liczby punktów
+\* w razie nieuzbierania liczby punktów wystarczającej do zdania
 
 
 ## &#128175; Kryteria oceny z przedmiotu
@@ -99,7 +99,7 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 
 ## &#x1F4CB; Projekt
 
-Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
+Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 
@@ -116,19 +116,19 @@ Link do rejestracji na spotkania:
 
 ### Kryteria oceniania projektu
 
-- wybór danych i pytania badawcze (2 pkt - 10%)
-    - Odpowiedni dobór danych
-    - Min. 5 logicznych i interesujących pytań badawczych
-- jakość kodu i analizy (7 pkt - 35%)
-    - Czytelny, dobrze zorganizowany kod
-    - Poprawne przeprowadzenie testów statystycznych
-- raport (5 pkt - 25%)
-    - Struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski
-    - Logiczne wnioski oparte na analizach
-    - Estetyka, czytelność wykresów i tabel
-- wizualizacja (4 pkt - 20%)
-    - Poprawność wykresów, odpowiednie podpisy i tytuły
-    - Prawidłowa interpretacja wykresów
-- obrona projektu (2 pkt - 10%)
+- **wybór danych i pytania badawcze** (2 pkt - 10%)
+    - odpowiedni dobór danych
+    - min. 5 logicznych i interesujących pytań badawczych
+- **kod i analizy** (7 pkt - 35%)
+    - czytelny, dobrze zorganizowany kod
+    - poprawne przeprowadzenie testów statystycznych
+- **raport** (5 pkt - 25%)
+    - struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski
+    - logiczne wnioski oparte na analizach
+    - estetyka, czytelność wykresów i tabel
+- **wizualizacja** (4 pkt - 20%)
+    - poprawność wykresów, odpowiednie podpisy i tytuły
+    - prawidłowa interpretacja wykresów
+- **obrona projektu** (2 pkt - 10%)
 
     
