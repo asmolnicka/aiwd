@@ -10,7 +10,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110
 
 
-### Instalacja Jupyter notebook:
+### :computer: Instalacja Jupyter notebook:
 
 W konsoli:
 
@@ -25,17 +25,17 @@ jupyter notebook
 ```
 
 
-## Organizacja zajęć
+## :books: Organizacja zajęć
 
 - 9 zajęć labolatoryjnych
-- realizacja projektu -- analiza i wizualizacja wybranych danych
+- realizacja projektu - analiza i wizualizacja wybranych danych
 
 
-## Terminarz zajęć
+## :calendar: Terminarz zajęć
 
 Grupa nr 3:
 
-|nr | Temat 	                      | Biblioteka         | Data (czwartek) |
+|Nr | Temat 	                      | Biblioteka         | Data (czwartek) |
 |---|-------------------------------|--------------------|-----------------|
 |1. | Obliczenia numeryczne         | `jupyter`, `numpy` | 2.10            |
 |2. | Przetwarzanie danych 1        | `pandas`  	       | 9.10            |
@@ -54,11 +54,11 @@ Grupa nr 3:
 |15.| Konsultacje 2 	              |                    | 22.01           |
 |   | Konsultacje - Poprawa * 	    |                    | 2.02 ?          |
 
-\* w razie nieuzbierania punktów
+\* w razie nieuzbierania wystarczającej liczby punktów
   
 Grupy nr 1, 2:
 
-|nr | Temat 	                      | Biblioteka         | Data (poniedziałek) |
+|Nr | Temat 	                      | Biblioteka         | Data (poniedziałek) |
 |---|-------------------------------|--------------------|---------------------|
 |1. | Obliczenia numeryczne         | `jupyter`, `numpy` | 6.10                |
 |2. | Przetwarzanie danych 1        | `pandas`  	       | 13.10               |
@@ -76,23 +76,25 @@ Grupy nr 1, 2:
 |14.| Konsultacje 2 	              |                    | 29.01               |
 |   | Konsultacje - Poprawa *	      |                    | 2.02 ?              |
 
-\* w razie nieuzbierania punktów
+\* w razie nieuzbierania wystarczającej liczby punktów
 
 
-## Kryteria oceny z przedmiotu
+## &#128175; Kryteria oceny z przedmiotu
 
-Łącznie na przedmiocie można zdobyć maksymalnie 25 punktów na co składa się:
+Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niezależnie od tego, czy są one usprawiedliwione. Odbycie obu konsultacji projektowych jest obowiązkowe.
+
+Łącznie na przedmiocie można zdobyć maksymalnie 25 punktów, na co składa się:
 - 20 punktów za projekt,
 - 5 punktów za kartkówki (3, niezapowiedziane).
 
 | Ocena 	                | Liczba punktów |
 |-------------------------|----------------|
-| bardzo dobry (5,0)      | [22.5, 25]     |
-| dobry plus (4,5) 	      | [20.5, 22.5)   |
-| dobry (4,0) 	          | [18, 20.5)     |
-| dostateczny plus (3,5)  | [16, 18)       |
-| dostateczny (3,0) 	    | [14, 16)       |
-| niedostateczny (2,0)    | [0, 14)        |
+| bardzo dobry (5,0)      | [22,5; 25]     |
+| dobry plus (4,5) 	      | [20,5; 22,5)   |
+| dobry (4,0) 	          | [18; 20,5)     |
+| dostateczny plus (3,5)  | [16; 18)       |
+| dostateczny (3,0) 	    | [14; 16)       |
+| niedostateczny (2,0)    | [0; 14)        |
 
 
 ## Projekt
@@ -101,13 +103,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 
-Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie min. 5 pytań badawczych [dla 3 typów testów -- kategorycznych, nieparametrycznych i parametrycznych]), określenie typów zmiennych i testów statystycznych). \
-Na pierwsze spotkanie należy umówić się do 17. grudnia.
-Obrony projektu. Na drugie spotkanie należy umówić się do 21. stycznia. \
-Gotowy raport oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed drugim spotkaniem.
+Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie min. 5 pytań badawczych [dla 3 typów testów - kategorycznych, nieparametrycznych i parametrycznych]), określenie typów zmiennych i testów statystycznych). \
+Na pierwsze spotkanie należy umówić się do ... .
+Dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
+
+Obrony projektu. \
+Na drugie spotkanie należy umówić się do ... . \
+Raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
 Link do rejestracji na spotkania:
-
 
 
 ### Kryteria oceniania projektu
