@@ -103,13 +103,13 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 
-Omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych. \
-Na pierwsze spotkanie należy umówić się do ... .
-Dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
+1. Omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
+  - Na pierwsze spotkanie należy umówić się do ... .
+  - Dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
 
-Obrony projektu. \
-Na drugie spotkanie należy umówić się do ... . \
-Raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
+2. Obrony projektu
+  - Na drugie spotkanie należy umówić się do ... .
+  - Raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
 Link do rejestracji na spotkania:
 
