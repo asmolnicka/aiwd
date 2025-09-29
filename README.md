@@ -6,7 +6,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### :e-mail: Kontakt do prowadzącego
 
-* mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110
+mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110
 
 ### Instalacja Jupyter notebook:
 
@@ -45,15 +45,15 @@ Link do rejestracji na spotkania:
     - Odpowiedni dobór danych.
     - Min. 5 logicznych i interesujących pytań badawczych.
 - Jakość kodu i analizy (35%)
-    Czytelny, dobrze zorganizowany kod.
-    Poprawne przeprowadzenie testów statystycznych.
+    - Czytelny, dobrze zorganizowany kod.
+    - Poprawne przeprowadzenie testów statystycznych.
 - Raport (25%)
-    Struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski.
-    Logiczne wnioski oparte na analizach.
-    Estetyka, czytelność wykresów i tabel.
+    - Struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski.
+    - Logiczne wnioski oparte na analizach.
+    - Estetyka, czytelność wykresów i tabel.
 - Wykresy i wizualizacja (20%)
-    Poprawność wykresów, odpowiednie podpisy i tytuły.
-    Prawidłowa interpretacja wykresów.
+    - Poprawność wykresów, odpowiednie podpisy i tytuły.
+    - Prawidłowa interpretacja wykresów.
 - Obrona projektu (10%)
 
 ## Kryteria oceny z przedmiotu:
@@ -73,11 +73,10 @@ Za projekt można otrzymać 20 punktów.
 | dostateczny (3,0) 	  | [14, 16)       |
 |------------------------------------------|
 | niedostateczny (2,0)    | [0, 14)        |
-|------------------------------------------|
 
-Terminarz zajęć
+## Terminarz zajęć
 
-lp. 	Temat 	Data (wtorek/środa)
+nr 	Temat 	Data (czwartek/poniedziałek)
 1. 	Jupyter Notebook 	8/2.10.24
 2. 	Numpy 	15/9.10.24
 3. 	Pandas 	22/16.10.24
@@ -87,10 +86,10 @@ lp. 	Temat 	Data (wtorek/środa)
 7. 	Przykładowa analiza danych 	19/13.11.24
 8. 	Przygotowanie danych 	26/20.11.24
 9. 	Indywidualne konsultacje projektowe I 	3.12/27.11.24
-10. 	Indywidualne konsultacje projektowe I 	10/4.12.24
-11. 	Indywidualne konsultacje projektowe I 	17/11.12.24
-12. 	Indywidualne konsultacje projektowe II 	7.01.25/18.12.24
-13. 	Indywidualne konsultacje projektowe II 	14/8.01.25
-14. 	Indywidualne konsultacje projektowe II 	21/15.01.25
-15. 	Poprawka 	28/22.01.25
+10. Indywidualne konsultacje projektowe I 	10/4.12.24
+11. Indywidualne konsultacje projektowe I 	17/11.12.24
+12. Indywidualne konsultacje projektowe II 	7.01.25/18.12.24
+13. Indywidualne konsultacje projektowe II 	14/8.01.25
+14. Indywidualne konsultacje projektowe II 	21/15.01.25
+15. Poprawka 	28/22.01.25
     
