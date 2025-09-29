@@ -97,13 +97,13 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 | niedostateczny (2,0)    | [0; 14)        |
 
 
-## Projekt
+## &#x1F4CB; Projekt
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 
-Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie min. 5 pytań badawczych [dla 3 typów testów - kategorycznych, nieparametrycznych i parametrycznych]), określenie typów zmiennych i testów statystycznych). \
+Omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych. \
 Na pierwsze spotkanie należy umówić się do ... .
 Dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
 
