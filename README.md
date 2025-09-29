@@ -140,7 +140,7 @@ https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4e
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca.
 
-Przydatne ścieżki/kursy (w zakładce Learn (na górze) -> Courses (oraz Learn -> Assignments)):
+Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
 -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
 -	Data Manipulation in Python (`numpy`; `pandas`)
 - Data Visualization in Python (`matplotlib`; `seaborn`)
@@ -150,8 +150,8 @@ Przydatne ścieżki/kursy (w zakładce Learn (na górze) -> Courses (oraz Learn 
 
 A także opcjonalnie:
 -	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
--	Experimental Design in Python -> szczególnie: Analyzing Experimental Data: Statistical Tests and Power
--	Foundations of Inference in Python -> Hypothesis Testing Toolkit, Effect Size
+-	Experimental Design in Python $\rightarrow$ szczególnie: Analyzing Experimental Data: Statistical Tests and Power
+-	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
 
 
 Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
