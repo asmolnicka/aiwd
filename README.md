@@ -1,81 +1,79 @@
 # Analiza i Wizualizacja Danych
 
-Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu.
-📧 Kontakt do prowadzącego
+*Data analysis and visualisation*
 
-    mgr Agnieszka Smolnicka, agnieszka.smolnicka@amu.edu.pl, dyżur: poniedziałek 14:00-15:00, pokój 110
+Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
-Instalacja Jupyter notebook:
+### :e-mail: Kontakt do prowadzącego
+
+* mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110
+
+### Instalacja Jupyter notebook:
 
 W konsoli:
-
- pip install notebook
+```
+pip install notebook
+```
 
 Aby uruchomić notebook wpisujemy w konsoli:
 
+```
 jupyter notebook
+```
 
-Organizacja zajęć
+## Organizacja zajęć
 
-    9 zajęć labolatoryjnych
-    Realizacja projektu -- analiza i wizualizacja wybranych danych
+- 9 zajęć labolatoryjnych
+- Realizacja projektu -- analiza i wizualizacja wybranych danych
 
-Projekt
+## Projekt
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook, oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
 
 W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
 
-    Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie min. 5 pytań badawczych [dla 3 typów testów -- kategorycznych, nieparametrycznych i parametrycznych]), określenie typów zmiennych i testów statystycznych). \
-    Na pierwsze spotkanie należy umówić się do 17. grudnia.
-    Obrony projektu. Na drugie spotkanie należy umówić się do 21. stycznia. \
-    Gotowy raport oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed drugim spotkaniem.
+Omówienia wybranego zestawu danych i kierunku pracy (przygotowanie min. 5 pytań badawczych [dla 3 typów testów -- kategorycznych, nieparametrycznych i parametrycznych]), określenie typów zmiennych i testów statystycznych). \
+Na pierwsze spotkanie należy umówić się do 17. grudnia.
+Obrony projektu. Na drugie spotkanie należy umówić się do 21. stycznia. \
+Gotowy raport oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed drugim spotkaniem.
 
 Link do rejestracji na spotkania:
 
-Kryteria oceniania projektu:
+### Kryteria oceniania projektu:
 
-    - Wybór danych i pytania badawcze (10%)
-
-    Odpowiedni dobór danych.
-    Min. 5 logicznych i interesujących pytań badawczych.
-
-    - Jakość kodu i analizy (35%)
-
+- Wybór danych i pytania badawcze (10%)
+    - Odpowiedni dobór danych.
+    - Min. 5 logicznych i interesujących pytań badawczych.
+- Jakość kodu i analizy (35%)
     Czytelny, dobrze zorganizowany kod.
     Poprawne przeprowadzenie testów statystycznych.
-
-    - Raport (25%)
-
+- Raport (25%)
     Struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski.
     Logiczne wnioski oparte na analizach.
     Estetyka, czytelność wykresów i tabel.
-
-    - Wykresy i wizualizacja (20%)
-
+- Wykresy i wizualizacja (20%)
     Poprawność wykresów, odpowiednie podpisy i tytuły.
     Prawidłowa interpretacja wykresów.
+- Obrona projektu (10%)
 
-    - Obrona projektu (10%)
-
-Kryteria oceny z przedmiotu:
+## Kryteria oceny z przedmiotu:
 
 Za projekt można otrzymać 20 punktów.
 
-Ocena 	| L. punktów
----------------------
-bardzo dobry (5,0) | 19 - 20
-----------------------------
-dobry plus (4,5) 	| 17 - 18
-----------------------------
-dobry (4,0) 	| 15 - 16
-------------------------
-dostateczny plus (3,5) 	14
----------------------------
-dostateczny (3,0) 	12 - 13
-----------------------------
-niedostateczny (2,0) 	< 12
----------------------------
+| Ocena 	              | liczba punktów |
+|------------------------------------------|
+| bardzo dobry (5,0)      | [22.5, 25]     |
+|------------------------------------------|
+| dobry plus (4,5) 	      | [20.5, 22.5)   |
+|------------------------------------------|
+| dobry (4,0) 	          | [18, 20.5)     |
+|------------------------------------------|
+| dostateczny plus (3,5)  | [16, 18)       |
+|------------------------------------------|
+| dostateczny (3,0) 	  | [14, 16)       |
+|------------------------------------------|
+| niedostateczny (2,0)    | [0, 14)        |
+|------------------------------------------|
 
 Terminarz zajęć
 
