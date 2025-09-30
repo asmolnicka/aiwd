@@ -30,6 +30,8 @@ lub (jeśli nie mamy polecenia "jupyter")
 python -m notebook
 ```
 
+Link do środowiska Dziobak: http://150.254.90.119 \
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
 
 ## :books: Organizacja zajęć
 
@@ -107,17 +109,23 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
 
-W ramach projektu wymagane są co najmniej 2 spotkania z prowadzącym w celu:
+W ramach projektu wymagane są, co najmniej 2 spotkania z prowadzącą w celu:
 
-1. Omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
-  - Na pierwsze spotkanie należy umówić się do ... .
-  - Dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
+1. omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
+  - dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
 
-2. Obrony projektu
-  - Na drugie spotkanie należy umówić się do ... .
-  - Raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
+2. obrony projektu
+  - raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
-Link do rejestracji na spotkania:
+Na spotkania należy zapisać się do 26 listopada.
+
+**Rejestracja - grupa 3** 
+Konsultacje 1:
+Konsultacje 2:
+
+**Rejestracja - grupy 1, 2** 
+Konsultacje 1:
+Konsultacje 2:
 
 
 ### Kryteria oceniania projektu
@@ -144,7 +152,7 @@ Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowan
 
 https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678
 
-Dostęp za pomocą maila uczelnianego trwa do 13 marca.
+Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 
 Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
 -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
