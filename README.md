@@ -85,16 +85,16 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 
 Łącznie na przedmiocie można zdobyć maksymalnie 25 punktów, na co składa się:
 - 20 punktów za projekt,
-- 5 punktów za kartkówki (3, niezapowiedziane).
+- 6 punktów za kartkówki (3 po 2 pkt, niezapowiedziane).
 
 | Ocena 	                | Liczba punktów |
 |-------------------------|----------------|
-| bardzo dobry (5,0)      | [22,5; 25]     |
-| dobry plus (4,5) 	      | [20,5; 22,5)   |
-| dobry (4,0) 	          | [18; 20,5)     |
-| dostateczny plus (3,5)  | [16; 18)       |
-| dostateczny (3,0) 	    | [14; 16)       |
-| niedostateczny (2,0)    | [0; 14)        |
+| bardzo dobry (5,0)      | [23,5; 26]     |
+| dobry plus (4,5) 	      | [21; 23,5)   |
+| dobry (4,0) 	          | [18,5; 21)     |
+| dostateczny plus (3,5)  | [16,5; 18,5)       |
+| dostateczny (3,0) 	    | [14,5; 16,5)       |
+| niedostateczny (2,0)    | [0; 14,5)        |
 
 
 ## &#x1F4CB; Projekt
