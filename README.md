@@ -24,6 +24,12 @@ Aby uruchomić notebook wpisujemy w konsoli:
 jupyter notebook
 ```
 
+lub (jeśli nie mamy polecenia "jupyter")
+
+```
+python -m notebook
+```
+
 
 ## :books: Organizacja zajęć
 
