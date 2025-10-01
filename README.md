@@ -119,13 +119,13 @@ W ramach projektu wymagane są, co najmniej 2 indywidualne spotkania z prowadzą
 
 Na spotkania należy zapisać się do 26 listopada.
 
-**Rejestracja - grupa 3** 
-Konsultacje 1:
-Konsultacje 2:
+**Rejestracja - grupa 3** \
+Konsultacje 1: https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1 \
+Konsultacje 2: https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
 
-**Rejestracja - grupy 1, 2** 
-Konsultacje 1:
-Konsultacje 2:
+**Rejestracja - grupy 1, 2** \
+Konsultacje 1: https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1 \
+Konsultacje 2: https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2
 
 
 ### Kryteria oceniania projektu
