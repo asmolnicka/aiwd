@@ -12,13 +12,13 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
 
 ### :computer: Instalacja Jupyter Notebook:
 
-W konsoli:
+W wierszu poleceń:
 
 ```
 pip install notebook
 ```
 
-Aby uruchomić notebook wpisujemy w konsoli:
+Aby uruchomić notebook wpisujemy w wierszu poleceń:
 
 ```
 jupyter notebook
