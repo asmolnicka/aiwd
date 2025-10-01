@@ -10,34 +10,13 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
 
 
-### :computer: Instalacja Jupyter Notebook:
-
-W wierszu poleceń:
-
-```
-pip install notebook
-```
-
-Aby uruchomić notebook wpisujemy w wierszu poleceń:
-
-```
-jupyter notebook
-```
-
-lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
-
-```
-python -m notebook
-```
-
-Środowisko Dziobak: http://150.254.90.119 \
-Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
-
 ## :books: Organizacja zajęć
 
-1. 9 zajęć labolatoryjnych
-2. Realizacja projektu - analiza i wizualizacja wybranych danych
-
+1. 9 zajęć labolatoryjnych 
+2. Projekt - analiza wybranych danych:
+- konsultacje wstępne
+- realizacja projektu
+- konsultacje końcowe
 
 ## :calendar: Terminarz zajęć
 
@@ -77,8 +56,8 @@ Grupy nr 1, 2:
 |7. | Raportowanie 	                |                     | 24.11               |
 |8. |  	                            |                     | 1.12                |
 |9. |                               |                     | 8.12                |
-|10.| Konsultacje 1                 |                     | 15.12 + 16.12 ?     |
-|11.| Konsultacje 1                 | 	                  | 12.01 + 13.01 ?     |
+|10.| Konsultacje 1                 |                     | 15.12 + 16.12       |
+|11.| Konsultacje 1                 | 	                  | 12.01 + 13.01       |
 |12.| Konsultacje 2                 |	                    | 19.01               |
 |13.| Konsultacje 2 	              |                     | 26.01               |
 |14.| Konsultacje 2 	              |                     | 29.01               |
@@ -88,8 +67,6 @@ Grupy nr 1, 2:
 
 
 ## &#128175; Kryteria oceny z przedmiotu
-
-Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niezależnie od tego, czy są one usprawiedliwione. Odbycie obu konsultacji projektowych jest obowiązkowe.
 
 Łącznie na przedmiocie można zdobyć maksymalnie 25 punktów, na co składa się:
 - 20 punktów za projekt,
@@ -104,12 +81,14 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 | dostateczny (3,0) 	    | [14,5; 16,5)   |
 | niedostateczny (2,0)    | [0; 14,5)      |
 
+Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niezależnie od tego, czy są one usprawiedliwione. Odbycie obu konsultacji projektowych jest obowiązkowe.
+
 
 ## &#x1F4CB; Projekt
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
 
-W ramach projektu wymagane są, co najmniej 2 indywidualne spotkania z prowadzącą w celu:
+W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
 
 1. omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
   - dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
@@ -117,7 +96,7 @@ W ramach projektu wymagane są, co najmniej 2 indywidualne spotkania z prowadzą
 2. obrony projektu
   - raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
-Na spotkania należy zapisać się do 26 listopada.
+Na obie konsultacje należy zapisać się do 26. listopada.
 
 
 ### Kryteria oceniania projektu
@@ -143,34 +122,34 @@ Na spotkania należy zapisać się do 26 listopada.
 **Grupa 3** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1
-- czwartek 4, 11, 18 grudnia 8:10-9 s. 67 
+- czwartek 4., 11., 18. grudnia 8:10-9 s. 67 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
-- czwartek 8, 15, 22 stycznia 8:10-9 s. 67 
+- czwartek 8., 15., 22. stycznia 8:10-9 s. 67 
 
 **Grupa 1** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
-- poniedziałek 15 grudnia, 12 stycznia 14:55-16:35 s. 305
-- poniedziałek 15 grudnia, 12 stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
-- wtorek 16 grudnia, 13 stycznia 11:25-13:05 s. 67 * 
+- poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
+- poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+- wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
-- poniedziałek 19, 26, 29 stycznia 14:55-16:35 s. 305
-- poniedziałek 19, 29 stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+- poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
+- poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
 
 \* dzielone z grupą 2
 
 **Grupa 2** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
-- poniedziałek 15 grudnia, 12 stycznia 16:50-18:30 s. 305
-- poniedziałek 15 grudnia, 12 stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
-- wtorek 16 grudnia, 13 stycznia 11:25-13:05 s. 67 * 
+- poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
+- poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+- wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
-- poniedziałek 19, 26, 29 stycznia 16:50-18:30 s. 305
-- poniedziałek 19, 29 stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+- poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
+- poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
 
 \* dzielone z grupą 1
 
@@ -201,4 +180,26 @@ Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
 -	Web Scraping in Python
 
 
+### :computer: Instalacja Jupyter Notebook:
+
+W wierszu poleceń:
+
+```
+pip install notebook
+```
+
+Aby uruchomić notebook wpisujemy w wierszu poleceń:
+
+```
+jupyter notebook
+```
+
+lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
+
+```
+python -m notebook
+```
+
+Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
     
