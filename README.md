@@ -90,7 +90,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
 
-1. omówienia wybranego zestawu danych i kierunku pracy - przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
+1. omówienia wybranego zestawu danych i kierunku pracy - \ przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
     - dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
 
 2. obrony projektu
