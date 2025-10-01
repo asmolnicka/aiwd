@@ -14,9 +14,9 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
 
 1. 9 zajęć labolatoryjnych 
 2. Projekt - analiza wybranych danych:
-- konsultacje wstępne
-- realizacja projektu
-- konsultacje końcowe
+  - konsultacje wstępne
+  - realizacja projektu
+  - konsultacje końcowe
 
 ## :calendar: Terminarz zajęć
 
@@ -101,20 +101,20 @@ Na obie konsultacje należy zapisać się do 26. listopada.
 
 ### Kryteria oceniania projektu
 
-- **wybór danych i pytania badawcze** (2 pkt - 10%)
-    - odpowiedni dobór danych
-    - min. 5 logicznych i interesujących pytań badawczych
-- **kod i analizy** (7 pkt - 35%)
-    - czytelny, dobrze zorganizowany kod
-    - poprawne przeprowadzenie testów statystycznych
-- **raport** (5 pkt - 25%)
-    - struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski
-    - logiczne wnioski oparte na analizach
-    - estetyka, czytelność wykresów i tabel
-- **wizualizacja** (4 pkt - 20%)
-    - poprawność wykresów, odpowiednie podpisy i tytuły
-    - prawidłowa interpretacja wykresów
-- **obrona projektu** (2 pkt - 10%)
+  - **wybór danych i pytania badawcze** (2 pkt - 10%)
+      - odpowiedni dobór danych
+      - min. 5 logicznych i interesujących pytań badawczych
+  - **kod i analizy** (7 pkt - 35%)
+      - czytelny, dobrze zorganizowany kod
+      - poprawne przeprowadzenie testów statystycznych
+  - **raport** (5 pkt - 25%)
+      - struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski
+      - logiczne wnioski oparte na analizach
+      - estetyka, czytelność wykresów i tabel
+  - **wizualizacja** (4 pkt - 20%)
+      - poprawność wykresów, odpowiednie podpisy i tytuły
+      - prawidłowa interpretacja wykresów
+  - **obrona projektu** (2 pkt - 10%)
 
 
 ### Rejestracja na konsultacje
@@ -122,34 +122,34 @@ Na obie konsultacje należy zapisać się do 26. listopada.
 **Grupa 3** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1
-- czwartek 4., 11., 18. grudnia 8:10-9 s. 67 
+  - czwartek 4., 11., 18. grudnia 8:10-9 s. 67 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
-- czwartek 8., 15., 22. stycznia 8:10-9 s. 67 
+  - czwartek 8., 15., 22. stycznia 8:10-9 s. 67 
 
 **Grupa 1** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
-- poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
-- poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
-- wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
+  - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
+  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
-- poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
-- poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+  - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
+  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
 
 \* dzielone z grupą 2
 
 **Grupa 2** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
-- poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
-- poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
-- wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
+  - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
+  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
-- poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
-- poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+  - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
+  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
 
 \* dzielone z grupą 1
 
@@ -163,21 +163,21 @@ https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4e
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 
 Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
--	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
--	Data Manipulation in Python (`numpy`; `pandas`)
-- Data Visualization in Python (`matplotlib`; `seaborn`)
-- Importing & Cleaning Data in Python (`pandas`)
-- Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
-- Hypothesis Testing in Python (`pingouin`)
+  -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
+  -	Data Manipulation in Python (`numpy`; `pandas`)
+  - Data Visualization in Python (`matplotlib`; `seaborn`)
+  - Importing & Cleaning Data in Python (`pandas`)
+  - Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
+  - Hypothesis Testing in Python (`pingouin`)
 
 A także opcjonalnie:
--	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
--	Experimental Design in Python $\rightarrow$ szczególnie: Analyzing Experimental Data: Statistical Tests and Power
--	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
+  -	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
+  -	Experimental Design in Python $\rightarrow$ szczególnie: Analyzing Experimental Data: Statistical Tests and Power
+  -	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
 
 
 Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
--	Web Scraping in Python
+  -	Web Scraping in Python
 
 
 ### :computer: Instalacja Jupyter Notebook:
