@@ -68,7 +68,7 @@ Grupy nr 1, 2:
 
 ## &#128175; Kryteria oceny z przedmiotu
 
-Łącznie na przedmiocie można zdobyć maksymalnie 25 punktów, na co składa się:
+Łącznie na przedmiocie można zdobyć maksymalnie 26 punktów, na co składa się:
 - 20 punktów za projekt,
 - 6 punktów za kartkówki (3 po 2 pkt, niezapowiedziane).
 
