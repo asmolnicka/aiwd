@@ -97,7 +97,7 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 3. obrony projektu
     - raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
-Na obie konsultacje należy zapisać się do 26. listopada.
+Na obie konsultacje należy zapisać się do **26. listopada**.
 
 
 ### Kryteria oceniania projektu
