@@ -118,7 +118,7 @@ Na obie konsultacje należy zapisać się do 26. listopada.
   - **obrona projektu** (2 pkt - 10%)
 
 
-### Rejestracja na konsultacje
+### Zapisy na konsultacje
 
 **Grupa 3** 
 
