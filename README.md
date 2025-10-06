@@ -181,7 +181,7 @@ Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
   -	Web Scraping in Python
 
 
-### :computer: Instalacja Jupyter Notebook:
+## :computer: Instalacja Jupyter Notebook:
 
 W wierszu poleceń:
 
