@@ -132,12 +132,12 @@ Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
   - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
   - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
 \* dzielone z grupą 2
 
@@ -145,12 +145,12 @@ Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2:
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
   - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-15:40 s. 305 *
+  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
   - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 305 * 
+  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
 \* dzielone z grupą 1
 
