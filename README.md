@@ -88,6 +88,7 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
 
+### Dane
 
 **Strony ze zbiorami danych do pobrania**:
 - www.kaggle.com
