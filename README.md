@@ -89,13 +89,13 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
 
 
-Strony ze zbiorami danych do pobrania:
+**Strony ze zbiorami danych do pobrania**:
 - www.kaggle.com
 - www.dataquest.io/blog/free-datasets-for-projects
 - www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
 
 
-Dane oraz 5 pytań badawczych należy dobrać tak, aby:
+**Dane oraz 5 pytań badawczych** należy dobrać tak, aby:
 - wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe,
 - co najmniej dwa z pytań dotyczyły różnicy między grupami,
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi,
@@ -103,13 +103,13 @@ Dane oraz 5 pytań badawczych należy dobrać tak, aby:
 - badanie co najmniej jednej z hipotez używało metody nieparametrycznej.
 
 
-Struktura kodu:
+**Struktura kodu**:
 - wczytanie danych,
 - czyszczenie danych,
 - analiza ustalonych problemów.
 
 
-Struktura raportu:
+**Struktura raportu**:
 - strona tytułowa,
 - rozdział „Dane”:
     * czego dotyczą dane, skąd pochodzą,
