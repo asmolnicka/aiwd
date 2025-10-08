@@ -106,15 +106,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 ### Struktura kodu
 
-- wczytanie danych,
-- czyszczenie danych,
-- analiza ustalonych problemów.
+- wczytanie danych
+- czyszczenie danych
+- analiza ustalonych problemów
 
 
 ### Struktura raportu
 
-- **strona tytułowa**,
-- **rozdział „Dane”**:
+- **strona tytułowa**
+- **rozdział Dane**
     * czego dotyczą dane, skąd pochodzą,
     * skąd pobrano dane (np. z Kaggle),
     * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba),
@@ -124,13 +124,13 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
         - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
             * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów,
             * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności),
-- **rozdział „Metody”**:
+- **rozdział Metody**
     * dla każdego z problemów:
         - pytanie badawcze,
         - hipoteza badawcza,
         - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu),
         - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia,  
-- **rozdział „Wyniki”**.
+- **rozdział Wyniki**
     * dla każdego z problemów:
         - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$),
         - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie),
