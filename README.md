@@ -86,36 +86,93 @@ Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niez
 
 ## &#x1F4CB; Projekt
 
-Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych (np. ze strony https://www.kaggle.com/) oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie pdf. Raport powinien zawierać stronę tytułową, wprowadzenie, opis hipotez, opis analiz, wykresy, wnioski.
+Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
 
-W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
 
-1. omówienia wybranego zestawu danych i kierunku pracy - \
-   przygotowanie min. 5 pytań badawczych, określenie typów zmiennych i testów statystycznych.
-    - dane oraz pytania badawcze należy przesłać 2 dni przed spotkaniem.
+Strony ze zbiorami danych do pobrania:
+- www.kaggle.com
+- www.dataquest.io/blog/free-datasets-for-projects
+- www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
 
-3. obrony projektu
-    - raport w formacie .pdf oraz kod analizy w pliku .ipynb należy przesłać 5 dni przed spotkaniem.
 
-Na obie konsultacje należy zapisać się do **26. listopada**.
+Dane oraz 5 pytań badawczych należy dobrać tak, aby:
+- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe,
+- co najmniej dwa z pytań dotyczyły różnicy między grupami,
+- co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi,
+- badanie co najmniej jednej z hipotez używało metody parametrycznej,
+- badanie co najmniej jednej z hipotez używało metody nieparametrycznej.
+
+
+Struktura kodu:
+- wczytanie danych,
+- czyszczenie danych,
+- analiza ustalonych problemów.
+
+
+Struktura raportu:
+- strona tytułowa,
+- rozdział „Dane”:
+    * czego dotyczą dane, skąd pochodzą,
+    * skąd pobrano dane (np. z Kaggle),
+    * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba),
+    * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich,
+    * opis przetworzenia danych, jeśli ono wystąpiło:
+        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. uzupełnienie braków w danych),
+        - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
+            * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów,
+            * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności),
+- rozdział „Metody”:
+    * dla każdego z problemów:
+        - pytanie badawcze,
+        - hipoteza badawcza,
+        - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu),
+        - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia,  
+- rozdział „Wyniki”.
+    * dla każdego z problemów:
+        - hipotezy zerowa i alternatywna testu statystycznego (H0, H1),
+        - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie),
+        - tabele z wynikami testów statystycznych,
+        - opis wyników testów statystycznych.
+
 
 
 ### Kryteria oceniania projektu
 
   - **wybór danych i pytania badawcze** (2 pkt - 10%)
       - odpowiedni dobór danych
-      - min. 5 logicznych i interesujących pytań badawczych
-  - **kod i analizy** (7 pkt - 35%)
-      - czytelny, dobrze zorganizowany kod
-      - poprawne przeprowadzenie testów statystycznych
-  - **raport** (5 pkt - 25%)
-      - struktura: strona tytułowa, wprowadzenie, hipotezy, analiza, wnioski
-      - logiczne wnioski oparte na analizach
-      - estetyka, czytelność wykresów i tabel
-  - **wizualizacja** (4 pkt - 20%)
-      - poprawność wykresów, odpowiednie podpisy i tytuły
-      - prawidłowa interpretacja wykresów
-  - **obrona projektu** (2 pkt - 10%)
+      - poprawny dobór pytań badawczych
+  - **kod i analizy** (7,5 pkt - 37,5%)
+      - poprawne wykonanie testów statystycznych 
+      - czytelny, dobrze zorganizowany kod 
+  - **raport** (6 pkt - 30%)
+      - opis danych
+      - sformułowanie pytań i hipotez badawczych
+      - sformułowanie hipotez statystycznych
+      - wnioski oparte na analizach
+      - struktura raportu
+      - czytelność/estetyka
+  - **wizualizacja** (3,5 pkt - 17,5%)
+      - poprawność wykresów
+      - czytelność wykresów
+      - odpowiednie podpisy i tytuły
+  - **obrona projektu** (1 pkt - 5%)
+      - opowiedzenie o wykonanych działaniach i otrzymanych wynikach
+
+
+W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
+
+1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:\
+    - wczytanego w Pythonie zbioru,
+    - pytań i hipotez badawczych,
+    - zaplanowanych testów statystycznych (testów różnic oraz współczynników korelacji) odpowiednich do zweryfikowania hipotez,
+    - zaplanowanych wykresów wizualizujących badany problem.
+
+2. obrony projektu – przedstawienie:
+    - kodu analizy w pliku `.ipynb`,
+    - raportu w pliku `.pdf`.
+
+
+Na obie konsultacje należy zapisać się do **26. listopada**.
 
 
 ### Zapisy na konsultacje
