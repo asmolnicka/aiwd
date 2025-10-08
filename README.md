@@ -93,15 +93,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 **Strony ze zbiorami danych do pobrania**:
 - www.kaggle.com
 - www.dataquest.io/blog/free-datasets-for-projects
-- www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
+- www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d
 
 
 **Dane oraz 5 pytań badawczych należy dobrać tak, aby**:
-- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe,
-- co najmniej dwa z pytań dotyczyły różnicy między grupami,
-- co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi,
-- badanie co najmniej jednej z hipotez używało metody parametrycznej,
-- badanie co najmniej jednej z hipotez używało metody nieparametrycznej.
+- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe
+- co najmniej dwa z pytań dotyczyły różnicy między grupami
+- co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
+- badanie co najmniej jednej z hipotez używało metody parametrycznej
+- badanie co najmniej jednej z hipotez używało metody nieparametrycznej
 
 
 ### Struktura kodu
@@ -115,27 +115,27 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 - **strona tytułowa**
 - **rozdział Dane**
-    * czego dotyczą dane, skąd pochodzą,
-    * skąd pobrano dane (np. z Kaggle),
-    * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba),
-    * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich,
+    * czego dotyczą dane, skąd pochodzą
+    * skąd pobrano dane (np. z Kaggle)
+    * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba)
+    * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich
     * opis przetworzenia danych, jeśli ono wystąpiło:
-        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. uzupełnienie braków w danych),
+        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. uzupełnienie braków w danych)
         - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
-            * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów,
-            * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności),
+            * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów
+            * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności)
 - **rozdział Metody**
     * dla każdego z problemów:
-        - pytanie badawcze,
-        - hipoteza badawcza,
-        - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu),
-        - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia,  
+        - pytanie badawcze
+        - hipoteza badawcza
+        - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu)
+        - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia
 - **rozdział Wyniki**
     * dla każdego z problemów:
-        - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$),
-        - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie),
-        - tabele z wynikami testów statystycznych,
-        - opis wyników testów statystycznych.
+        - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$)
+        - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie)
+        - tabele z wynikami testów statystycznych
+        - opis wyników testów statystycznych
 
 
 
@@ -167,15 +167,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
 
-1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:\
-    - wczytanego w Pythonie zbioru,
-    - pytań i hipotez badawczych,
-    - zaplanowanych testów statystycznych (testów różnic oraz współczynników korelacji) odpowiednich do zweryfikowania hipotez,
-    - zaplanowanych wykresów wizualizujących badany problem.
+1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:
+    - wczytanego w Pythonie zbioru
+    - pytań i hipotez badawczych
+    - zaplanowanych testów statystycznych (testów różnic oraz współczynników korelacji) odpowiednich do zweryfikowania hipotez
+    - zaplanowanych wykresów wizualizujących badany problem
 
 2. obrony projektu – przedstawienie:
-    - kodu analizy w pliku `.ipynb`,
-    - raportu w pliku `.pdf`.
+    - kodu analizy w pliku `.ipynb`
+    - raportu w pliku `.pdf`
 
 
 Na obie konsultacje należy zapisać się do **26. listopada**.
