@@ -95,7 +95,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 - www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/
 
 
-**Dane oraz 5 pytań badawczych** należy dobrać tak, aby:
+**Dane oraz 5 pytań badawczych należy dobrać tak, aby**:
 - wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe,
 - co najmniej dwa z pytań dotyczyły różnicy między grupami,
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi,
@@ -103,15 +103,17 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 - badanie co najmniej jednej z hipotez używało metody nieparametrycznej.
 
 
-**Struktura kodu**:
+### Struktura kodu
+
 - wczytanie danych,
 - czyszczenie danych,
 - analiza ustalonych problemów.
 
 
-**Struktura raportu**:
-- strona tytułowa,
-- rozdział „Dane”:
+### Struktura raportu
+
+- **strona tytułowa**,
+- **rozdział „Dane”**:
     * czego dotyczą dane, skąd pochodzą,
     * skąd pobrano dane (np. z Kaggle),
     * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba),
@@ -121,15 +123,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
         - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
             * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów,
             * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności),
-- rozdział „Metody”:
+- **rozdział „Metody”**:
     * dla każdego z problemów:
         - pytanie badawcze,
         - hipoteza badawcza,
         - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu),
         - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia,  
-- rozdział „Wyniki”.
+- **rozdział „Wyniki”**.
     * dla każdego z problemów:
-        - hipotezy zerowa i alternatywna testu statystycznego (H0, H1),
+        - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$),
         - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie),
         - tabele z wynikami testów statystycznych,
         - opis wyników testów statystycznych.
@@ -159,6 +161,9 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
       - opowiedzenie o wykonanych działaniach i otrzymanych wynikach
 
 
+
+### Konsultacje
+
 W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
 
 1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:\
@@ -174,8 +179,6 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 
 Na obie konsultacje należy zapisać się do **26. listopada**.
 
-
-### Zapisy na konsultacje
 
 **Grupa 3** 
 
