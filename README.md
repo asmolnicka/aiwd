@@ -72,7 +72,7 @@ Grupy nr 1, 2:
 - 20 punktów za projekt,
 - 6 punktów za kartkówki (3 po 2 pkt, niezapowiedziane).
 
-| Ocena 	                | Liczba punktów |
+| Ocena 	              | Liczba punktów |
 |-------------------------|----------------|
 | bardzo dobry (5,0)      | [23,5; 26]     |
 | dobry plus (4,5) 	      | [21; 23,5)     |
@@ -184,10 +184,10 @@ Na obie konsultacje należy zapisać się do **26. listopada**.
 **Grupa 3** 
 
 Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1
-  - czwartek 4., 11., 18. grudnia 8:10-9 s. 67 
+  - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
 
 Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
-  - czwartek 8., 15., 22. stycznia 8:10-9 s. 67 
+  - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
 
 **Grupa 1** 
 
