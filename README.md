@@ -178,7 +178,7 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
     - raportu w pliku `.pdf`
 
 
-Na obie konsultacje należy zapisać się do **26. listopada**.
+Na obie konsultacje należy zapisać się do **24. listopada**.
 
 
 **Grupa 3** 
