@@ -1,0 +1,301 @@
+user_id,age,gender,education_level,occupation,country,baseline_stress_score,baseline_resilience_score,content_id,content_type,topic,difficulty,duration_minutes,timestamp,time_spent_minutes,engagement_score,feedback_rating,stress_before,stress_after,reward_category
+14,35,M,Diploma,Student,China,18,43,117,Interactive,Coping Skills,Easy,13,2024-05-07,12.77,0.92,3,32,27.3,High
+10,32,M,Postgrad,Teacher,China,29,48,115,Interactive,Resilience Building,Hard,11,2024-10-09,11.52,0.68,1,29,26.03,Medium
+27,35,M,PhD,Engineer,China,29,42,105,Video,Mindfulness,Hard,10,2024-07-08,9.3,0.8,1,34,32.84,Low
+10,32,M,Postgrad,Teacher,China,29,48,106,Article,Stress Management,Easy,16,2024-09-02,14.53,0.52,2,33,29.99,Medium
+6,41,M,Postgrad,Unemployed,China,26,35,118,Article,Mindfulness,Easy,11,2024-01-13,16.1,0.62,1,31,27.98,Medium
+24,31,M,PhD,Student,China,30,44,111,Article,Resilience Building,Easy,18,2024-10-01,16.66,0.78,3,24,19.37,High
+43,44,M,Undergrad,Unemployed,China,23,44,103,Interactive,Stress Management,Easy,13,2024-09-09,19.11,0.71,5,29,24.32,High
+15,35,F,PhD,Unemployed,China,23,31,113,Video,Stress Management,Hard,15,2024-07-10,5.22,0.68,2,32,29.43,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,113,Video,Stress Management,Hard,15,2024-01-26,18.02,0.54,3,34,32.16,Medium
+27,35,M,PhD,Engineer,China,29,42,115,Interactive,Resilience Building,Hard,11,2024-04-04,5.83,0.92,3,33,31.93,Low
+9,44,F,PhD,Teacher,China,24,45,116,Video,Stress Management,Easy,16,2024-08-23,11.13,0.97,3,23,21.18,Medium
+45,36,M,PhD,Teacher,China,21,46,118,Article,Mindfulness,Easy,11,2024-01-10,12.41,0.88,5,29,24.61,High
+7,19,F,Postgrad,Healthcare,China,15,41,116,Video,Stress Management,Easy,16,2024-05-28,10.69,0.87,2,34,29.85,High
+19,21,F,Diploma,Teacher,China,32,37,110,Interactive,Mindfulness,Hard,8,2024-12-24,16.3,0.64,3,28,24.89,Medium
+6,41,M,Postgrad,Unemployed,China,26,35,111,Article,Resilience Building,Easy,18,2024-02-28,18.42,0.9,1,32,30.91,Low
+3,43,M,Undergrad,Unemployed,China,33,40,109,Article,Coping Skills,Hard,16,2024-02-05,13.1,0.58,4,25,20.61,High
+13,38,F,Undergrad,Healthcare,China,23,36,109,Article,Coping Skills,Hard,16,2024-03-22,16.18,0.53,3,32,28.91,Medium
+43,44,M,Undergrad,Unemployed,China,23,44,110,Interactive,Mindfulness,Hard,8,2024-12-09,6.87,0.98,5,19,17.64,Low
+12,22,M,PhD,Teacher,China,33,36,113,Video,Stress Management,Hard,15,2024-02-06,8.3,0.84,5,27,22.6,High
+26,38,F,PhD,Student,China,30,42,113,Video,Stress Management,Hard,15,2024-07-11,5.87,0.54,2,32,27.04,High
+10,32,M,Postgrad,Teacher,China,29,48,110,Interactive,Mindfulness,Hard,8,2024-07-17,14.39,0.57,5,17,15.26,Medium
+16,37,M,Undergrad,Student,China,29,36,111,Article,Resilience Building,Easy,18,2024-05-02,5.47,0.97,1,32,27.26,High
+30,41,M,PhD,Unemployed,China,15,41,110,Interactive,Mindfulness,Hard,8,2024-09-18,14.83,1.0,2,26,23.46,Medium
+44,32,F,Diploma,Student,China,24,42,117,Interactive,Coping Skills,Easy,13,2024-10-19,19.05,0.52,3,20,18.28,Medium
+26,38,F,PhD,Student,China,30,42,115,Interactive,Resilience Building,Hard,11,2024-11-19,14.76,0.88,4,20,17.25,Medium
+48,32,M,Postgrad,Engineer,China,25,33,113,Video,Stress Management,Hard,15,2024-07-21,10.7,0.6,5,33,31.59,Low
+42,22,M,Postgrad,Teacher,China,28,36,113,Video,Stress Management,Hard,15,2024-08-29,7.29,0.62,4,16,13.11,Medium
+45,36,M,PhD,Teacher,China,21,46,115,Interactive,Resilience Building,Hard,11,2024-12-19,11.7,0.67,4,18,13.15,High
+37,18,F,Undergrad,Student,China,30,34,105,Video,Mindfulness,Hard,10,2024-08-26,10.96,0.77,5,17,13.3,High
+49,30,F,Postgrad,Teacher,China,21,48,119,Interactive,Mindfulness,Medium,18,2024-09-09,14.29,0.65,3,23,21.43,Medium
+25,25,M,Undergrad,Teacher,China,28,37,113,Video,Stress Management,Hard,15,2024-05-08,17.13,0.54,1,24,19.28,High
+27,35,M,PhD,Engineer,China,29,42,105,Video,Mindfulness,Hard,10,2024-09-11,19.53,0.9,4,22,20.54,Low
+42,22,M,Postgrad,Teacher,China,28,36,104,Article,Stress Management,Medium,9,2024-10-21,13.66,0.94,5,29,27.36,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,111,Article,Resilience Building,Easy,18,2024-08-16,13.7,0.78,4,16,12.6,Medium
+21,39,M,PhD,Student,China,24,33,108,Video,Coping Skills,Easy,16,2024-02-18,11.53,0.97,4,20,16.48,High
+27,35,M,PhD,Engineer,China,29,42,101,Article,Coping Skills,Medium,17,2024-10-31,11.96,0.99,4,23,21.91,Low
+9,44,F,PhD,Teacher,China,24,45,105,Video,Mindfulness,Hard,10,2024-08-14,6.58,0.83,1,32,30.63,Low
+17,29,M,PhD,Student,China,22,44,118,Article,Mindfulness,Easy,11,2024-05-13,15.65,0.66,3,16,11.71,High
+41,31,M,Undergrad,Teacher,China,17,30,111,Article,Resilience Building,Easy,18,2024-08-06,13.41,0.56,4,22,20.48,Medium
+10,32,M,Postgrad,Teacher,China,29,48,116,Video,Stress Management,Easy,16,2024-07-19,18.64,0.83,1,16,11.48,High
+11,29,M,Undergrad,Healthcare,China,34,32,107,Video,Mindfulness,Easy,16,2024-12-06,11.58,0.61,2,25,23.82,Low
+49,30,F,Postgrad,Teacher,China,21,48,113,Video,Stress Management,Hard,15,2024-04-27,6.74,0.58,3,34,30.45,High
+19,21,F,Diploma,Teacher,China,32,37,114,Interactive,Coping Skills,Medium,14,2024-10-20,17.71,0.77,4,26,22.76,Medium
+21,39,M,PhD,Student,China,24,33,116,Video,Stress Management,Easy,16,2024-12-03,14.35,0.78,2,33,31.19,Medium
+13,38,F,Undergrad,Healthcare,China,23,36,102,Quiz,Resilience Building,Hard,18,2024-07-07,18.9,0.51,5,25,20.51,High
+46,37,M,Undergrad,Engineer,China,18,34,111,Article,Resilience Building,Easy,18,2024-08-02,18.94,0.7,3,21,18.09,Medium
+3,43,M,Undergrad,Unemployed,China,33,40,114,Interactive,Coping Skills,Medium,14,2024-11-02,11.51,0.95,4,33,31.64,Low
+1,24,M,Undergrad,Teacher,China,34,44,114,Interactive,Coping Skills,Medium,14,2024-05-28,15.23,0.73,1,18,16.66,Low
+18,20,M,Undergrad,Healthcare,China,28,46,119,Interactive,Mindfulness,Medium,18,2024-02-28,9.54,0.53,1,16,12.59,Medium
+2,28,M,Postgrad,Engineer,China,22,36,107,Video,Mindfulness,Easy,16,2024-10-20,18.93,0.88,2,28,25.27,Medium
+14,35,M,Diploma,Student,China,18,43,103,Interactive,Stress Management,Easy,13,2024-06-04,8.43,0.82,2,22,17.61,High
+6,41,M,Postgrad,Unemployed,China,26,35,107,Video,Mindfulness,Easy,16,2024-07-17,18.41,0.97,5,28,23.88,High
+26,38,F,PhD,Student,China,30,42,113,Video,Stress Management,Hard,15,2024-07-24,6.88,0.67,4,21,19.12,Medium
+28,26,F,Diploma,Healthcare,China,29,42,110,Interactive,Mindfulness,Hard,8,2024-12-04,16.73,0.56,2,15,10.12,High
+26,38,F,PhD,Student,China,30,42,107,Video,Mindfulness,Easy,16,2024-02-16,10.72,0.99,4,21,17.47,High
+50,39,F,Postgrad,Unemployed,China,16,39,107,Video,Mindfulness,Easy,16,2024-09-14,17.99,0.97,2,24,20.55,Medium
+12,22,M,PhD,Teacher,China,33,36,120,Article,Coping Skills,Medium,5,2024-11-26,13.92,0.69,2,32,27.78,High
+16,37,M,Undergrad,Student,China,29,36,117,Interactive,Coping Skills,Easy,13,2024-07-14,18.87,0.72,2,34,29.51,High
+28,26,F,Diploma,Healthcare,China,29,42,101,Article,Coping Skills,Medium,17,2024-05-31,14.24,0.78,1,15,11.84,Medium
+25,25,M,Undergrad,Teacher,China,28,37,112,Interactive,Resilience Building,Easy,18,2024-10-18,17.72,0.77,1,27,24.2,Medium
+25,25,M,Undergrad,Teacher,China,28,37,111,Article,Resilience Building,Easy,18,2024-08-09,18.62,0.75,1,16,14.47,Medium
+11,29,M,Undergrad,Healthcare,China,34,32,114,Interactive,Coping Skills,Medium,14,2024-03-31,17.1,0.93,5,17,13.72,Medium
+44,32,F,Diploma,Student,China,24,42,104,Article,Stress Management,Medium,9,2024-07-11,7.69,0.85,2,29,26.19,Medium
+49,30,F,Postgrad,Teacher,China,21,48,118,Article,Mindfulness,Easy,11,2024-01-11,16.84,0.71,2,16,13.1,Medium
+48,32,M,Postgrad,Engineer,China,25,33,118,Article,Mindfulness,Easy,11,2024-03-22,12.06,0.83,4,26,22.25,High
+1,24,M,Undergrad,Teacher,China,34,44,111,Article,Resilience Building,Easy,18,2024-09-29,9.41,0.62,3,27,22.22,High
+33,20,F,Undergrad,Student,China,15,34,104,Article,Stress Management,Medium,9,2024-12-07,5.99,0.51,3,22,17.9,High
+7,19,F,Postgrad,Healthcare,China,15,41,107,Video,Mindfulness,Easy,16,2024-10-09,5.83,0.5,4,23,19.35,High
+8,43,F,Undergrad,Engineer,China,26,46,109,Article,Coping Skills,Hard,16,2024-09-23,12.98,0.55,2,27,23.73,Medium
+7,19,F,Postgrad,Healthcare,China,15,41,113,Video,Stress Management,Hard,15,2024-04-09,15.22,0.97,4,22,19.72,Medium
+34,27,M,Postgrad,Engineer,China,21,38,117,Interactive,Coping Skills,Easy,13,2024-07-20,13.6,0.66,3,17,12.69,High
+34,27,M,Postgrad,Engineer,China,21,38,119,Interactive,Mindfulness,Medium,18,2024-02-23,8.21,0.71,3,32,27.57,High
+31,25,F,Diploma,Teacher,China,25,48,101,Article,Coping Skills,Medium,17,2024-11-24,8.45,0.71,4,29,24.84,High
+35,45,F,Undergrad,Healthcare,China,21,38,117,Interactive,Coping Skills,Easy,13,2024-11-26,17.7,0.66,2,31,26.22,High
+18,20,M,Undergrad,Healthcare,China,28,46,103,Interactive,Stress Management,Easy,13,2024-06-12,14.22,0.79,5,30,28.13,Medium
+30,41,M,PhD,Unemployed,China,15,41,113,Video,Stress Management,Hard,15,2024-04-20,9.77,0.74,4,20,16.63,Medium
+1,24,M,Undergrad,Teacher,China,34,44,115,Interactive,Resilience Building,Hard,11,2024-06-02,16.56,0.67,3,19,17.92,Low
+12,22,M,PhD,Teacher,China,33,36,109,Article,Coping Skills,Hard,16,2024-08-05,8.22,0.52,2,23,21.61,Low
+37,18,F,Undergrad,Student,China,30,34,119,Interactive,Mindfulness,Medium,18,2024-07-04,11.64,0.52,2,25,20.69,High
+33,20,F,Undergrad,Student,China,15,34,118,Article,Mindfulness,Easy,11,2024-07-26,17.63,0.65,1,32,30.32,Medium
+11,29,M,Undergrad,Healthcare,China,34,32,114,Interactive,Coping Skills,Medium,14,2024-02-20,16.1,0.81,3,32,27.76,High
+10,32,M,Postgrad,Teacher,China,29,48,112,Interactive,Resilience Building,Easy,18,2024-06-25,7.0,0.63,5,31,27.22,High
+42,22,M,Postgrad,Teacher,China,28,36,113,Video,Stress Management,Hard,15,2024-05-16,9.4,0.63,3,34,30.17,High
+48,32,M,Postgrad,Engineer,China,25,33,119,Interactive,Mindfulness,Medium,18,2024-10-31,5.94,0.74,3,22,20.67,Low
+43,44,M,Undergrad,Unemployed,China,23,44,120,Article,Coping Skills,Medium,5,2024-07-27,11.91,0.91,3,34,29.26,High
+11,29,M,Undergrad,Healthcare,China,34,32,106,Article,Stress Management,Easy,16,2024-03-09,18.81,0.67,1,19,17.18,Medium
+49,30,F,Postgrad,Teacher,China,21,48,117,Interactive,Coping Skills,Easy,13,2024-10-11,15.6,0.67,3,29,26.39,Medium
+31,25,F,Diploma,Teacher,China,25,48,103,Interactive,Stress Management,Easy,13,2024-07-24,13.17,0.58,3,16,14.33,Medium
+11,29,M,Undergrad,Healthcare,China,34,32,103,Interactive,Stress Management,Easy,13,2024-04-24,8.56,0.65,4,30,26.22,High
+3,43,M,Undergrad,Unemployed,China,33,40,111,Article,Resilience Building,Easy,18,2024-06-03,11.98,0.61,3,34,31.05,Medium
+13,38,F,Undergrad,Healthcare,China,23,36,119,Interactive,Mindfulness,Medium,18,2024-03-27,8.64,0.83,4,16,14.39,Medium
+28,26,F,Diploma,Healthcare,China,29,42,104,Article,Stress Management,Medium,9,2024-12-19,10.7,0.81,4,32,28.09,High
+5,41,M,Postgrad,Engineer,China,17,31,103,Interactive,Stress Management,Easy,13,2024-03-14,12.57,0.88,2,25,20.83,High
+47,40,M,Undergrad,Healthcare,China,21,42,112,Interactive,Resilience Building,Easy,18,2024-09-14,5.16,0.7,2,26,24.5,Low
+3,43,M,Undergrad,Unemployed,China,33,40,119,Interactive,Mindfulness,Medium,18,2024-11-02,8.07,0.9,5,33,31.03,Medium
+47,40,M,Undergrad,Healthcare,China,21,42,105,Video,Mindfulness,Hard,10,2024-01-27,11.85,0.74,4,18,13.97,High
+6,41,M,Postgrad,Unemployed,China,26,35,103,Interactive,Stress Management,Easy,13,2024-03-03,9.35,0.78,5,28,24.56,Medium
+38,20,F,PhD,Student,China,26,37,116,Video,Stress Management,Easy,16,2024-09-02,13.07,0.77,4,22,20.32,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,111,Article,Resilience Building,Easy,18,2024-09-11,13.99,0.78,4,18,13.65,High
+13,38,F,Undergrad,Healthcare,China,23,36,113,Video,Stress Management,Hard,15,2024-05-24,14.3,0.77,4,24,21.84,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,117,Interactive,Coping Skills,Easy,13,2024-12-18,10.95,0.72,5,17,14.1,Medium
+43,44,M,Undergrad,Unemployed,China,23,44,114,Interactive,Coping Skills,Medium,14,2024-04-01,18.02,0.91,5,27,25.8,Low
+48,32,M,Postgrad,Engineer,China,25,33,115,Interactive,Resilience Building,Hard,11,2024-08-05,15.24,0.83,4,22,19.63,Medium
+30,41,M,PhD,Unemployed,China,15,41,112,Interactive,Resilience Building,Easy,18,2024-02-11,10.29,0.56,2,23,18.57,High
+5,41,M,Postgrad,Engineer,China,17,31,114,Interactive,Coping Skills,Medium,14,2024-01-26,7.95,0.97,2,23,19.55,Medium
+14,35,M,Diploma,Student,China,18,43,115,Interactive,Resilience Building,Hard,11,2024-03-22,10.74,0.82,4,17,13.71,Medium
+22,39,M,Postgrad,Engineer,China,32,41,115,Interactive,Resilience Building,Hard,11,2024-07-03,8.91,0.55,2,17,13.48,High
+47,40,M,Undergrad,Healthcare,China,21,42,119,Interactive,Mindfulness,Medium,18,2024-07-08,12.88,0.6,5,21,17.01,High
+9,44,F,PhD,Teacher,China,24,45,116,Video,Stress Management,Easy,16,2024-07-01,8.31,0.58,2,27,22.27,High
+17,29,M,PhD,Student,China,22,44,115,Interactive,Resilience Building,Hard,11,2024-12-27,7.09,0.76,4,18,16.68,Low
+45,36,M,PhD,Teacher,China,21,46,108,Video,Coping Skills,Easy,16,2024-07-23,5.47,0.56,4,34,30.99,Medium
+45,36,M,PhD,Teacher,China,21,46,112,Interactive,Resilience Building,Easy,18,2024-04-29,12.3,0.67,4,24,22.04,Medium
+4,28,F,Undergrad,Student,China,18,37,103,Interactive,Stress Management,Easy,13,2024-08-14,19.84,0.63,2,33,31.19,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,119,Interactive,Mindfulness,Medium,18,2024-04-10,14.74,0.65,3,31,29.78,Low
+16,37,M,Undergrad,Student,China,29,36,107,Video,Mindfulness,Easy,16,2024-10-12,12.8,0.78,2,19,14.81,High
+36,25,F,Diploma,Unemployed,China,26,31,107,Video,Mindfulness,Easy,16,2024-08-09,15.06,0.83,5,15,10.66,High
+12,22,M,PhD,Teacher,China,33,36,107,Video,Mindfulness,Easy,16,2024-10-02,10.39,0.54,2,23,18.2,High
+5,41,M,Postgrad,Engineer,China,17,31,102,Quiz,Resilience Building,Hard,18,2024-04-18,17.41,0.98,3,19,17.31,Medium
+19,21,F,Diploma,Teacher,China,32,37,107,Video,Mindfulness,Easy,16,2024-08-31,15.82,0.97,1,26,24.7,Low
+48,32,M,Postgrad,Engineer,China,25,33,107,Video,Mindfulness,Easy,16,2024-09-18,6.69,0.63,4,30,25.65,High
+6,41,M,Postgrad,Unemployed,China,26,35,109,Article,Coping Skills,Hard,16,2024-01-26,6.13,0.63,3,25,22.16,Medium
+35,45,F,Undergrad,Healthcare,China,21,38,107,Video,Mindfulness,Easy,16,2024-02-15,10.1,0.86,5,27,22.84,High
+44,32,F,Diploma,Student,China,24,42,109,Article,Coping Skills,Hard,16,2024-05-31,11.85,0.8,5,23,20.37,Medium
+16,37,M,Undergrad,Student,China,29,36,108,Video,Coping Skills,Easy,16,2024-02-11,10.28,0.77,4,24,19.84,High
+16,37,M,Undergrad,Student,China,29,36,113,Video,Stress Management,Hard,15,2024-09-09,8.57,0.97,1,33,28.84,High
+11,29,M,Undergrad,Healthcare,China,34,32,111,Article,Resilience Building,Easy,18,2024-09-22,9.55,0.7,1,19,16.13,Medium
+39,39,F,Diploma,Engineer,China,17,30,111,Article,Resilience Building,Easy,18,2024-06-14,14.29,0.58,4,34,29.34,High
+28,26,F,Diploma,Healthcare,China,29,42,112,Interactive,Resilience Building,Easy,18,2024-10-11,18.95,0.69,2,31,26.42,High
+23,19,F,Diploma,Teacher,China,24,33,119,Interactive,Mindfulness,Medium,18,2024-09-22,16.36,0.65,1,15,11.85,Medium
+31,25,F,Diploma,Teacher,China,25,48,112,Interactive,Resilience Building,Easy,18,2024-07-11,8.6,0.54,4,32,29.38,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,118,Article,Mindfulness,Easy,11,2024-12-20,15.94,0.51,1,31,28.05,Medium
+43,44,M,Undergrad,Unemployed,China,23,44,117,Interactive,Coping Skills,Easy,13,2024-12-16,10.35,0.8,5,32,28.38,High
+35,45,F,Undergrad,Healthcare,China,21,38,108,Video,Coping Skills,Easy,16,2024-03-23,6.56,0.98,2,29,24.71,High
+8,43,F,Undergrad,Engineer,China,26,46,117,Interactive,Coping Skills,Easy,13,2024-12-24,12.78,0.56,1,33,31.27,Medium
+21,39,M,PhD,Student,China,24,33,110,Interactive,Mindfulness,Hard,8,2024-03-14,10.92,0.63,2,30,25.3,High
+3,43,M,Undergrad,Unemployed,China,33,40,114,Interactive,Coping Skills,Medium,14,2024-11-27,6.08,0.63,3,32,27.84,High
+8,43,F,Undergrad,Engineer,China,26,46,118,Article,Mindfulness,Easy,11,2024-06-02,7.96,0.94,4,15,11.38,High
+10,32,M,Postgrad,Teacher,China,29,48,118,Article,Mindfulness,Easy,11,2024-09-13,17.38,0.74,2,25,22.78,Medium
+8,43,F,Undergrad,Engineer,China,26,46,105,Video,Mindfulness,Hard,10,2024-05-23,13.36,0.93,4,33,29.54,Medium
+36,25,F,Diploma,Unemployed,China,26,31,103,Interactive,Stress Management,Easy,13,2024-11-24,5.85,0.68,1,24,20.76,Medium
+16,37,M,Undergrad,Student,China,29,36,115,Interactive,Resilience Building,Hard,11,2024-07-06,5.57,0.68,4,28,24.17,High
+47,40,M,Undergrad,Healthcare,China,21,42,108,Video,Coping Skills,Easy,16,2024-12-12,11.57,0.93,5,26,24.37,Medium
+12,22,M,PhD,Teacher,China,33,36,108,Video,Coping Skills,Easy,16,2024-04-19,19.61,0.99,4,24,20.0,High
+14,35,M,Diploma,Student,China,18,43,104,Article,Stress Management,Medium,9,2024-05-03,18.96,0.5,5,16,14.44,Medium
+47,40,M,Undergrad,Healthcare,China,21,42,117,Interactive,Coping Skills,Easy,13,2024-11-13,12.05,0.93,5,30,25.31,High
+18,20,M,Undergrad,Healthcare,China,28,46,106,Article,Stress Management,Easy,16,2024-03-11,15.91,0.73,4,17,15.26,Medium
+46,37,M,Undergrad,Engineer,China,18,34,112,Interactive,Resilience Building,Easy,18,2024-08-31,11.24,0.87,2,31,27.95,Medium
+33,20,F,Undergrad,Student,China,15,34,109,Article,Coping Skills,Hard,16,2024-05-21,15.92,0.66,4,29,26.95,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,112,Interactive,Resilience Building,Easy,18,2024-03-01,16.88,0.92,1,26,22.57,Medium
+9,44,F,PhD,Teacher,China,24,45,101,Article,Coping Skills,Medium,17,2024-01-10,13.0,0.53,1,32,27.45,High
+46,37,M,Undergrad,Engineer,China,18,34,105,Video,Mindfulness,Hard,10,2024-03-14,8.45,0.62,5,30,28.08,Medium
+31,25,F,Diploma,Teacher,China,25,48,107,Video,Mindfulness,Easy,16,2024-05-17,18.13,0.71,5,33,31.86,Low
+12,22,M,PhD,Teacher,China,33,36,104,Article,Stress Management,Medium,9,2024-07-18,15.16,0.64,3,20,18.99,Low
+14,35,M,Diploma,Student,China,18,43,111,Article,Resilience Building,Easy,18,2024-06-28,16.86,0.9,2,34,32.01,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,116,Video,Stress Management,Easy,16,2024-07-13,14.25,0.99,2,27,22.56,High
+43,44,M,Undergrad,Unemployed,China,23,44,107,Video,Mindfulness,Easy,16,2024-01-24,6.99,0.62,5,18,13.95,High
+2,28,M,Postgrad,Engineer,China,22,36,111,Article,Resilience Building,Easy,18,2024-10-29,16.59,0.88,2,34,29.45,High
+7,19,F,Postgrad,Healthcare,China,15,41,102,Quiz,Resilience Building,Hard,18,2024-06-23,9.42,0.51,1,26,23.87,Medium
+21,39,M,PhD,Student,China,24,33,113,Video,Stress Management,Hard,15,2024-02-06,11.4,0.77,1,18,15.43,Medium
+2,28,M,Postgrad,Engineer,China,22,36,101,Article,Coping Skills,Medium,17,2024-05-28,9.02,0.66,4,19,16.82,Medium
+48,32,M,Postgrad,Engineer,China,25,33,116,Video,Stress Management,Easy,16,2024-11-11,8.89,0.72,2,15,11.83,Medium
+34,27,M,Postgrad,Engineer,China,21,38,106,Article,Stress Management,Easy,16,2024-09-25,17.12,0.59,1,32,28.66,Medium
+16,37,M,Undergrad,Student,China,29,36,106,Article,Stress Management,Easy,16,2024-03-14,8.78,0.73,1,21,18.08,Medium
+30,41,M,PhD,Unemployed,China,15,41,106,Article,Stress Management,Easy,16,2024-08-14,15.02,0.95,1,20,16.49,High
+23,19,F,Diploma,Teacher,China,24,33,103,Interactive,Stress Management,Easy,13,2024-12-21,8.63,0.94,4,32,30.26,Medium
+36,25,F,Diploma,Unemployed,China,26,31,111,Article,Resilience Building,Easy,18,2024-03-16,10.48,0.96,3,18,13.98,High
+18,20,M,Undergrad,Healthcare,China,28,46,111,Article,Resilience Building,Easy,18,2024-03-08,5.4,0.78,2,24,19.59,High
+6,41,M,Postgrad,Unemployed,China,26,35,120,Article,Coping Skills,Medium,5,2024-01-20,7.42,0.56,1,20,15.29,High
+21,39,M,PhD,Student,China,24,33,117,Interactive,Coping Skills,Easy,13,2024-07-10,16.13,0.87,2,27,22.28,High
+21,39,M,PhD,Student,China,24,33,118,Article,Mindfulness,Easy,11,2024-10-30,13.44,0.7,3,22,18.8,Medium
+34,27,M,Postgrad,Engineer,China,21,38,107,Video,Mindfulness,Easy,16,2024-10-01,10.0,0.61,3,24,19.58,High
+32,34,M,Postgrad,Unemployed,China,22,32,111,Article,Resilience Building,Easy,18,2024-01-10,19.13,0.53,3,33,31.91,Low
+17,29,M,PhD,Student,China,22,44,113,Video,Stress Management,Hard,15,2024-11-15,9.77,0.61,5,21,17.35,High
+22,39,M,Postgrad,Engineer,China,32,41,115,Interactive,Resilience Building,Hard,11,2024-05-25,14.24,0.75,5,32,29.15,Medium
+36,25,F,Diploma,Unemployed,China,26,31,101,Article,Coping Skills,Medium,17,2024-07-28,5.85,0.51,3,23,19.69,Medium
+9,44,F,PhD,Teacher,China,24,45,113,Video,Stress Management,Hard,15,2024-10-05,19.58,0.51,4,23,19.75,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,114,Interactive,Coping Skills,Medium,14,2024-09-10,11.96,0.75,2,25,20.18,High
+8,43,F,Undergrad,Engineer,China,26,46,105,Video,Mindfulness,Hard,10,2024-08-02,11.25,0.73,4,22,20.61,Low
+24,31,M,PhD,Student,China,30,44,119,Interactive,Mindfulness,Medium,18,2024-04-16,10.98,0.51,5,16,13.04,Medium
+36,25,F,Diploma,Unemployed,China,26,31,118,Article,Mindfulness,Easy,11,2024-04-26,18.83,0.69,5,21,17.43,High
+31,25,F,Diploma,Teacher,China,25,48,116,Video,Stress Management,Easy,16,2024-04-25,15.73,0.9,5,28,26.31,Medium
+23,19,F,Diploma,Teacher,China,24,33,101,Article,Coping Skills,Medium,17,2024-12-23,9.04,0.62,1,31,29.21,Medium
+40,20,F,Undergrad,Teacher,China,19,44,106,Article,Stress Management,Easy,16,2024-02-26,6.7,0.91,3,24,19.49,High
+30,41,M,PhD,Unemployed,China,15,41,117,Interactive,Coping Skills,Easy,13,2024-09-18,17.09,0.85,1,19,16.29,Medium
+9,44,F,PhD,Teacher,China,24,45,111,Article,Resilience Building,Easy,18,2024-02-25,5.28,0.56,3,16,13.94,Medium
+37,18,F,Undergrad,Student,China,30,34,114,Interactive,Coping Skills,Medium,14,2024-11-12,9.56,0.67,2,25,20.67,High
+49,30,F,Postgrad,Teacher,China,21,48,105,Video,Mindfulness,Hard,10,2024-04-29,5.1,0.62,5,28,25.96,Medium
+44,32,F,Diploma,Student,China,24,42,115,Interactive,Resilience Building,Hard,11,2024-06-21,14.81,0.84,5,34,30.99,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,111,Article,Resilience Building,Easy,18,2024-05-26,9.27,0.51,1,28,25.99,Medium
+48,32,M,Postgrad,Engineer,China,25,33,118,Article,Mindfulness,Easy,11,2024-09-04,6.88,0.71,1,16,13.01,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,120,Article,Coping Skills,Medium,5,2024-10-20,12.53,0.58,5,32,29.83,Medium
+49,30,F,Postgrad,Teacher,China,21,48,110,Interactive,Mindfulness,Hard,8,2024-04-03,10.76,0.72,5,19,16.01,Medium
+48,32,M,Postgrad,Engineer,China,25,33,107,Video,Mindfulness,Easy,16,2024-11-04,8.8,0.98,1,20,18.2,Medium
+45,36,M,PhD,Teacher,China,21,46,111,Article,Resilience Building,Easy,18,2024-06-17,7.74,0.57,3,29,25.47,High
+33,20,F,Undergrad,Student,China,15,34,117,Interactive,Coping Skills,Easy,13,2024-08-15,16.19,0.6,5,34,30.01,High
+47,40,M,Undergrad,Healthcare,China,21,42,104,Article,Stress Management,Medium,9,2024-11-05,11.53,0.65,4,33,30.05,Medium
+6,41,M,Postgrad,Unemployed,China,26,35,119,Interactive,Mindfulness,Medium,18,2024-12-06,13.61,0.93,2,34,31.79,Medium
+28,26,F,Diploma,Healthcare,China,29,42,115,Interactive,Resilience Building,Hard,11,2024-02-07,8.37,0.94,4,33,29.63,Medium
+26,38,F,PhD,Student,China,30,42,108,Video,Coping Skills,Easy,16,2024-05-23,12.93,0.65,1,26,21.61,High
+35,45,F,Undergrad,Healthcare,China,21,38,104,Article,Stress Management,Medium,9,2024-08-04,6.99,0.51,3,15,12.95,Medium
+21,39,M,PhD,Student,China,24,33,117,Interactive,Coping Skills,Easy,13,2024-07-20,13.37,0.83,1,31,27.41,High
+42,22,M,Postgrad,Teacher,China,28,36,103,Interactive,Stress Management,Easy,13,2024-03-10,12.89,0.97,2,26,24.34,Medium
+1,24,M,Undergrad,Teacher,China,34,44,106,Article,Stress Management,Easy,16,2024-12-17,12.66,0.78,2,31,29.54,Low
+9,44,F,PhD,Teacher,China,24,45,102,Quiz,Resilience Building,Hard,18,2024-11-26,11.5,0.9,1,32,28.52,Medium
+17,29,M,PhD,Student,China,22,44,107,Video,Mindfulness,Easy,16,2024-08-15,14.92,0.7,5,34,29.41,High
+13,38,F,Undergrad,Healthcare,China,23,36,118,Article,Mindfulness,Easy,11,2024-01-29,18.97,0.7,2,18,13.37,High
+47,40,M,Undergrad,Healthcare,China,21,42,116,Video,Stress Management,Easy,16,2024-08-06,13.28,0.68,4,33,28.15,High
+32,34,M,Postgrad,Unemployed,China,22,32,102,Quiz,Resilience Building,Hard,18,2024-12-21,19.35,0.68,5,33,31.93,Low
+43,44,M,Undergrad,Unemployed,China,23,44,109,Article,Coping Skills,Hard,16,2024-08-31,10.58,0.64,5,23,21.88,Low
+7,19,F,Postgrad,Healthcare,China,15,41,120,Article,Coping Skills,Medium,5,2024-10-11,14.55,0.7,3,31,27.37,High
+2,28,M,Postgrad,Engineer,China,22,36,102,Quiz,Resilience Building,Hard,18,2024-08-29,8.94,0.62,4,20,16.47,High
+6,41,M,Postgrad,Unemployed,China,26,35,115,Interactive,Resilience Building,Hard,11,2024-05-24,12.54,0.73,2,32,27.56,High
+41,31,M,Undergrad,Teacher,China,17,30,115,Interactive,Resilience Building,Hard,11,2024-08-03,9.7,0.8,2,33,29.54,Medium
+38,20,F,PhD,Student,China,26,37,103,Interactive,Stress Management,Easy,13,2024-03-04,9.44,0.77,2,21,18.22,Medium
+22,39,M,Postgrad,Engineer,China,32,41,113,Video,Stress Management,Hard,15,2024-11-04,15.34,0.98,5,30,28.45,Medium
+37,18,F,Undergrad,Student,China,30,34,117,Interactive,Coping Skills,Easy,13,2024-07-26,5.65,0.56,2,31,27.73,Medium
+41,31,M,Undergrad,Teacher,China,17,30,109,Article,Coping Skills,Hard,16,2024-07-19,19.25,0.9,5,18,13.85,High
+12,22,M,PhD,Teacher,China,33,36,105,Video,Mindfulness,Hard,10,2024-11-25,10.72,0.75,2,18,15.28,Medium
+50,39,F,Postgrad,Unemployed,China,16,39,110,Interactive,Mindfulness,Hard,8,2024-12-15,14.54,0.97,2,15,11.6,Medium
+16,37,M,Undergrad,Student,China,29,36,113,Video,Stress Management,Hard,15,2024-05-13,19.16,0.76,3,27,22.53,High
+2,28,M,Postgrad,Engineer,China,22,36,120,Article,Coping Skills,Medium,5,2024-03-10,19.48,0.97,4,30,26.77,Medium
+24,31,M,PhD,Student,China,30,44,107,Video,Mindfulness,Easy,16,2024-03-30,19.8,0.7,5,22,20.87,Low
+14,35,M,Diploma,Student,China,18,43,101,Article,Coping Skills,Medium,17,2024-08-02,17.63,0.91,5,18,16.59,Low
+16,37,M,Undergrad,Student,China,29,36,113,Video,Stress Management,Hard,15,2024-04-04,10.81,0.81,3,31,26.56,High
+22,39,M,Postgrad,Engineer,China,32,41,109,Article,Coping Skills,Hard,16,2024-06-21,7.62,0.54,2,30,25.58,High
+13,38,F,Undergrad,Healthcare,China,23,36,113,Video,Stress Management,Hard,15,2024-04-24,18.96,0.71,4,17,12.09,High
+43,44,M,Undergrad,Unemployed,China,23,44,106,Article,Stress Management,Easy,16,2024-02-08,15.61,0.95,2,27,24.62,Medium
+26,38,F,PhD,Student,China,30,42,101,Article,Coping Skills,Medium,17,2024-10-15,19.2,0.62,5,18,14.54,Medium
+34,27,M,Postgrad,Engineer,China,21,38,112,Interactive,Resilience Building,Easy,18,2024-06-23,15.17,0.77,1,20,18.22,Medium
+24,31,M,PhD,Student,China,30,44,113,Video,Stress Management,Hard,15,2024-04-04,15.61,0.66,1,21,17.59,Medium
+29,18,M,PhD,Engineer,China,21,38,101,Article,Coping Skills,Medium,17,2024-09-10,7.92,0.81,4,29,24.47,High
+15,35,F,PhD,Unemployed,China,23,31,110,Interactive,Mindfulness,Hard,8,2024-10-03,18.51,0.66,2,29,26.04,Medium
+13,38,F,Undergrad,Healthcare,China,23,36,103,Interactive,Stress Management,Easy,13,2024-08-04,8.78,0.98,4,22,17.08,High
+41,31,M,Undergrad,Teacher,China,17,30,117,Interactive,Coping Skills,Easy,13,2024-02-24,12.6,0.92,5,19,16.71,Medium
+26,38,F,PhD,Student,China,30,42,110,Interactive,Mindfulness,Hard,8,2024-07-15,15.2,0.82,4,22,19.33,Medium
+25,25,M,Undergrad,Teacher,China,28,37,120,Article,Coping Skills,Medium,5,2024-01-03,12.06,0.69,2,23,20.2,Medium
+46,37,M,Undergrad,Engineer,China,18,34,120,Article,Coping Skills,Medium,5,2024-06-09,19.13,0.92,4,33,28.3,High
+49,30,F,Postgrad,Teacher,China,21,48,116,Video,Stress Management,Easy,16,2024-02-19,12.14,0.52,4,28,25.37,Medium
+35,45,F,Undergrad,Healthcare,China,21,38,102,Quiz,Resilience Building,Hard,18,2024-11-03,15.05,0.83,2,22,19.55,Medium
+44,32,F,Diploma,Student,China,24,42,112,Interactive,Resilience Building,Easy,18,2024-09-07,8.56,0.66,3,20,16.0,High
+16,37,M,Undergrad,Student,China,29,36,104,Article,Stress Management,Medium,9,2024-03-01,19.4,0.76,3,22,17.59,High
+39,39,F,Diploma,Engineer,China,17,30,120,Article,Coping Skills,Medium,5,2024-03-30,16.79,0.95,1,30,25.13,High
+7,19,F,Postgrad,Healthcare,China,15,41,103,Interactive,Stress Management,Easy,13,2024-10-28,7.05,0.79,3,28,24.5,Medium
+5,41,M,Postgrad,Engineer,China,17,31,111,Article,Resilience Building,Easy,18,2024-01-04,11.22,0.52,1,28,23.61,High
+35,45,F,Undergrad,Healthcare,China,21,38,119,Interactive,Mindfulness,Medium,18,2024-05-25,16.6,0.54,4,22,18.3,High
+25,25,M,Undergrad,Teacher,China,28,37,109,Article,Coping Skills,Hard,16,2024-04-09,14.82,0.84,2,17,15.73,Low
+41,31,M,Undergrad,Teacher,China,17,30,117,Interactive,Coping Skills,Easy,13,2024-12-30,13.06,0.95,2,24,20.23,High
+8,43,F,Undergrad,Engineer,China,26,46,108,Video,Coping Skills,Easy,16,2024-10-23,14.98,0.92,1,30,27.29,Medium
+29,18,M,PhD,Engineer,China,21,38,105,Video,Mindfulness,Hard,10,2024-01-31,8.73,0.84,3,24,19.16,High
+17,29,M,PhD,Student,China,22,44,103,Interactive,Stress Management,Easy,13,2024-12-11,6.55,0.6,1,27,23.07,High
+39,39,F,Diploma,Engineer,China,17,30,103,Interactive,Stress Management,Easy,13,2024-09-09,16.06,0.5,5,18,13.86,High
+26,38,F,PhD,Student,China,30,42,108,Video,Coping Skills,Easy,16,2024-11-20,18.18,0.88,5,26,22.08,High
+39,39,F,Diploma,Engineer,China,17,30,115,Interactive,Resilience Building,Hard,11,2024-07-23,20.0,0.69,2,15,13.89,Low
+37,18,F,Undergrad,Student,China,30,34,118,Article,Mindfulness,Easy,11,2024-02-20,19.96,0.97,5,23,19.2,High
+46,37,M,Undergrad,Engineer,China,18,34,116,Video,Stress Management,Easy,16,2024-05-02,13.89,0.55,2,20,16.31,High
+7,19,F,Postgrad,Healthcare,China,15,41,109,Article,Coping Skills,Hard,16,2024-11-22,16.84,0.84,4,29,26.33,Medium
+18,20,M,Undergrad,Healthcare,China,28,46,111,Article,Resilience Building,Easy,18,2024-07-04,14.33,0.53,3,16,11.24,High
+43,44,M,Undergrad,Unemployed,China,23,44,114,Interactive,Coping Skills,Medium,14,2024-10-27,11.37,0.57,2,25,22.91,Medium
+11,29,M,Undergrad,Healthcare,China,34,32,115,Interactive,Resilience Building,Hard,11,2024-03-29,6.27,0.87,3,31,29.0,Medium
+1,24,M,Undergrad,Teacher,China,34,44,102,Quiz,Resilience Building,Hard,18,2024-08-29,7.42,0.71,5,22,19.18,Medium
+32,34,M,Postgrad,Unemployed,China,22,32,119,Interactive,Mindfulness,Medium,18,2024-08-02,10.57,0.64,2,29,27.36,Medium
+33,20,F,Undergrad,Student,China,15,34,103,Interactive,Stress Management,Easy,13,2024-03-11,11.41,0.77,1,30,25.01,High
+16,37,M,Undergrad,Student,China,29,36,119,Interactive,Mindfulness,Medium,18,2024-12-10,10.98,0.88,2,17,13.39,High
+29,18,M,PhD,Engineer,China,21,38,108,Video,Coping Skills,Easy,16,2024-05-15,8.98,0.67,1,15,13.2,Medium
+26,38,F,PhD,Student,China,30,42,118,Article,Mindfulness,Easy,11,2024-05-26,6.66,0.91,4,18,16.58,Low
+46,37,M,Undergrad,Engineer,China,18,34,105,Video,Mindfulness,Hard,10,2024-09-27,14.1,0.93,3,31,29.57,Low
+40,20,F,Undergrad,Teacher,China,19,44,120,Article,Coping Skills,Medium,5,2024-06-27,18.89,0.51,2,25,23.81,Low
+40,20,F,Undergrad,Teacher,China,19,44,105,Video,Mindfulness,Hard,10,2024-07-17,6.67,0.95,2,18,14.12,High
+18,20,M,Undergrad,Healthcare,China,28,46,103,Interactive,Stress Management,Easy,13,2024-01-18,11.57,0.89,3,34,29.26,High
+9,44,F,PhD,Teacher,China,24,45,108,Video,Coping Skills,Easy,16,2024-08-10,19.43,0.89,5,25,20.96,High
+42,22,M,Postgrad,Teacher,China,28,36,119,Interactive,Mindfulness,Medium,18,2024-05-17,13.35,0.57,5,24,22.6,Low
+20,21,M,PhD,Teacher,China,16,35,118,Article,Mindfulness,Easy,11,2024-08-21,13.16,0.76,3,16,14.69,Low
+29,18,M,PhD,Engineer,China,21,38,114,Interactive,Coping Skills,Medium,14,2024-03-17,10.22,0.7,5,25,22.19,Medium
+23,19,F,Diploma,Teacher,China,24,33,114,Interactive,Coping Skills,Medium,14,2024-09-30,12.23,0.52,3,21,18.32,Medium
+12,22,M,PhD,Teacher,China,33,36,107,Video,Mindfulness,Easy,16,2024-05-07,8.69,0.93,3,28,23.99,High
+19,21,F,Diploma,Teacher,China,32,37,105,Video,Mindfulness,Hard,10,2024-03-15,6.65,0.89,3,18,13.18,High
+4,28,F,Undergrad,Student,China,18,37,120,Article,Coping Skills,Medium,5,2024-09-30,6.54,0.72,1,27,23.38,High
+18,20,M,Undergrad,Healthcare,China,28,46,110,Interactive,Mindfulness,Hard,8,2024-10-25,18.89,0.73,5,34,30.3,High
+17,29,M,PhD,Student,China,22,44,114,Interactive,Coping Skills,Medium,14,2024-05-12,16.97,0.89,5,30,25.04,High
+6,41,M,Postgrad,Unemployed,China,26,35,110,Interactive,Mindfulness,Hard,8,2024-04-09,7.85,0.83,2,16,13.19,Medium
+39,39,F,Diploma,Engineer,China,17,30,102,Quiz,Resilience Building,Hard,18,2024-11-14,11.33,0.94,5,33,28.75,High
+27,35,M,PhD,Engineer,China,29,42,107,Video,Mindfulness,Easy,16,2024-03-18,13.2,0.63,1,15,13.19,Medium
+39,39,F,Diploma,Engineer,China,17,30,111,Article,Resilience Building,Easy,18,2024-06-11,12.08,0.87,3,30,26.32,High
+48,32,M,Postgrad,Engineer,China,25,33,104,Article,Stress Management,Medium,9,2024-11-15,11.29,0.79,3,20,18.72,Low
+16,37,M,Undergrad,Student,China,29,36,120,Article,Coping Skills,Medium,5,2024-09-29,14.01,0.63,5,22,18.06,High
+8,43,F,Undergrad,Engineer,China,26,46,102,Quiz,Resilience Building,Hard,18,2024-08-28,5.87,0.76,2,18,15.94,Medium
+17,29,M,PhD,Student,China,22,44,118,Article,Mindfulness,Easy,11,2024-12-01,14.55,0.65,3,33,30.36,Medium
+3,43,M,Undergrad,Unemployed,China,33,40,107,Video,Mindfulness,Easy,16,2024-03-15,13.79,0.89,4,24,22.8,Low
+11,29,M,Undergrad,Healthcare,China,34,32,105,Video,Mindfulness,Hard,10,2024-11-20,5.06,0.7,5,17,13.5,Medium
+23,19,F,Diploma,Teacher,China,24,33,102,Quiz,Resilience Building,Hard,18,2024-02-05,11.01,0.57,2,20,16.25,High
+7,19,F,Postgrad,Healthcare,China,15,41,120,Article,Coping Skills,Medium,5,2024-08-05,18.47,0.81,1,30,25.65,High
+11,29,M,Undergrad,Healthcare,China,34,32,116,Video,Stress Management,Easy,16,2024-05-24,6.96,0.9,3,20,18.65,Low
+3,43,M,Undergrad,Unemployed,China,33,40,112,Interactive,Resilience Building,Easy,18,2024-09-20,12.23,0.52,4,32,27.23,High
+29,18,M,PhD,Engineer,China,21,38,120,Article,Coping Skills,Medium,5,2024-08-14,11.95,0.66,3,27,23.5,Medium
+17,29,M,PhD,Student,China,22,44,119,Interactive,Mindfulness,Medium,18,2024-06-01,9.16,0.93,3,25,20.96,High
+50,39,F,Postgrad,Unemployed,China,16,39,117,Interactive,Coping Skills,Easy,13,2024-12-22,8.86,0.88,2,27,24.61,Medium
+22,39,M,Postgrad,Engineer,China,32,41,105,Video,Mindfulness,Hard,10,2024-12-01,10.12,0.98,2,34,29.26,High
+43,44,M,Undergrad,Unemployed,China,23,44,102,Quiz,Resilience Building,Hard,18,2024-07-27,12.43,0.97,3,33,29.69,Medium
+37,18,F,Undergrad,Student,China,30,34,114,Interactive,Coping Skills,Medium,14,2024-03-28,11.41,0.56,4,23,21.45,Medium
+14,35,M,Diploma,Student,China,18,43,114,Interactive,Coping Skills,Medium,14,2024-12-24,7.6,0.57,3,15,13.18,Medium
