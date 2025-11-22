@@ -133,7 +133,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 - **rozdział Wyniki**
     * dla każdego z problemów:
         - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$)
-        - wykres rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem (jeśli jest to możliwe, na jednym wykresie)
+        - wykres wspólnego rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem
         - tabele z wynikami testów statystycznych
         - opis wyników testów statystycznych
 
@@ -170,7 +170,7 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:
     - wczytanego w Pythonie zbioru
     - pytań i hipotez badawczych
-    - zaplanowanych testów statystycznych (testów różnic oraz współczynników korelacji) odpowiednich do zweryfikowania hipotez
+    - zaplanowanych testów statystycznych (testów różnic, istotności współczynników korelacji oraz testów wstępnych) odpowiednich do zweryfikowania hipotez
     - zaplanowanych wykresów wizualizujących badany problem
 
 2. obrony projektu – przedstawienie:
