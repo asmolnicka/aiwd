@@ -171,7 +171,7 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:
     - wczytanego w Pythonie zbioru
     - pytań i hipotez badawczych
-    - zaplanowanych testów statystycznych (testów wstępnych, zależnych od ich wyników testów docelowych i post-hoc) odpowiednich do zweryfikowania hipotez
+    - zaplanowanych testów statystycznych (testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc) odpowiednich do zweryfikowania hipotez
     - zaplanowanych wykresów wizualizujących badany problem
 
 2. obrony projektu – przedstawienie:
