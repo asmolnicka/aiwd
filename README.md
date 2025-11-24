@@ -128,14 +128,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
     * dla każdego z problemów:
         - pytanie badawcze
         - hipoteza badawcza
-        - nazwa zastosowanego testu statystycznego (lub testów jeśli wpierw testujemy założenia docelowego testu)
-        - ewentualne dodatkowe informacje na temat zastosowania testu, jeśli przyjęto jakieś założenia
+        - nazwa zastosowanego testu statystycznego (lub testów jeśli konieczne są również testy wstępne lub testy post-hoc)
+        - opis wyników testów wstępnych, jeśli są konieczne
+        - ewentualne dodatkowe informacje na temat zastosowania testów, jeśli przyjęto jakieś założenia
 - **rozdział Wyniki**
     * dla każdego z problemów:
         - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$)
         - wykres wspólnego rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem
-        - tabele z wynikami testów statystycznych
-        - opis wyników testów statystycznych
+        - tabele z wynikami testów statystycznych (właściwego i post-hoc)
+        - opis wyników testów statystycznych (właściwego i post-hoc)
 
 
 
