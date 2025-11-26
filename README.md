@@ -91,7 +91,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 ### Dane
 
 **Strony ze zbiorami danych do pobrania**:
-- www.kaggle.com
+- www.kaggle.com/datasets
 - www.dataquest.io/blog/free-datasets-for-projects
 - www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d
 
