@@ -100,7 +100,6 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 - wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe
 - co najmniej dwa z pytań dotyczyły różnicy między grupami
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
-- badanie co najmniej jednej z hipotez używało metody parametrycznej
 - badanie co najmniej jednej z hipotez używało metody nieparametrycznej
 
 
