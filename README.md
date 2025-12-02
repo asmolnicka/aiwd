@@ -81,7 +81,7 @@ Grupy nr 1, 2:
 | dostateczny (3,0) 	  | [14,5; 16,5)   |
 | niedostateczny (2,0)    | [0; 14,5)      |
 
-Dozwolone są maksymalnie 2 nieobecności (zgodnie z regulaminem studiów), niezależnie od tego, czy są one usprawiedliwione. Odbycie obu konsultacji projektowych jest obowiązkowe.
+Dozwolone są maksymalnie 2 nieobecności. Odbycie obu konsultacji projektowych jest obowiązkowe.
 
 
 ## &#x1F4CB; Projekt
