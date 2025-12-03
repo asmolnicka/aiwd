@@ -95,12 +95,15 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 - www.dataquest.io/blog/free-datasets-for-projects
 - www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d
 
+Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
 
 **Dane oraz 5 pytań badawczych należy dobrać tak, aby**:
 - wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe
 - co najmniej dwa z pytań dotyczyły różnicy między grupami
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
 - badanie co najmniej jednej z hipotez używało metody nieparametrycznej
+
+Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, zmiennymi powstałymi z ich modyfikacji lub zmiennymi stanowiącymi podzbiory oryginalnych zmiennych.
 
 
 ### Struktura kodu
