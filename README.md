@@ -176,10 +176,13 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
     - zaplanowanych testów statystycznych (testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc) odpowiednich do zweryfikowania hipotez
     - zaplanowanych wykresów wizualizujących badany problem
 
+    Należy je przesłać do 2 dni przed spotkaniem.
+
 2. obrony projektu – przedstawienie:
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
+    Należy je przesłać do 5 dni przed spotkaniem.
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
