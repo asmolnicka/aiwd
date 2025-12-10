@@ -12,7 +12,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
 
 ## :books: Organizacja zajęć
 
-1. 9 zajęć labolatoryjnych 
+1. 9 zajęć laboratoryjnych 
 2. Projekt - analiza wybranych danych:
     - konsultacje wstępne
     - realizacja projektu
