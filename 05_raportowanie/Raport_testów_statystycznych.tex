@@ -1,0 +1,1618 @@
+\documentclass[12pt,a4paper]{article}
+
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{adjustbox}
+\usepackage{setspace}
+
+\geometry{margin=2.5cm}
+\setstretch{1.2}
+
+\usepackage{titlesec}
+\titlelabel{\thetitle.\quad}
+
+\usepackage{enumitem}
+
+\setlist[itemize,1]{label=\tiny$\blacksquare$}   
+\setlist[itemize,2]{label=$\circ$}          
+\setlist[itemize,3]{label=$\bullet$}        
+
+
+
+\definecolor{lightkhaki}{rgb}{0.94, 0.9, 0.55}
+\hypersetup{                       
+    linktoc=all,
+    citebordercolor=lightkhaki,
+    linkbordercolor=lightkhaki,
+    urlbordercolor=lightkhaki
+}
+
+
+\makeatletter
+\newcommand{\thickhline}{%                              
+	\noalign {\ifnum 0=`}\fi \hrule height 1pt
+	\futurelet \reserved@a \@xhline}
+
+\usepackage{makecell}
+
+\newcommand{\tabelfont}{\fontsize{10}{12}\selectfont}    
+\setlength{\extrarowheight}{5pt}                        
+\newcolumntype{?}{!{\vrule width 1.2pt}}                
+
+
+
+\title{Raportowanie wyników testów\\[1ex]statystycznych dwóch zmiennych}
+\author{}
+\date{}
+
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\newpage
+
+\section{Struktura raportowania}
+
+\subsection{Rozdział Metody}
+
+\begin{itemize}
+    \item \textbf{pytanie badawcze} - pytanie, na które spróbujemy znaleźć odpowiedź
+        \begin{itemize}
+            \item Bezpośrednio związane z hipotezą badawczą, ale często poprzedzone dodatkowo słowem ,,czy''.
+        \end{itemize}
+
+    \item \textbf{hipoteza badawcza} - zakładana odpowiedź na pytanie badawcze
+    \begin{itemize}
+        \item Od hipotez testowych $H_0$ i $H_1$ różni się tym, że:
+        \begin{itemize}
+            \item jej sformułowanie jest bardziej ogólne, często dotyczy zmiennych jeszcze sprzed operacjonalizacji, a nie konkretnych zależności w danych,
+            \item jest zgodna tylko z jedną z nich - częściej z $H_1$ niż z $H_0$.
+        \end{itemize}
+    \end{itemize}
+
+    \item \textbf{nazwy zastosowanych testów statystycznego} do zbadania problemu
+     \begin{itemize}
+        \item Jeśli zmienna jest ilościowa, raportujemy o wykonaniu wybranych testów wstępnych, by sprawdzić założenia odpowiedniego testu parametrycznego, a następnie, na podstawie ich wyników, podajemy ostatecznie wybrany test właściwy. W przypadku pozostałych zmiennych, od razu podajemy nazwę testu właściwego.
+        \item Jeśli uzyskany wynik z testu dla więcej niż 2 prób jest istotny statystycznie, to uprzedzamy fakty i podajemy przy nim od razu nazwę testów post-hoc. Jeśli nie jest, pomijamy o nich informację i podajemy jedynie nazwę testu dla kilku prób.
+    \end{itemize}   
+
+    \item \textbf{opis wyników testów wstępnych}, jeśli były one wykonane
+    \begin{itemize}
+        \item Dla testów wstępnych oraz testów post-hoc zwykle nie zamieszczamy w raporcie badanych hipotez.
+        \item Wyniki testów wstępnych można zamieścić w tym rozdziale, by w rozdziale ,,Wyniki'' zamieścić już kluczowe i gotowe do interpretacji analizy.
+        \item Jeśli z powodu nienormalności rozkładu zmiennej wykonaliśmy skuteczną transformację danych, to należy napisać jakie to było przekształcenie i przedstawić wyniki testu wstępnego jedynie dla już przekształconych danych.
+    \end{itemize}
+
+    \item \textbf{ewentualne dodatkowe informacje na temat zastosowania testów}, jeśli przyjęto jakieś założenia
+    \begin{itemize}
+        \item Jeśli może być coś jeszcze nieoczywistego dla czytelnika, jak wykonano podane testy statystyczne, to należy o tym zareportować.
+    \end{itemize}
+\end{itemize}
+
+
+
+\subsection{Rozdział Wyniki}
+
+\begin{itemize}
+    \item \textbf{hipotezy testowe} - zerowa i alternatywna -\newline
+          obie hipotezy, które przeciwstawia sobie wybrany test statystyczny
+
+    \item \textbf{wykres wspólnego rozkładu zmiennych}\newline
+          biorących udział w teście statystycznym, wizualizujący badany problem
+    \begin{itemize}
+        \item \underline{Pod} wykresem powinien znaleźć się podpis rozpoczęty numerem wykresu. Jego postać w zależności od typu wykresu może być na przykład taka:
+        \begin{itemize}
+            \item wykres bez zmiennej grupującej (wykres rozrzutu, mapa ciepła):\\  
+            ,,Rozkład $x$ i $y$ względem siebie''
+            \item wykres ze zmienną grupującą:
+            \begin{itemize}
+                \item ,,Rozkład $x$ względem $y$''
+                \item ,,Rozkład $x$ w zależności od $y$''
+                \item ,,Rozkład $x$ dla/wśród/w poszczególnych $y$''
+                \item ,,Rozkład $x$ poszczególnych $y$''
+            \end{itemize}
+        \end{itemize}
+        \item Jeśli na wykresie pojawiają się skróty lub coś innego wymaga wyjaśnienia, to~należy to dodać do podpisu wykresu.
+        \begin{itemize}
+            \item W szczególności, jeśli wykres słupkowy zawiera słupki błędów, to należy napisać, co one określają, np. ,,Słupki błędów: odchylenie standardowe''.
+        \end{itemize}
+        \item Wykres niebędący częścią wykresu panelowego nie powinien zawierać tytułu.
+        \item Wykres powinien zawierać podpisy osi i jeśli jest taka potrzeba, odpowiednie dla zmiennych jednostki umieszczone w kwadratowych nawiasach.
+        \item Wykres powinien być czytelny, w szczególności nie zawierać zbędnych dla jego zrozumienia elementów.
+    \end{itemize}
+
+    \item \textbf{tabele z wynikami testów statystycznych} (właściwego i post-hoc)
+    \begin{itemize}
+        \item Tabele raportujące wynik testu statystycznego powinny zawierać:
+        \begin{itemize}
+            \item rozkład badanych zmiennych
+            \begin{itemize}
+                \item[] Dla testów parametrycznych zwykle warto zawrzeć $n$, $m$, $sd$,
+                \item[] a dla nieparametrycznych $n$, $med$, $IQR$.
+            \end{itemize}
+            \item wartości związane z testem:
+            \begin{itemize}
+                \item[] stopnie swobody, statystyki testowe, wartości \emph{p}
+            \end{itemize}
+            \item wielkość efektu (warto nawet jeśli wynik jest statystycznie nieistotny),
+        \end{itemize}
+        \item \underline{Nad} wykresem powinien znaleźć się podpis rozpoczęty numerem tabeli.
+        \item Jeśli na wykresie pojawiają się skróty lub coś innego wymaga wyjaśnienia, to~należy to zawrzeć w adnotacji pod tabelą.
+        \begin{itemize}
+            \item W szczególności, pod tabelą należy zawrzeć wyjaśnienia oznaczeń stopnia statystycznej istotności wyników - tylko występujących w danej tabeli lub wszystkich używanych w raporcie niezależnie od ich występowania w~danej tabeli.
+        \end{itemize}
+    \end{itemize}
+
+    \item \textbf{opis wyników testów statystycznych} (właściwego i post-hoc)
+    \begin{itemize}
+        \item Wnioski z testu statystycznego powinny być zawarte w języku naturalnym, a~odpowiednie statystyki i wartości związane z testem powinny być umieszczone w nawiasach.
+        \item Jeśli wyniki przedstawione w zdaniu odnoszą się do zawartości tabeli (lub wykresu), to powinno się zamieścić w nim odpowiednie odwołanie. Jeśli zdania po nim następujące mają to samo odniesienie, nie trzeba już powtarzać tego odwołania.
+        \item Jeśli wyniki testu istotności różnic są zamieszczone również w tabeli, to we wniosku przy wyniku nieistotnym statystycznie, można pominąć wielkość efektu, a umieścić go jedynie w tabeli.
+    \end{itemize}
+\end{itemize}
+
+
+\subsection{Ogólne wskazania}
+
+\begin{itemize}
+    \item Wszystkie liczby w raporcie powinny mieć tą samą liczbę cyfr po przecinku, zazwyczaj wystarczające są dwie.
+    \begin{itemize}
+        \item Wyjątek w raporcie mogą stanowić wartości $p$, które są na granicy któregoś ze stopni istotności (np. $< 0{,}05$ lub $< 0{,}001$) i dla których przy ustalonej liczbie cyfr może nie być jasne, w którym przedziale się one znajdują — wtedy można podać odpowiednio większą liczbę cyfr.
+    \end{itemize}
+    \item Znaki dziesiętne w raporcie powinny być dopasowane do języka raportu - w języku polskim znakiem dziesiętnym jest przecinek, a różne liczby możemy w raporcie oddzielać średnikiem. 
+    \item Jeśli wartość $p$ wynosi mniej niż $0{,}001$, to we wniosku, opcjonalnie również w tabeli, zamiast dokładnej wartości podajemy ,,$< 0{,}001$''.
+    \item Dodanie do testów statystycznych interpretacji wielkości efektu jest wartościowe, ale nie konieczne.
+    \item Skróty z pierwszym pojawieniem się w raporcie powinny zostać rozwinięte,\newline
+          np. 1. ,,analiza wariancji (ANOVA)'', 2. ,,ANOVA''.
+    \item Dozwolone jest zareportowanie testu Welcha pod nazwą testu Studenta.
+    \item Wyniki testów statystycznych dla wielu prób zależnych raportuje się analogicznie do raportowania wyników testów dla wielu prób niezależnych.
+\end{itemize}
+
+\subsection{Uwagi statystyczne}
+
+\begin{itemize}
+    \item Testy wstępne wymagane są jedynie dla zmiennych ilościowych.
+    \item Testy post-hoc wymagane są jedynie, gdy wynik w teście dla wielu prób jest istotny statystycznie lub opcjonalnie, gdy jest tego bliski.
+    \item Testy nieparametryczne, tak samo jak parametryczne, mają swoje założenia. Są one prostsze do spełnienia, ale również przed wykonaniem tych testów należy się upewnić, czy w danym przypadku tak jest, co zwykle można zrobić bez dodatkowych testów. Sprawdzanie tego nie jest jednak wymagane na projekcie.
+    \item Zanim wykorzysta się test nieparametryczny dla zmiennej ilościowej, warto spróbować przekształcić dane do rozkładu normalnego za pomocą transformacji do tego służących (np. Boxa-Coxa) i ponownie wykonać test sprawdzający normalność rozkładu. Jeśli okaże się ona skuteczna, można wykonać test parametryczny na przekształconej zmiennej, jednak dla zrozumiałej interpretacji jego wyników statystyki umieszczone we wniosku i tabeli powinny odnosić się do oryginalnej zmiennej. Wizualizacja może być natomiast dla przekształconej zmiennej. Użycie transformacji w przypadku niespełnionych założeń nie jest jednak wymagane na projekcie.
+    \item Wielkością efektu dla testu Manna-Whitneya i Wilcoxona może być CL (Common Language) lub $r_{rb}$ - współczynnik korelacji rangowo-dwuseryjnej. Dla testów Studenta dla 2 prób może to być natomiast $d$ Cohena lub $r_{pb}$ - współczynnik korelacji punktowo-dwuseryjnej (przy czym ten drugi do uzyskania wymaga użycia osobnej funkcji).
+\end{itemize}
+
+
+
+
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Testy istotności różnic dla danych niezależnych}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Dwie grupy}
+
+
+\subsubsection{Test Welcha (Studenta) dla dwóch prób}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}: Czy kobiety i mężczyźni różnią się wskaźnikiem uwagi? \\[0.6ex]
+\textbf{Hipoteza badawcza}: Kobiety i mężczyźni różnią się wskaźnikiem uwagi.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda sprawdzająca założenie} testu Welcha/Studenta - normalność rozkładu:
+
+\vspace{0.2cm}
+
+\noindent
+test Shapiro-Wilka
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wynik testów wstępnych}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej ( $W~=~1{,}00$~; $p = 0{,}89$ ), a więc przyjmiemy, że wskaźnik uwagi wśród grup poszczególnych płci wystarczająco spełnia założenie normalności w teście Studenta.
+
+\vspace{0.5cm}
+
+\textbf{Wynik testów wstępnych}, gdyby wynik był istotny statystycznie:
+
+\vspace{0.2cm}
+
+Wskaźnik uwagi wśród grup poszczególnych płci nie ma rozkładu normalnego\\
+\indent ( $ W = 0{,}94$ ; $p < 0{,}001$ ).
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test Welcha/Studenta dla dwóch prób niezależnych
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Średni wskaźnik uwagi u kobiet jest równy średniemu wskaźnikowi uwagi u mężczyzn. \\[0.6ex]
+$H_1:$ Średni wskaźnik uwagi u kobiet jest różny od średniego wskaźnika uwagi u mężczyzn.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównanie wskaźnika uwagi między płciami}
+\label{tab:attention_gender}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccc?cccc?}
+    \cline{2-8}
+     & \multicolumn{3}{c?}{\textbf{wskaźnik uwagi}} & \multicolumn{4}{c?}{\textbf{test Welcha/Studenta}}    \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{płeć}} & $n$ & $m$          & $sd$         & $df$     & $T$     & $p$  & $d$   \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{kobieta}   & 116 & 0,59             & 0,14         & 239,17   & -1,03   & 0,30  & 0,12 \\
+\multicolumn{1}{|c?}{mężczyzna} & 184 & 0,60             & 0,14         &          &         &       &      \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+%{\raggedleft \scriptsize \hphantom{.} \\ $\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie możemy stwierdzić, czy wskaźnik uwagi u kobiet ( $m~=~0{,}59$~; $sd = 0{,}14$ ) jest różny od wskaźnika uwagi u mężczyzn ( $m = 0{,}60$ ; $sd = 0{,}14$ ) (~$T(239{,}17) = -1{,}03$ ; $p = 0{,}30$ ) (Tab. \ref{tab:attention_gender}).  % $r_{pb} = -0{,}06$
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Wskaźnik uwagi u kobiet ( $m = ...$ ; $sd = ...$ ) jest różny od wskaźnika uwagi u mężczyzn ( $m = ...$ ; $sd = ...$ ) ( $T(...) = ...$ ; $p = ...$ ; $d = ...$ ) (Tab. \ref{tab:attention_gender}).
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\subsubsection{Jednostronny test Welcha (Studenta) dla dwóch prób}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\textbf{Pytanie badawcze}: Czy kobiety i mężczyźni różnią się wskaźnikiem uwagi? \\[0.6ex]
+\textbf{Hipoteza badawcza}: Kobiety mają większy wskaźnik uwagi niż mężczyźni.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: jednostronny test Welcha/Studenta dla dwóch prób niezależnych
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Średni wskaźnik uwagi u kobiet jest równy średniemu wskaźnikowi uwagi u mężczyzn. \\[0.6ex]
+$H_1:$ Średni wskaźnik uwagi u kobiet jest większy od średniego wskaźnika uwagi u mężczyzn.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie możemy stwierdzić, czy wskaźnik uwagi u kobiet ( $m~=~0{,}59$~; $sd = 0{,}14$ ) jest większy od wskaźnika uwagi u mężczyzn ( $m = 0{,}60$ ; $sd = 0{,}14$ ) (~$T(239{,}17) = -1{,}03$ ; $p = 0{,}85$ ).
+
+\vspace{0.5cm}
+
+[pozostałe punkty analogicznie do dwustronnego testu Welcha]
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\subsubsection{Test Manna–Whitneya}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}: Czy kobiety i mężczyźni różnią się poziomem wykształcenia? \\[0.6ex]
+\textbf{Hipoteza badawcza}: Kobiety i mężczyźni różnią się poziomem wykształcenia.
+
+\vspace{0.5cm}
+
+[test wstępny, jeśli zmienna jest ilościowa]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test Manna-Whitneya
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Mediana poziomu wykształcenia u kobiet jest równa medianie poziomu wykształcenia u mężczyzn. \\[0.6ex]
+$H_1:$ Mediana poziomu wykształcenia u kobiet jest różna od mediany poziomu wykształcenia u mężczyzn.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównanie poziomu wykształcenia między płciami}
+\label{tab:education_gender}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?>{\hspace{1.5em}}ccc<{\hspace{1.5em}}?>{\hspace{1.7em}}ccc<{\hspace{1.7em}}?}
+    \cline{2-7}
+      & \multicolumn{3}{c?}{\textbf{poziom wykształcenia}} & \multicolumn{3}{c?}{\textbf{test Manna–Whitneya}} \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{płeć}} & $n$ & $med$        & $IQR$             & $U$     & $p$     & $CL$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{kobieta}       & 116 & 2            & 2                 & 190     & 0,02    & 0,31 \\
+\multicolumn{1}{|c?}{mężczyzna}     & 184 & 3            & 2                 &         & $\ast$  &      \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$
+%;\ $\ast \ast - p \leqslant 0{,}01$;\ $\ast \ast \ast - p \leqslant 0{,}001$
+}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Kobiety różnią się poziomem wykształcenia ( $med = 2$ ; $IQR = 2$ ) od mężczyzn (~$med~=~3$~; $IQR = 2$ ) ( $U = 190$ ; $p = 0{,}02$ ; $CL = 0{,}31$ ) (Tab. \ref{tab:education_gender}).  % $r_{bc} = -0{,}38$
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie możemy stwierdzić, czy kobiety różnią się poziomem wykształcenia ( $med = ...$ ; $IQR = ...$ ) od mężczyzn ( $med = ...$ ; $IQR = ...$ ) ( $U = ...$ ; $p = ...$ ) (Tab. \ref{tab:education_gender}).
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+
+\subsection{Więcej niż dwie grupy}
+
+\subsubsection{Test jednoczynnikowa ANOVA}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\
+Czy tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\
+Tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda sprawdzająca założenie} testu ANOVA - normalność rozkładu:
+
+\vspace{0.2cm}
+
+\noindent
+test Shapiro-Wilka
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda sprawdzająca założenie} testu ANOVA - homogeniczność wariancji:
+
+\vspace{0.2cm}
+
+\noindent
+test Levene'a
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wynik testów wstępnych}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej (~$W~=~1{,}00$~; $p = 0{,}55$ ), a więc przyjmiemy, że wskaźnik zmienności nastroju w trakcie interakcji z~treściami wśród poszczególnych ich tematów wystarczająco spełnia założenie normalności w~teście ANOVA.
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej (~$W~=~0{,}31$~; $p = 0{,}82$ ), a więc przyjmiemy, że wskaźnik zmienności nastroju w trakcie interakcji z~treściami wśród poszczególnych ich tematów wystarczająco spełnia założenie homogeniczności wariancji w~teście ANOVA.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: jednoczynnikowa analiza wariancji (ANOVA) z testami post-hoc HSD Tukeya\\
+\hphantom{.} \hspace{1.45cm} [o testach post-hoc wspomnieć, o ile ANOVA jest istotna]
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Średni wskaźnik zmienności nastroju w trakcie interakcji z treściami jest taka sama dla wszystkich tematów tych treści. \\[0.6ex]
+$H_1:$ Średni wskaźnik zmienności nastroju w trakcie interakcji z treściami różni się w co najmniej jednej parze tematów tych treści.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Jednoczynnikowa ANOVA dla wskaźnika zmienności nastroju w zależności od tematu treści}
+\label{tab:mood_topic}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{|l?ccc?ccc|}
+    \hline
+    źródło zmienności & $df$ & $SS$ & $MS$ & $F$  & $p$    & $\eta^2$ \\[0.6ex]
+    \thickhline
+    między grupami    & 3    & 0,24 & 0,08 & 3,59 & 0,014   & 0,04     \\
+    wewnątrz grup     & 296  & 6,73 & 0,02 &      & $\ast$ &         \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$
+%; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$
+}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek z testu ANOVA}:
+
+\vspace{0.2cm}
+
+\noindent
+Tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi\\
+( $F(3; 296) = 3{,}59$ ; $p = 0{,}014$ ; $\eta^2 = 0{,}04$ ) (Tab. \ref{tab:mood_topic}).
+
+\vspace{0.5cm}
+
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+Na poziomie istotności 0,05 nie można stwierdzić, czy tematy treści różnią się \\
+\indent zmiennością nastroju jaka następuje przy interakcji z nimi ( $F(...) = ...$ ; $p = ...$ )\\
+\indent (Tab. \ref{tab:mood_topic}).
+
+\vspace{1cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównania parami dla wskaźnika zmienności nastroju w zależności od tematu treści}
+\label{tab:mood_topic_ph}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?>{\hspace{1.5em}}ccc<{\hspace{1.5em}}?cccc?}
+    \cline{2-8}
+& \multicolumn{3}{c?}{\textbf{zmienność nastroju}} & \multicolumn{4}{c?}{\textbf{test HSD Tukeya}} \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{temat}}    & $n$ & $m$ & $sd$ & $df$ & $T$  & $p$    & $g$     \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{radzenie sobie}    & 84 & 0,54 & 0,16 & 296 & 2,70  & 0,04   & 0,41    \\
+\multicolumn{1}{|c?}{uważność}          & 83 & 0,47 & 0,15 &     &       & $\ast$ &         \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{radzenie sobie}    & 84 & 0,54 & 0,16 & 296 & -0,02 & 1,00   & -0,00   \\
+\multicolumn{1}{|c?}{budowa odporności} & 64 & 0,54 & 0,14 &     &       &        &         \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\vdots} & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots \\[0.6ex] 
+\end{tabular}
+\end{adjustbox}}
+\vspace{0.5cm}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wnioski z testów post-hoc}:
+
+\vspace{0.2cm}
+
+\noindent
+Temat umiejętności radzenia sobie różni się zmiennością nastroju jaka następuje przy interakcji z nimi ( $m = 0{,}54$~; $sd = 0{,}16$ ) od tematu uważności ( $m = 0{,}47$ ; $sd = 0{,}15$ ) (~$T(296) = 2{,}70$ ; $p = 0{,}04$ ; $g = 0{,}41$ ) (Tab. \ref{tab:mood_topic_ph}).
+
+\vspace{0.35cm}
+
+\noindent
+Temat uważności różni się zmiennością nastroju jaka następuje przy interakcji z nimi od tematu zarządzania stresem ( $m = 0{,}54$~; $sd = 0{,}15$ ) ( $T(296) = -2{,}63$ ; $p = 0{,}04$ ; $g = -0{,}43$ ).
+
+\vspace{0.35cm}
+
+\noindent
+Dla pozostałych par tematów, na poziomie istotności 0,05, nie można stwierdzić różnicy w zmienności nastroju jaka następuje przy interakcji z nimi.
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+\subsubsection{Test jednoczynnikowa ANOVA Welcha}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\ Czy tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\ Tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi.
+
+\vspace{0.5cm}
+\newpage
+\noindent
+\textbf{Metoda sprawdzająca założenie} testu ANOVA Welcha - normalność rozkładu:
+
+\vspace{0.2cm}
+
+\noindent
+test Shapiro-Wilka
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wynik testów wstępnych}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej (~$W~=~1{,}00$~; $p = 0{,}55$ ), a więc przyjmiemy, że wskaźnik zmienności nastroju w trakcie interakcji z~treściami wśród poszczególnych ich tematów wystarczająco spełnia założenie normalności w~teście ANOVA Welcha.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: jednoczynnikowa analiza wariancji (ANOVA) Welcha z testami post-hoc Gamesa-Howella\\
+\hphantom{.} \hspace{1.45cm} [o testach post-hoc wspomnieć, o ile ANOVA jest istotna]
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Średni wskaźnik zmienności nastroju w trakcie interakcji z treściami jest taka sama dla wszystkich tematów tych treści. \\[0.6ex]
+$H_1:$ Średni wskaźnik zmienności nastroju w trakcie interakcji z treściami różni się w co najmniej jednej parze tematów tych treści.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Jednoczynnikowa ANOVA Welcha dla wskaźnika zmienności nastroju w zależności od tematu treści}
+\label{tab:mood_topic_welch}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{|cccc<{\hspace{-0.65em}}lc|}
+    \hline
+    $df_1$ & $df_2$ & $F$  & $p$   &        & $\eta^2$ \\[0.6ex]
+    \thickhline
+    3      & 161,72 & 3,73 & 0,012 & $\ast$ & 0,04     \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$
+%; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$
+}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek z testu ANOVA}:
+
+\vspace{0.2cm}
+
+\noindent
+Tematy treści różnią się zmiennością nastroju jaka następuje przy interakcji z nimi\\
+( $F(3; 161{,}72) = 3{,}73$ ; $p = 0{,}012$ ; $\eta^2 = 0{,}04$ ) (Tab. \ref{tab:mood_topic_welch}).
+
+\vspace{0.5cm}
+\newpage
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+Na poziomie istotności 0,05 nie można stwierdzić, czy tematy treści różnią się \\
+\indent zmiennością nastroju jaka następuje przy interakcji z nimi ( $F(...) = ...$ ; $p = ...$ )\\
+\indent (Tab. \ref{tab:mood_topic_welch}).
+
+\vspace{1cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównania parami dla wskaźnika zmienności nastroju w zależności od tematu treści}
+\label{tab:mood_topic_welch_ph}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?>{\hspace{1.5em}}ccc<{\hspace{1.5em}}?cccc?}
+    \cline{2-8}
+& \multicolumn{3}{c?}{\textbf{zmienność nastroju}} & \multicolumn{4}{c?}{\textbf{test Gamesa-Howella}} \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{temat}}    & $n$ & $m$ & $sd$ & $df$   & $T$   & $p$    & $g$   \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{radzenie sobie}    & 81 & 0,54 & 0,16 & 159,51 & 2,66  & 0,04   & 0,41  \\
+\multicolumn{1}{|c?}{uważność}          & 83 & 0,47 & 0,15 &        &       & $\ast$ &       \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{radzenie sobie}    & 81 & 0,54 & 0,16 & 140,80 & -0,02 & 1,00   & -0,00 \\
+\multicolumn{1}{|c?}{budowa odporności} & 83 & 0,54 & 0,14 &        &       &        &       \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\vdots} & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots \\[0.6ex] 
+\end{tabular}
+\end{adjustbox}}
+\vspace{0.5cm}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wnioski z testów post-hoc}:
+
+\vspace{0.2cm}
+
+\noindent
+Temat umiejętności radzenia sobie różni się zmiennością nastroju jaka następuje przy interakcji z nimi ( $m = 0{,}54$~; $sd = 0{,}16$ ) od tematu uważności ( $m = 0{,}47$ ; $sd = 0{,}15$ ) (~$T(159{,}51) = 2{,}66$ ; $p = 0{,}04$ ; $g = 0{,}41$ ) (Tab. \ref{tab:mood_topic_ph}).
+
+\vspace{0.35cm}
+
+\noindent
+Temat uważności różni się zmiennością nastroju jaka następuje przy interakcji z nimi od tematu budowania odporności ( $m = 0{,}54$ ; $sd = 0{,}15$ ) (~$T(136{,}40) = -2{,}67$ ; $p = 0{,}04$~; $g = -0{,}44$ ).
+
+\vspace{0.35cm}
+
+\noindent
+Temat uważności różni się zmiennością nastroju jaka następuje przy interakcji z nimi od tematu zarządzania stresem ( $m = 0{,}54$~; $sd = 0{,}15$ ) ( $T(147{,}90) = -2{,}67$ ; $p = 0{,}04$ ; $g = -0{,}43$ ).
+
+\vspace{0.35cm}
+
+\noindent
+Dla pozostałych par tematów, na poziomie istotności 0,05, nie można stwierdzić różnicy w zmienności nastroju jaka następuje przy interakcji z nimi.
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+\subsubsection{Test Kruskala–Wallisa}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}: Czy typy treści różnią się poziomem trudności? \\[0.6ex]
+\textbf{Hipoteza badawcza}: Typy treści różnią się poziomem trudności.
+
+\vspace{0.5cm}
+
+[test wstępny, jeśli zmienna jest ilościowa]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test Kruskala-Wallisa z testami post-hoc Dunn\\
+\hphantom{.} \hspace{1.45cm} [o testach post-hoc wspomnieć, o ile test KW jest istotny]
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Mediana poziomu trudności jest taka sama dla wszystkich typów treści. \\[0.6ex]
+$H_1:$ Mediana poziomu trudności różni się w co najmniej jednej parze typów treści.   
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Test Kruskala-Wallisa dla poziomu trudności w zależności od typu treści}
+\label{tab:difficulty_type}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{|ccc<{\hspace{-0.65em}}lc|}
+    \hline
+    $df$ & $H$   & $p$  &                & $\eta^2$ \\[0.6ex]
+    \thickhline
+    3    & 25,71 & 0,00 & $\ast\ast\ast$ & 0,09     \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+%$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \
+$\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek z testu Kruskala-Wallisa}:
+
+\vspace{0.2cm}
+
+\noindent
+Typy treści różnią się poziomem trudności ( $H(3) = 25{,}71$ ; $p < 0{,}001$ ; $\eta^2 = 0{,}09$ ) (Tab.~\ref{tab:difficulty_type}).
+
+\vspace{0.5cm}
+
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+Na poziomie istotności 0,05 nie można stwierdzić, czy typy treści różnią się poziomem\\ \indent trudności ( $H(...) = ...$ ; $p = ...$ )  (Tab. \ref{tab:difficulty_type}).
+
+\vspace{1cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównania parami dla poziomu trudności w zależności od typu treści}
+\label{tab:difficulty_type_ph}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?>{\hspace{1.5em}}ccc<{\hspace{1.5em}}?c?}
+    \cline{2-5}
+& \multicolumn{3}{c?}{\textbf{poziom trudności}} & \multicolumn{1}{c?}{\textbf{test Dunn}} \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{treść}} & $n$ & $med$ & $IQR$ & $p$    \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{artykuł}        & 95  & 1 & 1 & 0,11           \\
+\multicolumn{1}{|c?}{interaktywna}   & 110 & 2 & 2 &                \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{artykuł}        & 95  & 1 & 1 & 0,00           \\
+\multicolumn{1}{|c?}{quiz}           & 12  & 3 & 0 & $\ast\ast\ast$ \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\vdots}         & \vdots & \vdots & \vdots & \vdots \\[0.6ex] 
+\end{tabular}
+\end{adjustbox}}
+\vspace{0.5cm}
+{\raggedleft \scriptsize \hphantom{.} \\
+$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wnioski z testów post-hoc}:
+
+\vspace{0.2cm}
+
+\noindent
+Treść typu quiz różni się poziomem trudności ( $med = 3$ ; $IQR = 0$ ) od treści typu artykuł ( $med = 1$ ; $IQR = 1$ ) ( $p < 0{,}001$ ) (Tab. \ref{tab:difficulty_type_ph}).
+
+\vspace{0.35cm}
+
+\noindent
+Treść typu quiz różni się poziomem trudności od treści typu interaktywnego ( $med = 2$ ; $IQR = 2$ ) ( $p < 0{,}001$ ).
+
+\vspace{0.35cm}
+
+\noindent
+Treść typu quiz różni się poziomem trudności od treści typu wideo ( $med = 1$ ; $IQR = 2$~) ( $p < 0{,}001$ ).
+
+\vspace{0.35cm}
+
+\noindent
+Dla pozostałych par typów treści, na poziomie istotności 0,05, nie można stwierdzić różnicy w poziomie trudności.
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Testy istotności różnic dla danych zależnych}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Dwie grupy}
+
+\subsubsection{Test Studenta dla dwóch prób zależnych}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\
+Czy pomiary stresu przed i po interakcji użytkownika z treścią różnią się od siebie? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\
+Pomiary stresu przed i po interakcji użytkownika z treścią różnią się od siebie.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda sprawdzająca założenie} testu Studenta - normalność rozkładu:
+
+\vspace{0.2cm}
+
+\noindent
+test Shapiro-Wilka
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wynik testów wstępnych}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej (~$W~=~1{,}00$~; $p = 0{,}89$ ), a więc przyjmiemy, że różnica między pomiarami stresu przed interakcją użytkownika z treścią i po tej interakcji wystarczająco spełnia założenie normalności w teście Studenta.
+
+\vspace{0.5cm}
+
+\textbf{Wynik testów wstępnych}, gdyby wynik był istotny statystycznie:
+
+\vspace{0.2cm}
+
+Różnica między pomiarami stresu przed interakcją użytkownika z treścią i po tej\\
+\indent interakcji nie ma rozkładu normalnego ( $W = 0{,}94$ ; $p < 0{,}001$ ).
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test Studenta dla dwóch prób zależnych
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Średnia różnica między pomiarami stresu przed i po interakcji użytkownika z treścią wynosi 0. \\[0.6ex]
+$H_1:$ Średnia różnica między pomiarami stresu przed i po interakcji użytkownika z treścią jest różna od 0.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównanie pomiarów stresu przed i po interakcji}
+\label{tab:stress_12_t}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccc?cccc?}
+    \cline{2-8}
+     & \multicolumn{3}{c?}{\textbf{stres}} & \multicolumn{4}{c?}{\textbf{test Studenta}}     \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{pomiar}}  & $n$ & $m$ & $sd$ & $df$ & $T$ & $p$ & $d$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{przed interakcją} & 300 & 25,13 & 5,95 & 299 & 45,62 & 0,00 & 0,52 \\
+\multicolumn{1}{|c?}{po interakcji}    & 300 & 22,02 & 5,93 & & & $\ast\ast\ast$ & \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+%$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \
+$\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+\vspace{0.5cm}
+\newpage
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Pomiary stresu przed interakcją użytkownika z treścią ( $m = 25{,}13$ ; $sd = 5{,}95$ ) i po tej interakcji ( $m = 22{,}02$ ; $sd = 5{,}93$ ) różnią się od siebie ( $T(299) = 45{,}62$ ; $p < 0{,}001$ ; $d = 0{,}52$ ) (Tab. \ref{tab:stress_12_t}). % $r_{pb} = 0{,}25$
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie możemy stwierdzić, czy pomiary stresu przed interakcją użytkownika z treścią ( $m = ...$ ; $sd = ...$ ) i po tej interakcji ( $m = ...$ ; $sd = ...$ ) różnią się od siebie ( $T(...) = ...$ ; $p = ...$ )  (Tab. \ref{tab:stress_12_t}).
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+\subsubsection{Test Wilcoxona}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\
+Czy pomiary stresu przed i po interakcji użytkownika z treścią różnią się od siebie? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\
+Pomiary stresu przed i po interakcji użytkownika z treścią różnią się od siebie.
+
+\vspace{0.5cm}
+
+[test wstępny, jeśli zmienna jest ilościowa]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test Wilcoxona
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Mediana różnicy między pomiarami stresu przed i po interakcji użytkownika z treścią wynosi 0. \\[0.6ex]
+$H_1:$ Mediana różnicy między pomiarami stresu przed i po interakcji użytkownika z treścią jest różna od 0.
+
+\vspace{0.5cm}
+
+\begin{table}[H]
+\centering
+\caption{Porównanie pomiarów stresu przed i po interakcji}
+\label{tab:stress_12_w}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccc?>{\hspace{0.6em}}ccc<{\hspace{0.6em}}?}
+    \cline{2-7}
+  & \multicolumn{3}{c?}{\textbf{stres}} & \multicolumn{3}{c?}{\textbf{test Wilcoxona}} \\[0.6ex]
+    \hline
+\multicolumn{1}{|c?}{\textbf{pomiar}}   & $n$ & $med$ & $IQR$ & $W$  & $p$            & $CL$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|c?}{przed interakcją}  & 300 & 25,00 & 11,00 & 0,00 & 0,00           & 0,64 \\
+\multicolumn{1}{|c?}{po interakcji}     & 300 & 22,18 & 10,08 &      & $\ast\ast\ast$ &      \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \\
+%$\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \
+$\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Pomiary stresu przed interakcją użytkownika z treścią ( $med = 25{,}00$ ; $IQR = 11{,}00$~) i~po tej interakcji ( $med = 22{,}18$ ; $IQR = 10{,}08$ ) różnią się od siebie ( $ W = 0{,}00$ ; $p < 0{,}001$~; $CL = 0{,}64$ )  (Tab. \ref{tab:stress_12_w}). % $r_{bc} = 1$ 
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie możemy stwierdzić, czy pomiary stresu przed interakcją użytkownika z treścią ( $med = ...$ ; $IQR = ...$ ) i po tej interakcji ( $med = ...$ ; $IQR = ...$~) różnią się od siebie ( $W = ...$ ; $p = ...$ )  (Tab. \ref{tab:stress_12_w}).
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Testy siły związku}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Test istotności współczynnika korelacji Pearsona}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\
+Czy między wskaźnikami uwagi i zmienności nastroju istnieje związek? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\
+Między wskaźnikami uwagi i zmienności nastroju istnieje związek.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda sprawdzająca założenie} współczynnika korelacji Pearsona 
+
+\vspace{0.2cm}
+
+\noindent
+- normalność rozkładu: test Henze-Zirklera
+
+\vspace{0.5cm}
+\newpage
+\noindent
+\textbf{Wynik testów wstępnych}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie mamy podstaw do odrzucenia hipotezy zerowej ( $HZ~=~0{,}58$~; $p = 0{,}63$ ), a więc przyjmiemy, że wskaźnik uwagi i wskaźnik zmienności nastroju w trakcie interakcji z treściami wystarczająco spełniają założenie normalności w teście istotności współczynnika korelacji Pearsona.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: współczynnik korelacji Pearsona
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Korelacja pomiędzy wskaźnikami uwagi i zmienności nastroju wynosi 0. \\[0.6ex]
+$H_1:$ Korelacja pomiędzy wskaźnikami uwagi i zmienności nastroju jest różna od 0.
+
+\vspace{0.5cm}
+
+
+\begin{table}[H]
+\centering
+\caption{Statystyki opisowe i współczynnik korelacji dla wskaźników uwagi i zmienności nastroju}
+\label{tab:attention_mood}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccccc?>{\hspace{2em}}ccc<{\hspace{2em}}?}
+    \cline{2-9}
+     & \multicolumn{5}{c?}{\textbf{rozkład zmiennej}} & \multicolumn{3}{c?}{\textbf{test korelacji Pearsona}}     \\[0.6ex]
+    \hline
+\multicolumn{1}{|l?}{\textbf{zmienna}} & $n$ & $m$ & $sd$ & $min$ & $max$ & $df$ & $r$ & $p$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|l?}{wskaźnik uwagi}               & 300 & 0,60 & 0,14 & 0,12 & 1,00 & 298 & 0,11 & 0,052 \\
+\multicolumn{1}{|l?}{wskaźnik zmienności nastroju} & 300 & 0,52 & 0,15 & 0,08 & 0,92 &     &      &      \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+%{\raggedleft \scriptsize \hphantom{.} \\ $\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie można stwierdzić, czy między wskaźnikami uwagi i zmienności nastroju istnieje związek ( $ r(298) = 0{,}11$ ; $p = 0{,}052$ ) (Tab. \ref{tab:attention_mood}).
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Między wskaźnikami uwagi i zmienności nastroju istnieje związek o zgodnym/przeciwnym kierunku ( $ r(...) = ...$ ; $p = ...$ ) - im wyższy wskaźnik uwagi, tym wyższy wskaźnik zmienności nastroju (Tab. \ref{tab:attention_mood}).
+
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+\subsection{Test istotności współczynnika korelacji Spearmana}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}:\\
+Czy między trudnością treści i wskaźnikiem informacji zwrotnej istnieje związek? \\[0.6ex]
+\textbf{Hipoteza badawcza}:\\
+Między trudnością treści i wskaźnikiem informacji zwrotnej istnieje związek.
+
+\vspace{0.5cm}
+
+[test wstępny, jeśli zmienna jest ilościowa]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: współczynnik korelacji Spearmana
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Korelacja pomiędzy trudnością treści i wskaźnikiem informacji zwrotnej wynosi 0. \\[0.6ex]
+$H_1:$ Korelacja pomiędzy trudnością treści i wskaźnikiem informacji zwrotnej jest różna od 0.
+
+\vspace{0.5cm}
+
+
+\begin{table}[H]
+\centering
+\caption{Statystyki opisowe i współczynnik korelacji dla trudności treści i wskaźnika informacji zwrotnej}
+\label{tab:difficulty_feedback}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccccc?>{\hspace{3.5em}}cc<{\hspace{3.5em}}?}
+    \cline{2-8}
+     & \multicolumn{5}{c?}{\textbf{rozkład zmiennej}} & \multicolumn{2}{c?}{\textbf{test korelacji Spearmana}}     \\[0.6ex]
+    \hline
+\multicolumn{1}{|l?}{\textbf{zmienna}} & $n$ & $med$ & $IQR$ & $min$ & $max$ & $r_S$ & $p$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|l?}{trudność treści}              & 300 & 2 & 2 & 1 & 3 & 0,14 & 0,014   \\
+\multicolumn{1}{|l?}{wskaźnik informacji zwrotnej} & 300 & 3 & 2 & 1 & 5 &      & $\ast$ \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+{\raggedleft \scriptsize \hphantom{.} \newline $\ast - p \leqslant 0{,}05$
+%; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$
+}
+\end{table}
+
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Między trudnością treści i wskaźnikiem informacji zwrotnej istnieje związek o zgodnym kierunku ( $r_S = 0{,}14$ ; $p = 0{,}014$ ) - im większa trudność treści, tym wyższy wskaźnik informacji zwrotnej (Tab. \ref{tab:difficulty_feedback}).
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik nie był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie można stwierdzić, czy między trudnością treści i wskaźnikiem informacji zwrotnej istnieje związek ( $ r_S(...) = ...$ ; $p = ...$ ) (Tab. \ref{tab:difficulty_feedback}).
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\subsection{Test niezależności zmiennych \texorpdfstring{$\chi^2$}{TEXT}}
+
+\vspace{0.5cm}
+
+\hrule
+
+\vspace{1cm}
+
+\begin{center}
+    \textbf{W rozdziale Metody:}
+\end{center}
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Pytanie badawcze}: Czy między płcią i zawodem istnieje związek? \\[0.6ex]
+\textbf{Hipoteza badawcza}: Między płcią i zawodem istnieje związek.
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Metoda}: test niezależności $\chi^2$ ze współczynnikiem korelacji $V$ Craméra
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+\begin{center}
+    \textbf{W rozdziale Wyniki:}
+\end{center}
+
+\vspace{0.5cm}
+
+[wykres rozkładu łącznego zmiennych]
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Hipotezy testowe}:
+
+\vspace{0.2cm}
+
+\noindent
+$H_0:$ Płeć i zawód są od siebie niezależne. \\[0.6ex]
+$H_1:$ Płeć i zawód są od siebie zależne.
+
+\vspace{0.5cm}
+
+
+
+\begin{table}[H]
+\centering
+\caption{Tabela krzyżowa i test niezależności $\chi^2$ dla płci i zawodu}
+\label{tab:gender_occupation}
+\vspace{0.35cm}
+\tabelfont{
+\begin{adjustbox}{center}
+\begin{tabular}{l?ccccc?>{\hspace{0.02em}}cccc<{\hspace{0.02em}}?}
+    \cline{2-10}
+     & \multicolumn{5}{c?}{\textbf{zawód} ($n$)} & \multicolumn{4}{c?}{\textbf{test niezależności $\chi^2$}}     \\[0.6ex]
+    \hline
+\multicolumn{1}{|l?}{\textbf{płeć}} & inżynier & lekarz & uczeń & nauczyciel & bezrobotny & $df$ & $\chi^2$ & $p$ & $V$ \\[0.6ex]
+    \thickhline
+\multicolumn{1}{|l?}{kobieta}       & 2 & 4 & 6 & 6 & 3 & 4    & 3,43 & 0,49 & 0,26 \\
+\multicolumn{1}{|l?}{mężczyzna}     & 8 & 3 & 5 & 8 & 5 &      &      &      &      \\[0.6ex]
+    \hline
+\end{tabular}
+\end{adjustbox}}
+%{\raggedleft \scriptsize \hphantom{.} \\ $\ast - p \leqslant 0{,}05$; \ $\ast \ast - p \leqslant 0{,}01$; \ $\ast \ast \ast - p \leqslant 0{,}001$}
+\end{table}
+
+\indent [jeśli tabela krzyżowa ma wiele pól, można przedstawić ją osobno]
+
+
+\vspace{0.5cm}
+\newpage
+\noindent
+\textbf{Wniosek}:
+
+\vspace{0.2cm}
+
+\noindent
+Na poziomie istotności 0,05 nie można stwierdzić, czy między płcią i zawodem, istnieje związek ( $\chi^2(4) = 3{,}43$ ; $p = 0{,}49$ ; $V = 0{,}26$ ) (Tab. \ref{tab:gender_occupation}).
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik był istotny statystycznie:
+
+\vspace{0.2cm}
+
+\noindent
+Między płcią i zawodem istnieje związek ( $\chi^2(...) = ...$ ; $p = ...$ ; $V = ...$ ) (Tab. \ref{tab:gender_occupation}). Największa zależność występuje w zawodzie inżyniera - mężczyźni częściej zostają inżynierami niż kobiety/pozostali przedstawiciele płci [gdyby było więcej poziomów].
+
+\vspace{0.5cm}
+
+\noindent
+\textbf{Wniosek}, gdyby wynik był istotny statystycznie i tabela krzyżowa była wymiaru $2 \times 2$:
+
+\vspace{0.2cm}
+
+\noindent
+Między płcią i byciem inżynierem istnieje związek ( $\chi^2(...) = ...$ ; $p = ...$ ; $V = ...$ ) - mężczyźni częściej zostają inżynierami niż kobiety (Tab. \ref{tab:gender_occupation}).
+
+\vspace{1cm}
+
+\hrule
+
+\vspace{0.5cm}
+
+
+
+
+
+
+
+
+
+
+\end{document}
+
+
