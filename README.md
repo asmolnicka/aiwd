@@ -122,7 +122,7 @@ Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, 
     * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba)
     * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich
     * opis przetworzenia danych, jeśli ono wystąpiło:
-        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. uzupełnienie braków w danych)
+        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. zmiana odpowiednich wartości na braki w danych)
         - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
             * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów
             * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności)
@@ -176,13 +176,13 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
     - zaplanowanych testów statystycznych (testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc) odpowiednich do zweryfikowania hipotez
     - zaplanowanych wykresów wizualizujących badany problem
 
-    Należy je przesłać do 2 dni przed spotkaniem.
+    Należy je przesłać do drugiego dnia przed spotkaniem.
 
 2. obrony projektu – przedstawienie:
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do 5 dni przed spotkaniem.
+    Należy je przesłać do piątego dnia przed spotkaniem.
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
