@@ -98,7 +98,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
 
 **Dane oraz 5 pytań badawczych należy dobrać tak, aby**:
-- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, jedna zmienna porządkowa i dwie zmienne ilościowe
+- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, co najmniej jedna zmienna porządkowa i co najmniej dwie zmienne ilościowe
 - co najmniej dwa z pytań dotyczyły różnicy między grupami
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
 - badanie co najmniej jednej z hipotez używało metody nieparametrycznej
@@ -173,16 +173,16 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:
     - wczytanego w Pythonie zbioru
     - pytań i hipotez badawczych
-    - zaplanowanych testów statystycznych (testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc) odpowiednich do zweryfikowania hipotez
+    - zaplanowanych testów statystycznych (<u>testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc</u>) odpowiednich do zweryfikowania hipotez
     - zaplanowanych wykresów wizualizujących badany problem
 
-    Należy je przesłać do drugiego dnia przed spotkaniem.
+    Należy je przesłać do końca dnia dwa dni przed spotkaniem. Proszę w plikach umieścić zbiór danych.
 
 2. obrony projektu – przedstawienie:
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do piątego dnia przed spotkaniem.
+    Należy je przesłać do końca dnia pięć dni przed spotkaniem.
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
