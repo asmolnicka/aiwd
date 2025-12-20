@@ -95,7 +95,7 @@
 
     \item \textbf{ewentualne dodatkowe informacje na temat zastosowania testów}, jeśli przyjęto jakieś założenia
     \begin{itemize}
-        \item Jeśli może być coś jeszcze nieoczywistego dla czytelnika, jak wykonano podane testy statystyczne, to należy o tym zareportować.
+        \item Jeśli może być coś jeszcze nieoczywistego dla czytelnika, jak wykonano podane testy statystyczne, to należy o tym napisać w raporcie.
     \end{itemize}
 \end{itemize}
 
@@ -174,13 +174,14 @@
     \item Dodanie do testów statystycznych interpretacji wielkości efektu jest wartościowe, ale nie konieczne.
     \item Skróty z pierwszym pojawieniem się w raporcie powinny zostać rozwinięte,\newline
           np. 1. ,,analiza wariancji (ANOVA)'', 2. ,,ANOVA''.
-    \item Dozwolone jest zareportowanie testu Welcha pod nazwą testu Studenta.
+    \item Dozwolone jest umieszczenie w raporcie testu Welcha pod nazwą testu Studenta.
     \item Wyniki testów statystycznych dla wielu prób zależnych raportuje się analogicznie do raportowania wyników testów dla wielu prób niezależnych.
 \end{itemize}
 
 \subsection{Uwagi statystyczne}
 
 \begin{itemize}
+    \item Przy testach dla dwóch zmiennych obsługa braków danych nie jest konieczna, ponieważ funkcje automatycznie odrzucają wiersze, w których nie ma pary wartości, a nie wiąże się to z utratą żadnej innej pary wartości. Ma ona znaczenie dopiero, gdy zestawiamy ze sobą co najmniej trzy zmienne, np. w wieloczynnikowej analizie wariancji lub w modelu uczenia maszynowego. Niezależnie od liczby zmiennych wymagana jest jednak zamiana konkretnych wartości na braki danych, jeśli za takie można je uznać (np. ,,Nie wiem'' $\rightarrow$ np.NaN).
     \item Testy wstępne wymagane są jedynie dla zmiennych ilościowych.
     \item Testy post-hoc wymagane są jedynie, gdy wynik w teście dla wielu prób jest istotny statystycznie lub opcjonalnie, gdy jest tego bliski.
     \item Testy nieparametryczne, tak samo jak parametryczne, mają swoje założenia. Są one prostsze do spełnienia, ale również przed wykonaniem tych testów należy się upewnić, czy w danym przypadku tak jest, co zwykle można zrobić bez dodatkowych testów. Sprawdzanie tego nie jest jednak wymagane na projekcie.
