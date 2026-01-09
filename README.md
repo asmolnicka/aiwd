@@ -97,7 +97,7 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
 
-**Dane oraz 5 pytań badawczych należy dobrać tak, aby**:
+**Dane oraz 5 pytań badawczych, każde z udziałem dwóch zmiennych, należy dobrać tak, aby**:
 - wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, co najmniej jedna zmienna porządkowa i co najmniej dwie zmienne ilościowe
 - co najmniej dwa z pytań dotyczyły różnicy między grupami
 - co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
