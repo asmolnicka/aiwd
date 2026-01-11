@@ -182,7 +182,7 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w poniedziałek lub wtorek)/trzy dni przed spotkaniem (jeśli jest ono w czwartek).
+    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w inny dzień niż 15.01 i 22.02)/trzy dni przed spotkaniem (jeśli jest ono w 15.01 lub 22.01).
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
