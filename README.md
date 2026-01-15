@@ -178,11 +178,11 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 
     Należy je przesłać do końca dnia dwa dni przed spotkaniem. Proszę w plikach umieścić zbiór danych.
 
-2. obrony projektu – przedstawienie:
+2. rozmowy o projekcie przy kawie (ale kawę trzeba samemu sobie kupić c'nie) – przedstawienie:
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w inny dzień niż 15.01 i 22.01)/trzy dni przed spotkaniem (jeśli jest ono 15.01 lub 22.01).
+    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w inny dzień niż 22.01)/trzy dni przed spotkaniem (jeśli jest ono 22.01).
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
