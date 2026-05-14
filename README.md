@@ -13,7 +13,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
 
 ---
 
-<div markdown="1" style="background: #e0f0f8; border: 1px solid #89cff0; border-radius: 6px; padding: 22px 32px; margin: 30px auto; max-width: 760px;">
+<div markdown="1" style="background: #f0f8ff; border: 1px solid #89cff0; border-radius: 6px; padding: 22px 32px; margin: 30px auto; max-width: 760px;">
 
 * TOC
 {:toc}
