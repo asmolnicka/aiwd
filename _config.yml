@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 kramdown:
   toc_levels: 2..2
+
+title: Analiza i Wizualizacja Danych
+description: Data Analysis and Visualization
