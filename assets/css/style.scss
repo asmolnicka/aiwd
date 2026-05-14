@@ -10,8 +10,8 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 320px minmax(0, 950px) 250px;
-  gap: 7rem;
+  grid-template-columns: 280px minmax(0, 950px) 250px;
+  gap: 8rem;
   max-width: 1700px;
   margin: 0 auto;
   padding: 2rem 1rem;
@@ -33,9 +33,9 @@
 
   padding: 1.3rem 1.4rem;
   border: 1px solid #b7dfd4;
-  border-left: 4px solid #89cff0;
+  border-left: 4px solid #56aed7;
   border-radius: 10px;
-  background: #f2f8fd;
+  background: #f3f8fc;
   box-shadow: 0 2px 8px rgba(21, 153, 87, 0.08);
 }
 
