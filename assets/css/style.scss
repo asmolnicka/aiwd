@@ -1,0 +1,85 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Układ: menu po lewej, treść po prawej */
+.layout-with-toc {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Nadpisujemy trochę Caymana, bo oryginalnie main jest centrowany */
+.layout-with-toc .main-content {
+  max-width: 820px;
+  padding: 0;
+}
+
+/* Lewy spis treści */
+.toc-nav {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.toc-nav strong {
+  display: block;
+  margin-bottom: 0.75rem;
+  color: #155799;
+}
+
+.toc-nav ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.toc-nav li {
+  margin: 0.35rem 0;
+}
+
+.toc-nav a {
+  color: #606c71;
+  text-decoration: none;
+}
+
+.toc-nav a:hover {
+  color: #159957;
+  text-decoration: underline;
+}
+
+.toc-nav .toc-h2 {
+  padding-left: 0.75rem;
+}
+
+.toc-nav .toc-h3 {
+  padding-left: 1.5rem;
+  font-size: 0.9rem;
+}
+
+/* Na telefonie spis idzie nad treść */
+@media screen and (max-width: 900px) {
+  .layout-with-toc {
+    display: block;
+  }
+
+  .toc-nav {
+    position: static;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #e9ebec;
+    border-radius: 6px;
+    background: #f8f9fa;
+  }
+
+  .layout-with-toc .main-content {
+    max-width: 64rem;
+    padding: 0 1rem;
+  }
+}
