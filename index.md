@@ -200,20 +200,20 @@ Na obie konsultacje należy zapisać się do **24. listopada**.
 
 **Grupa 3**
 
-Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
   - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
 
-Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
   - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
 
 **Grupa 1**
 
-Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
-Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
@@ -221,12 +221,12 @@ Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsul
 
 **Grupa 2**
 
-Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
-Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
@@ -236,7 +236,7 @@ Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsul
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-[Przejdź do grupy DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
+[grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
