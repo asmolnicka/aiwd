@@ -92,9 +92,9 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 ### Dane
 
 **Strony ze zbiorami danych do pobrania**:
-- www.kaggle.com/datasets
-- www.dataquest.io/blog/free-datasets-for-projects
-- www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Dataquest: free datasets for projects](https://www.dataquest.io/blog/free-datasets-for-projects)
+- [freeCodeCamp: open data sources](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d)
 
 Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
 
@@ -188,35 +188,35 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
 
-**Grupa 3** 
+**Grupa 3**
 
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
   - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
 
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
   - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
 
-**Grupa 1** 
+**Grupa 1**
 
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
 \* dzielone z grupą 2
 
-**Grupa 2** 
+**Grupa 2**
 
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
+Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
+Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
@@ -227,7 +227,7 @@ Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2:
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678
+[Grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 
