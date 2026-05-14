@@ -5,12 +5,12 @@
 
 .page-header {
   padding-top: 3rem;
-  padding-bottom: 1.2rem;
+  padding-bottom: 1.3rem;
 }
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 300px minmax(0, 820px) 300px;
+  grid-template-columns: 300px minmax(0, 820px) 280px;
   gap: 6rem;
   max-width: 1600px;
   margin: 0 auto;
@@ -34,7 +34,7 @@
 
 .toc-nav strong {
   display: block;
-  margin-bottom: 0.85rem;
+  margin-bottom: 1.4rem;
   color: #155799;
   font-size: 1.4rem;
   font-weight: 700;
