@@ -4,7 +4,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### 📧 Kontakt do prowadzącego
 
-mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
+mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smolnicka@amu.edu.pl), dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
 
 ---
 
@@ -27,7 +27,10 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
     - konsultacje wstępne
     - realizacja projektu
     - konsultacje końcowe
-      
+
+---
+
+
 ## 📅 Terminarz zajęć
 
 Grupa nr 3:
@@ -76,6 +79,9 @@ Grupy nr 1, 2:
 \* w razie nieuzbierania liczby punktów wystarczającej do zdania
 
 
+---
+
+
 ## &#128175; Kryteria oceny z przedmiotu
 
 Łącznie na przedmiocie można zdobyć maksymalnie 26 punktów, na co składa się:
@@ -94,9 +100,13 @@ Grupy nr 1, 2:
 Dozwolone są maksymalnie 2 nieobecności. Odbycie obu konsultacji projektowych jest obowiązkowe.
 
 
+---
+
+
 ## &#x1F4CB; Projekt
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
+
 
 ### Dane
 
@@ -151,7 +161,6 @@ Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, 
         - opis wyników testów statystycznych (właściwego i post-hoc)
 
 
-
 ### Kryteria oceniania projektu
 
   - **wybór danych i pytania badawcze** (2 pkt - 10%)
@@ -173,7 +182,6 @@ Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, 
       - odpowiednie podpisy i tytuły
   - **obrona projektu** (1 pkt - 5%)
       - opowiedzenie o wykonanych działaniach i otrzymanych wynikach
-
 
 
 ### Konsultacje
@@ -230,6 +238,10 @@ Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje
 
 \* dzielone z grupą 1
 
+
+---
+
+
 ## 📊 DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
@@ -253,6 +265,10 @@ A także opcjonalnie:
 
 Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
   -	Web Scraping in Python
+
+
+---
+
 
 ## 💻 Instalacja Jupyter Notebook
 
