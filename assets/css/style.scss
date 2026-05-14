@@ -10,7 +10,7 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 300px minmax(0, 820px) 250px;
+  grid-template-columns: 330px minmax(0, 820px) 270px;
   gap: 6rem;
   max-width: 1600px;
   margin: 0 auto;
@@ -34,7 +34,7 @@
 
 .toc-nav strong {
   display: block;
-  margin-bottom: 1.6rem;
+  margin-bottom: 2rem;
   color: #155799;
   font-size: 1.6rem;
   font-weight: 700;
