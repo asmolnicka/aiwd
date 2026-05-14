@@ -1,5 +1,3 @@
-## Spis treści
-{:.no_toc}
 
 * TOC
 {:toc}
