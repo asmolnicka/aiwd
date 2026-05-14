@@ -66,6 +66,21 @@
   text-decoration: underline;
 }
 
+.toc-nav {
+  grid-column: 1;
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+  font-size: 1.15rem;
+  line-height: 1.5;
+
+  padding: 1.3rem 1.4rem;
+  border: 1px solid #b7dfd4;
+  border-left: 4px solid #159957;
+  border-radius: 10px;
+  background: #f8fffc;
+  box-shadow: 0 2px 8px rgba(21, 153, 87, 0.08);
+}
 
 .layout-with-toc .main-content a,
 .layout-with-toc .main-content a:visited,
@@ -83,7 +98,7 @@
 }
 
 .layout-with-toc .main-content a code {
-  color: #5e77c4;
+  color:  #5170d1;
   background-color: #eef6ff;
   border: 1px solid #c8e1ff;
   font-weight: 600;
