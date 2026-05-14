@@ -1,5 +1,6 @@
 
 # Analiza i Wizualizacja Danych
+{:.no_toc}
 
 *Data Analysis and Visualization*
 
