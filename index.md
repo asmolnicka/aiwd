@@ -290,7 +290,7 @@ lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
 python -m notebook
 ```
 
-Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
+Środowisko Dziobak - chmura na pliki: [http://150.254.90.119](http://150.254.90.119) \
 Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
 
 
