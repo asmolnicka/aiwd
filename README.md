@@ -1,16 +1,17 @@
 
+# Analiza i Wizualizacja Danych
+
+*Data Analysis and Visualization*
+
+Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
+
+
 <div class="toc-box" markdown="1">
 
 * TOC
 {:toc}
 
 </div>
-
-# Analiza i Wizualizacja Danych
-
-*Data Analysis and Visualization*
-
-Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
 
 ### :e-mail: Kontakt do prowadzącego
