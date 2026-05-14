@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (!toc || !content) return;
 
-  const headings = content.querySelectorAll("h1, h2, h3");
+  const headings = content.querySelectorAll("h2");
 
   headings.forEach(function (heading) {
     if (!heading.id) {
