@@ -10,7 +10,7 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 330px minmax(0, 950px) 270px;
+  grid-template-columns: 350px minmax(0, 950px) 250px;
   gap: 6rem;
   max-width: 1700px;
   margin: 0 auto;
@@ -70,7 +70,7 @@
 .layout-with-toc .main-content a,
 .layout-with-toc .main-content a:visited,
 .layout-with-toc .main-content a:active {
-  color: #5e77c4;
+  color: #5170d1;
   font-weight: 600;
   text-decoration: underline;
   text-decoration-thickness: 0.08em;
