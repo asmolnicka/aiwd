@@ -10,7 +10,7 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 300px minmax(0, 820px) 265px;
+  grid-template-columns: 300px minmax(0, 820px) 250px;
   gap: 6rem;
   max-width: 1600px;
   margin: 0 auto;
@@ -36,7 +36,7 @@
   display: block;
   margin-bottom: 1.6rem;
   color: #155799;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   font-weight: 700;
 }
 
