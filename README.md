@@ -29,7 +29,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
     - konsultacje wstępne
     - realizacja projektu
     - konsultacje końcowe
-    - 
+      
 ## 📅 Terminarz zajęć
 
 Grupa nr 3:
