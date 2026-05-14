@@ -10,9 +10,9 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 315px minmax(0, 960px) 285px;
-  gap: 4rem;
-  max-width: 1600px;
+  grid-template-columns: 315px minmax(0, 950px) 285px;
+  gap: 5rem;
+  max-width: 1700px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
@@ -78,7 +78,7 @@
 }
 
 .layout-with-toc .main-content a:hover {
-  color: #4169e1;
+  color: #5171d1;
   text-decoration-thickness: 0.12em;
 }
 
