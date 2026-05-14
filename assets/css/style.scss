@@ -10,8 +10,8 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 330px minmax(0, 950px) 200px;
-  gap: 11rem;
+  grid-template-columns: 350px minmax(0, 950px) 200px;
+  gap: 10rem;
   max-width: 1850px;
   margin: 0 auto;
   padding: 2rem 1rem;
@@ -38,7 +38,7 @@
   background: #f4f8fb;
   box-shadow: 0 2px 8px rgba(21, 153, 87, 0.08);
 
-  transform: translateX(-1.5rem);
+  transform: translateX(-1.3rem);
 }
 
 .toc-nav strong {
