@@ -10,11 +10,17 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 315px minmax(0, 820px) 285px;
+  grid-template-columns: 315px minmax(0, 960px) 285px;
   gap: 4rem;
   max-width: 1600px;
   margin: 0 auto;
   padding: 2rem 1rem;
+}
+
+.layout-with-toc .main-content {
+  grid-column: 2;
+  max-width: 960px;
+  padding: 0;
 }
 
 .toc-nav {
@@ -37,10 +43,6 @@
 .layout-with-toc .main-content a:hover {
   color: #159957;
   text-decoration-thickness: 0.12em;
-}
-
-.layout-with-toc .main-content a:visited {
-  color: #8250df;
 }
 
 .toc-nav strong {
