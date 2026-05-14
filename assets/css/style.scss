@@ -10,7 +10,7 @@
 
 .layout-with-toc {
   display: grid;
-  grid-template-columns: 300px minmax(0, 950px) 300px;
+  grid-template-columns: 315px minmax(0, 950px) 285px;
   gap: 6rem;
   max-width: 1700px;
   margin: 0 auto;
@@ -78,10 +78,22 @@
 }
 
 .layout-with-toc .main-content a:hover {
-  color: #5e77c4;
+  color: #687cba;
   text-decoration-thickness: 0.12em;
 }
 
+.layout-with-toc .main-content a code {
+  color: #0969da;
+  background-color: #eef6ff;
+  border: 1px solid #c8e1ff;
+  font-weight: 600;
+}
+
+.layout-with-toc .main-content a:hover code {
+  color: #159957;
+  background-color: #eefaf5;
+  border-color: #b7ebd4;
+}
 
 /* Na telefonie spis idzie nad treść */
 @media screen and (max-width: 900px) {
