@@ -227,7 +227,7 @@ Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-[Grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
+[grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 
