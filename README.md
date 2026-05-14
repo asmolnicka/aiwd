@@ -1,4 +1,11 @@
 
+<div class="toc-box" markdown="1">
+
+* TOC
+{:toc}
+
+</div>
+
 # Analiza i Wizualizacja Danych
 
 *Data Analysis and Visualization*
