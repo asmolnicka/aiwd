@@ -198,50 +198,47 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
 
 Na obie konsultacje należy zapisać się do **24. listopada**.
 
+**Grupa 3**
 
-**Grupa 3** 
-
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1
+Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
   - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
 
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2
+Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
   - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
 
-**Grupa 1** 
+**Grupa 1**
 
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
+Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
  
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
+Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
 \* dzielone z grupą 2
 
-**Grupa 2** 
+**Grupa 2**
 
-Konsultacje 1 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1: 
+Konsultacje 1 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
   - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
   - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
   - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
 
-Konsultacje 2 - https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2: 
+Konsultacje 2 - [zapisz się](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
   - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
   - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
 
 \* dzielone z grupą 1
 
-
-## &#x1F4CA; DataCamp
+## 📊 DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678
+[Przejdź do grupy DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
-
 Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
   -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
   -	Data Manipulation in Python (`numpy`; `pandas`)
@@ -282,32 +279,6 @@ python -m notebook
 Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
 Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
 
-    
-<style>
-.toc-box {
-  background: #f8f8f8;
-  border: 1px solid #dddddd;
-  border-radius: 6px;
-  padding: 22px 32px;
-  margin: 30px auto;
-  max-width: 760px;
-}
-
-.toc-box a {
-  color: #0366d6;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.toc-box a:hover {
-  color: #159957;
-  text-decoration: underline;
-}
-
-.main-content a {
-  color: #0366d6;
-}
-</style>
 
 
 <script>
