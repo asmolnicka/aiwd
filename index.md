@@ -282,3 +282,17 @@ python -m notebook
 Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
 Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
     
+
+
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
