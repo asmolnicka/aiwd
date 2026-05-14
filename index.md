@@ -1,41 +1,3 @@
-<style>
-.toc-box {
-  background: #f8f8f8;
-  border: 1px solid #dddddd;
-  border-radius: 6px;
-  padding: 22px 32px;
-  margin: 30px auto;
-  max-width: 760px;
-}
-
-.toc-box a {
-  color: #0366d6;
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.toc-box a:hover {
-  color: #159957;
-  text-decoration: underline;
-}
-
-.main-content a {
-  color: #0366d6;
-}
-</style>
-
-
-<script>
-window.MathJax = {
-  tex: {
-    inlineMath: [['$', '$'], ['\\(', '\\)']],
-    displayMath: [['$$', '$$'], ['\\[', '\\]']]
-  }
-};
-</script>
-
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 
 # Analiza i Wizualizacja Danych
 {:.no_toc}
@@ -319,7 +281,45 @@ python -m notebook
 
 Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
 Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
+
     
+<style>
+.toc-box {
+  background: #f8f8f8;
+  border: 1px solid #dddddd;
+  border-radius: 6px;
+  padding: 22px 32px;
+  margin: 30px auto;
+  max-width: 760px;
+}
+
+.toc-box a {
+  color: #0366d6;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.toc-box a:hover {
+  color: #159957;
+  text-decoration: underline;
+}
+
+.main-content a {
+  color: #0366d6;
+}
+</style>
+
+
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
 
