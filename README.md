@@ -1,26 +1,15 @@
 
 # Analiza i Wizualizacja Danych
-{:.no_toc}
 
 *Data Analysis and Visualization*
 
-Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
+Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. 🎓
 
 
 ### 📧 Kontakt do prowadzącego
 
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
 
----
-
-<div markdown="1" style="background: #f0f8ff; border: 1px solid #89cff0; border-radius: 6px; padding: 22px 32px; margin: 30px auto; max-width: 760px;">
-
-* TOC
-{:toc}
-
-</div>
-
----
 
 ## 📚 Organizacja zajęć
 
