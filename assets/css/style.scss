@@ -26,10 +26,21 @@
   line-height: 1.5;
 }
 
-.layout-with-toc .main-content {
-  grid-column: 2;
-  max-width: 820px;
-  padding: 0;
+.layout-with-toc .main-content a {
+  color: #0969da;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+.layout-with-toc .main-content a:hover {
+  color: #159957;
+  text-decoration-thickness: 0.12em;
+}
+
+.layout-with-toc .main-content a:visited {
+  color: #8250df;
 }
 
 .toc-nav strong {
