@@ -7,13 +7,13 @@
 Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
 
-### :e-mail: Kontakt do prowadzącego
+### 📧 Kontakt do prowadzącego
 
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
 
 ---
 
-<div markdown="1" style="background: #f8f8f8; border: 1px solid #dddddd; border-radius: 6px; padding: 22px 32px; margin: 30px auto; max-width: 760px;">
+<div markdown="1" style="background: #e0f0f8; border: 1px solid #89cff0; border-radius: 6px; padding: 22px 32px; margin: 30px auto; max-width: 760px;">
 
 * TOC
 {:toc}
@@ -22,15 +22,15 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek
 
 ---
 
-## :books: Organizacja zajęć
+## 📚 Organizacja zajęć
 
 1. 9 zajęć laboratoryjnych 
 2. Projekt - analiza wybranych danych:
     - konsultacje wstępne
     - realizacja projektu
     - konsultacje końcowe
-
-## :calendar: Terminarz zajęć
+    - 
+## 📅 Terminarz zajęć
 
 Grupa nr 3:
 
@@ -259,8 +259,7 @@ A także opcjonalnie:
 Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
   -	Web Scraping in Python
 
-
-## :computer: Instalacja Jupyter Notebook:
+## 💻 Instalacja Jupyter Notebook
 
 W wierszu poleceń:
 
