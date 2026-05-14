@@ -32,19 +32,6 @@
   line-height: 1.5;
 }
 
-.layout-with-toc .main-content a {
-  color: #0969da;
-  font-weight: 600;
-  text-decoration: underline;
-  text-decoration-thickness: 0.08em;
-  text-underline-offset: 0.18em;
-}
-
-.layout-with-toc .main-content a:hover {
-  color: #159957;
-  text-decoration-thickness: 0.12em;
-}
-
 .toc-nav strong {
   display: block;
   margin-bottom: 2rem;
@@ -78,6 +65,23 @@
   color: #159957;
   text-decoration: underline;
 }
+
+
+.layout-with-toc .main-content a,
+.layout-with-toc .main-content a:visited,
+.layout-with-toc .main-content a:active {
+  color: #0969da;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
+.layout-with-toc .main-content a:hover {
+  color: #159957;
+  text-decoration-thickness: 0.12em;
+}
+
 
 /* Na telefonie spis idzie nad treść */
 @media screen and (max-width: 900px) {
