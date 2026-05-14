@@ -1,0 +1,20 @@
+
+
+@import "{{ site.theme }}";
+
+.toc-box {
+  background: #f8f8f8;
+  border: 1px solid #dddddd;
+  border-radius: 6px;
+  padding: 22px 32px;
+  margin: 30px auto;
+  max-width: 760px;
+}
+
+.toc-box ul {
+  margin-bottom: 0;
+}
+
+.toc-box li {
+  margin: 6px 0;
+}
