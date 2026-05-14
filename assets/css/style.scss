@@ -5,14 +5,14 @@
 
 .page-header {
   padding-top: 3rem;
-  padding-bottom: 2.2rem;
+  padding-bottom: 1.2rem;
 }
 
 .layout-with-toc {
   display: grid;
   grid-template-columns: 300px minmax(0, 820px) 300px;
-  gap: 4rem;
-  max-width: 1500px;
+  gap: 6rem;
+  max-width: 1600px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
