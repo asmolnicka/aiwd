@@ -1,3 +1,10 @@
+## Spis treści
+{:.no_toc}
+
+* TOC
+{:toc}
+
+
 # Analiza i Wizualizacja Danych
 
 *Data Analysis and Visualization*
