@@ -6,10 +6,6 @@
 Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. :mortar_board:
 
 
-* TOC
-{:toc}
-
-
 ### :e-mail: Kontakt do prowadzącego
 
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
