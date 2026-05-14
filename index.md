@@ -1,5 +1,5 @@
 
-Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w Poznaniu. 🎓
+Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na Uniwersytecie Adama Mickiewicza w&nbsp;Poznaniu. 🎓
 
 
 ### 📧 Kontakt do prowadzącego
