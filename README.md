@@ -19,28 +19,27 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
       
 ## 📅 Terminarz zajęć
 
-Grupa nr 3:
+|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie                                  | Pkt |
+|---|------------------------------------|-----------------------|--------------------|-------------------|------------------------------------------|-----|
+|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                                          |     |
+|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                                          |     |
+|   | Przetwarzanie danych 1             | `pandas`              |                    |                   | 1. wybór i odczytanie struktury danych   | 1   |
+|3. | Przetwarzanie danych 2             | `pandas`  	           | 19.10              | 20.10             |                                          |     |
+|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             |                                          |     |
+|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                                          |     |
+|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 2.1. oczyszczenie danych                 | 2   |
+|   |                                    |                       |                    |                   | 2.2. zadanie z przetwarzania             | 2   |        
+|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                          |     |
+|8. | Wizualizacja danych  	           | `seaborn`             | 30.11              | 1.12              | 3. agregacje i wykresy do problemów bad. | 3,5 | 
+|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                          |     |
+|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 4. testy statystyczne do problemów bad.  | 4   |
+|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 5. utworzenie raportu badawczego         | 6   |
+|12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                          |     |
+|13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                          |     |
+|14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                          |     |
+|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                          |     |
 
-|Nr | Temat 	                         | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) |
-|---|------------------------------------|-----------------------|--------------------|-------------------|
-|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |
-|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |
-|   | Przetwarzanie danych 1             | `pandas`              |                    |                   |
-|3. | Przetwarzanie danych 2             | `pandas`  	         | 19.10              | 20.10             |
-|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             |
-|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |
-|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             |
-|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |
-|8. | Wizualizacja danych  	             | `seaborn`             | 30.11              | 1.12              |
-|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |
-|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             |
-|11.| Raportowanie                       | 	                     | 21.12              | 22.12             |
-|12.| Konsultacje                        |	                     | 11.01              | 19.01             |
-|13.| Konsultacje 	                     |                       | 18.01              | 19.01             |
-|14.| Konsultacje 	                     |                       | 25.01              | 26.01             |
-|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |
-
-\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11
+\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
 \** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
   
 
