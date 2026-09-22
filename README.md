@@ -39,7 +39,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                                |     |
 |14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                                |     |
 |15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                                |     |
-|   |                                    |                       |                    |                   | **Razem**                                      |     |
+|   |                                    |                       |                    |                   | **Razem**                                      | 20  |
 
 \* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
 \** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
