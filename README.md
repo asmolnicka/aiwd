@@ -8,81 +8,58 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### 📧 Kontakt do prowadzącego
 
-mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
+mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-16:15, pokój 110 (bud. AB)
 
 
 ## 📚 Organizacja zajęć
 
-1. 9 zajęć laboratoryjnych 
-2. Projekt - analiza wybranych danych:
-    - konsultacje wstępne
-    - realizacja projektu
-    - konsultacje końcowe
+1. 11 zajęć laboratoryjnych 
+2. ukończenie projektu realizowanego w trakcie semestru
+3. konsultacje końcowe
       
 ## 📅 Terminarz zajęć
 
 Grupa nr 3:
 
-|Nr | Temat 	                    | Biblioteka           | Data (czwartek) |
-|---|-------------------------------|----------------------|-----------------|
-|1. | Obliczenia numeryczne         | `notebook`, `numpy`  | 2.10            |
-|2. | Przetwarzanie danych 1        | `pandas`  	       | 9.10            |
-|3. | Przetwarzanie danych 2        | `pandas`  	       | 16.10           |
-|4. | Przetwarzanie danych 3        | `pandas`             | 23.10           |
-|5. | Czyszczenie danych            | `pandas`, `pyjanitor`| 30.10           |
-|6. | Agregacje                     | `pandas`             | 6.11            |
-|7. | Wizualizacja                  | `matplotlib`         | 13.11           |
-|8. | Testowanie statystyczne   	| `scipy`/`pingouin`   | 20.11           |
-|9. | Raportowanie                  |                      | 27.11           |
-|10.| Konsultacje 1                 |                      | 4.12            |
-|11.| Konsultacje 1                 | 	                   | 11.12           |
-|12.| Konsultacje 1                 |	                   | 18.12           |
-|13.| Konsultacje 2 	            |                      | 8.01            |
-|14.| Konsultacje 2 	            |                      | 15.01           |
-|15.| Konsultacje 2 	            |                      | 22.01           |
-|   | Konsultacje - Poprawa * 	    |                      | 2.02 ?          |
+|Nr | Temat 	                         | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) |
+|---|------------------------------------|-----------------------|--------------------|-------------------|
+|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |
+|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |
+|   | Przetwarzanie danych 1             | `pandas`              |                    |                   |
+|3. | Przetwarzanie danych 2             | `pandas`  	         | 19.10              | 20.10             |
+|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             |
+|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |
+|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             |
+|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |
+|8. | Wizualizacja danych  	             | `seaborn`             | 30.11              | 1.12              |
+|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |
+|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             |
+|11.| Raportowanie                       | 	                     | 21.12              | 22.12             |
+|12.| Konsultacje                        |	                     | 11.01              | 19.01             |
+|13.| Konsultacje 	                     |                       | 18.01              | 19.01             |
+|14.| Konsultacje 	                     |                       | 25.01              | 26.01             |
+|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |
 
-\* w razie nieuzbierania liczby punktów wystarczającej do zdania
+\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11
+\** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
   
-Grupy nr 1, 2:
-
-|Nr | Temat 	                    | Biblioteka           | Data (poniedziałek) |
-|---|-------------------------------|----------------------|---------------------|
-|1. | Obliczenia numeryczne         | `notebook`, `numpy`  | 6.10                |
-|2. | Przetwarzanie danych 1        | `pandas`  	       | 13.10               |
-|3. | Przetwarzanie danych 2        | `pandas`  	       | 20.10               |
-|4. | Przetwarzanie danych 3        | `pandas`  	       | 27.10               |
-|5. | Czyszczenie danych            | `pandas`, `pyjanitor`| 3.11                |
-|6. | Agregacje                     | `pandas`             | 17.11               |
-|7. | Wizualizacja                  | `matplotlib`         | 24.11               |
-|8. | Testowanie statystyczne   	| `scipy`/`pingouin`   | 1.12                |
-|9. | Raportowanie                  |                      | 8.12                |
-|10.| Konsultacje 1                 |                      | 15.12 + 16.12       |
-|11.| Konsultacje 1                 | 	                   | 12.01 + 13.01       |
-|12.| Konsultacje 2                 |	                   | 19.01               |
-|13.| Konsultacje 2 	            |                      | 26.01               |
-|14.| Konsultacje 2 	            |                      | 29.01               |
-|   | Konsultacje - Poprawa *	    |                      | 2.02 ?              |
-
-\* w razie nieuzbierania liczby punktów wystarczającej do zdania
-
 
 ## &#128175; Kryteria oceny z przedmiotu
 
-Łącznie na przedmiocie można zdobyć maksymalnie 26 punktów, na co składa się:
-- 20 punktów za projekt,
-- 6 punktów za kartkówki (3 po 2 pkt, niezapowiedziane).
+Łącznie na przedmiocie można zdobyć maksymalnie 20 punktów.
 
 | Ocena 	              | Liczba punktów |
 |-------------------------|----------------|
-| bardzo dobry (5,0)      | [23,5; 26]     |
-| dobry plus (4,5) 	      | [21; 23,5)     |
-| dobry (4,0) 	          | [18,5; 21)     |
-| dostateczny plus (3,5)  | [16,5; 18,5)   |
-| dostateczny (3,0) 	  | [14,5; 16,5)   |
-| niedostateczny (2,0)    | [0; 14,5)      |
+| bardzo dobry (5,0)      | [18; 20]       |
+| dobry plus (4,5) 	      | [16; 18)       |
+| dobry (4,0) 	          | [14; 16)       |
+| dostateczny plus (3,5)  | [12,5; 14)     |
+| dostateczny (3,0) 	  | [11; 12,5)     |
+| niedostateczny (2,0)    | [0; 11)        |
 
-Dozwolone są maksymalnie 2 nieobecności. Odbycie obu konsultacji projektowych jest obowiązkowe.
+Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za część raportową projektu.
+
+Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji projektowych jest obowiązkowe.
 
 
 ## &#x1F4CB; Projekt
@@ -91,10 +68,8 @@ Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie dan
 
 ### Dane
 
-**Strony ze zbiorami danych do pobrania**:
+**Strona ze zbiorami danych do pobrania**:
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Dataquest: free datasets for projects](https://www.dataquest.io/blog/free-datasets-for-projects)
-- [freeCodeCamp: open data sources](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d)
 
 Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
 
@@ -183,51 +158,37 @@ W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w cel
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w inny dzień niż 22.01)/trzy dni przed spotkaniem (jeśli jest ono 22.01).
+    Należy je przesłać do końca dnia cztery dni przed spotkaniem.
 
-Na obie konsultacje należy zapisać się do **24. listopada**.
+Na konsultacje należy zapisać się do **15. grudnia**.
 
-
-**Grupa 3**
-
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
-  - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
-
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
-  - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
 
 **Grupa 1**
 
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
-  - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
-  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
- 
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
-
-\* dzielone z grupą 2
+Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
+  - poniedziałek 11., 18., 25. stycznia 14:55-16:35 s. 305 
 
 **Grupa 2**
+ 
+Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+  - poniedziałek 11., 18., 25. stycznia 16:50-18:30 s. 305
+    
+**Grupa 3**
 
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
-  - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
-  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
+Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+  - wtorek 12., 19., 26. stycznia 13:10-14:50 s. 305
+    
+**Grupa 4**
 
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
-
-\* dzielone z grupą 1
+Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+  - wtorek 12., 19., 26. stycznia 16:50-18:30 s. 305
 
 
 ## &#x1F4CA; DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-[grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
+[grupa DataCamp](https://www.datacamp.com/groups/shared_links/da1c5b4f28aab07beeccbce7c6db055e7b0d31d0fd551e1be624499ef83908c2)
 
 Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
 
@@ -245,9 +206,6 @@ A także opcjonalnie:
   -	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
 
 
-Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
-  -	Web Scraping in Python
-
 ## 💻 Instalacja Jupyter Notebook
 
 W wierszu poleceń:
@@ -262,12 +220,12 @@ Aby uruchomić notebook wpisujemy w wierszu poleceń:
 jupyter notebook
 ```
 
-lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
+lub (bardziej skuteczne, jeśli nie mamy polecenia `jupyter`)
 
 ```
 python -m notebook
 ```
 
 Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
-Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu (na Dziobaka).
     
