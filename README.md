@@ -34,7 +34,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                                |     |
 |10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne do problemów badawczych  | 4   |
 |11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. utworzenie raportu badawczego               | 6   |
-|   |                                    |                       |                    |                   |    oraz odpowiadającego mu kodu                | 1   |
+|   |                                    |                       |                    |                   |    oraz dobre zorganizowanie całości kodu      | 1   |
 |12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                                |     |
 |13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                                |     |
 |14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                                |     |
@@ -47,7 +47,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 
 ## &#128175; Kryteria oceny z przedmiotu
 
-Łącznie na przedmiocie można zdobyć maksymalnie 20 punktów.
+Łącznie na przedmiocie można zdobyć maksymalnie 20 punktów, przy czym kolejne stopnie odpowiadają następującym przedziałom punktów:
 
 | Ocena 	              | Liczba punktów |
 |-------------------------|----------------|
@@ -58,7 +58,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 | dostateczny (3,0) 	  | [11; 12,5)     |
 | niedostateczny (2,0)    | [0; 11)        |
 
-Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za część raportową projektu.
+Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za część raportową projektu (3 z 6 punktów).
 
 Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji projektowych jest obowiązkowe.
 
