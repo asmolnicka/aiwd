@@ -30,7 +30,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3.1. oczyszczenie danych                       | 2   |
 |   |                                    |                       |                    |                   | 3.2. zadanie z przetwarzania                   | 2   |        
 |7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                                |     |
-|8. | Wizualizacja danych  	           | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy do problemów badawczych | 3,5 | 
+|8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy do problemów badawczych | 3,5 | 
 |9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                                |     |
 |10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne do problemów badawczych  | 4   |
 |11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. utworzenie raportu badawczego               | 6   |
@@ -149,7 +149,7 @@ W ramach projektu wymagana jest konsultacja poprojektowa - rozmowa o projekcie p
     - kodu analizy w pliku `.ipynb`
     - raportu w pliku `.pdf`
 
-    Należy je przesłać do końca dnia cztery dni przed spotkaniem.
+Należy je przesłać do końca dnia cztery dni przed spotkaniem.
 
 Na konsultacje należy zapisać się do **15. grudnia**.
 
@@ -157,12 +157,12 @@ Na konsultacje należy zapisać się do **15. grudnia**.
 **Grupa 1**
 
 Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
-  - poniedziałek 11., 18., 25. stycznia 14:55-16:35 s. 305 
+  - poniedziałek 11., 18., 25. stycznia 15:00-16:30 s. 305 
 
 **Grupa 2**
  
 Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - poniedziałek 11., 18., 25. stycznia 16:50-18:30 s. 305
+  - poniedziałek 11., 18., 25. stycznia 16:40-18:20 s. 305
     
 **Grupa 3**
 
@@ -172,7 +172,7 @@ Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2
 **Grupa 4**
 
 Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - wtorek 12., 19., 26. stycznia 16:50-18:30 s. 305
+  - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
 ## &#x1F4CA; DataCamp
