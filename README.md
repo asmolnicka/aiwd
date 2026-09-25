@@ -28,18 +28,18 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             | 2. ustalenie problemów badawczych              | 0,5 |
 |5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                                                |     |
 |6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3.1. oczyszczenie danych                       | 2   |
-|   |                                    |                       |                    |                   | 3.2. zadanie z przetwarzania                   | 2   |        
+|   |                                    |                       |                    |                   | 3.2. zadanie z przetwarzania                   | 7   |        
 |7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                                |     |
 |8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy do problemów badawczych | 3,5 | 
 |9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                                |     |
 |10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne do problemów badawczych  | 4   |
-|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. utworzenie raportu badawczego               | 6   |
+|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. utworzenie raportu statystycznego           | 6   |
 |   |                                    |                       |                    |                   |    oraz dobre zorganizowanie całości kodu      | 1   |
 |12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                                |     |
 |13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                                |     |
 |14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                                |     |
 |15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                                |     |
-|   |                                    |                       |                    |                   | **Razem**                                      | 20  |
+|   |                                    |                       |                    |                   | **Razem**                                      | 27  |
 
 \* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
 \** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
@@ -95,9 +95,9 @@ Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, 
 - **strona tytułowa**
 - **rozdział Dane**
     * czego dotyczą dane, skąd pochodzą
-    * skąd pobrano dane (np. z Kaggle)
+    * skąd pobrano dane (z Kaggle)
     * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba)
-    * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich
+    * zmienne użyte w analizie – co przedstawiają i jakie są skale poszczególnych z nich
     * opis przetworzenia danych, jeśli ono wystąpiło:
         - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. zmiana odpowiednich wartości na braki w danych)
         - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
