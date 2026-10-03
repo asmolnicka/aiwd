@@ -76,8 +76,8 @@ Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego p
 ### Konsultacje
 
 W ramach projektu wymagana jest konsultacja poprojektowa - rozmowa o projekcie przy kawie na temat:
-- kodu analizy w pliku `.ipynb`
-- - raportu w pliku `.pdf`
+  - kodu analizy w pliku `.ipynb`
+  - raportu w pliku `.pdf`
 
 Należy je przesłać do końca dnia cztery dni przed spotkaniem.
 
