@@ -85,22 +85,22 @@ Na konsultacje należy zapisać się do **15. grudnia**.
 
 **Grupa 1**
 
-Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=STEv1f&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)  
   - poniedziałek 11., 18., 25. stycznia 15:00-16:30 s. 305 
 
 **Grupa 2**
  
-Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=7b8b8A&nav=MTVfezc3NTY3NUE1LUNENTgtNDk3Ri1BREQwLTI2OUVCOTkxRjU1Rn0)  
   - poniedziałek 11., 18., 25. stycznia 16:40-18:20 s. 305
     
 **Grupa 3**
 
-Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=rcyabD&nav=MTVfezBBNjJEOTJDLTg4OUMtNDdFNy05NEI4LUU2MEQ2MUNFNjFEOH0)  
   - wtorek 12., 19., 26. stycznia 13:10-14:50 s. 305
     
 **Grupa 4**
 
-Konsultacje - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=ZCrPOG&nav=MTVfezQxQkYzQ0JCLTgyNDEtNDAwNi1CODUxLUNERDYxMjk1MUVBNH0)  
   - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
