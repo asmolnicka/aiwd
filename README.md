@@ -101,6 +101,27 @@ Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_
 Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
 
 
+## 🤖 Zasady używania GenAI
+
+### W projekcie
+
+Podczas wykonywania projektu dozwolone jest korzystanie z GenAI jako:
+- interaktywnej formy dokumentacji bibliotek Pythona,
+- lokalizatora błędów w kodzie
+- wsparcia w znalezieniu rozwiązania problemu analitycznego o niskiej złożoności i niestanowiącego kluczowej części zadania.
+Niezależnie od formy użycia konieczne jest jednak szczegółowe zrozumienie otrzymanych wyników oraz umiejętność i gotowość udzielenia odpowiedzi na związane z nimi pytania. Skorzystanie z GenAI w formie trzeciej wymaga ponadto wskazania w plikach załączonych do danego zadania miejsca i zakresu jej użycia. \
+Zabronione jest korzystanie z GenAI do rozwiązywania problemów stanowiących znaczące części zadań i problemów, w których wyręczenie przez GenAI może obniżyć prawdopodobieństwo osiągnięcia zakładanych efektów uczenia się.
+
+Podstawową zasadą, którą należy się kierować jest to, aby użycie GenAI było wspierające, a nie zastępujące (definicje korzystają z regulaminu przedmiotu Reasoning):
+- korzystanie wspomagające: ,,korzystanie w celu ułatwienia, wyjaśnienia lub udoskonalenia samodzielnej pracy studenta; student pozostaje głównym autorem, projektantem i decydentem; AI pełni rolę korepetytora lub wyspecjalizowanego redaktora, a nie twórcy''
+- korzystanie zastępujące: ,,korzystanie, w którym AI wykonuje istotne czynności poznawcze przewidziane przez efekty kształcenia danego zadania; w tym trybie AI staje się głównym wnioskującym, autorem lub rozwiązującym problem,
+  a student zostaje sprowadzony do roli twórcy promptów lub redaktora technicznego. Tego rodzaju użycie omija proces uczenia się.''
+
+### W liście zadań
+
+Podczas rozwiązywania listy zadań z przetwarzania danych korzystanie z GenAI jest zabronione. Wynika to z małej złożoności zadań oraz ich celu, którym jest samodzielne dopasowanie odpowiedniej metody do problemu i wywnioskowanie szczegółów jej zastosowania, korzystając jedynie z udostępnionych materiałów oraz dokumentacji Pythona. 
+
+
 ## &#x1F4CA; DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
