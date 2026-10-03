@@ -1,5 +1,5 @@
 
-# Analiza i Wizualizacja Danych
+# 📈 Analiza i Wizualizacja Danych 📉
 
 *Data Analysis and Visualization*
 
