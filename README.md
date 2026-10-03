@@ -19,26 +19,26 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
       
 ## 📅 Terminarz zajęć
 
-|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie                     | Pkt  | Termin    |
-|---|------------------------------------|-----------------------|--------------------|-------------------|-----------------------------|------|-----------|
-|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                             |      |           |
-|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                             |      |           |
-|   | Przetwarzanie danych 1             | `pandas`              |                    |                   | 1. zbiór danych             | 4.5  |           |
-|3. | Przetwarzanie danych 2             | `pandas`  	           | 19.10              | 20.10             |                             |      | zad. 1    |
-|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             | 2. problemy badawcze        | 2    |           |
-|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                             |      | zad. 2    | 
-|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3. oczyszczenie danych      | 4.5  |           |
-|   |                                    |                       |                    |                   | Lista zadań - przetwarzanie | 16   |           |        
-|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                             |      | zad. 3    |
-|8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy      | 12.5 | lis. zad. | 
-|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                             |      | zad. 4    |
-|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne       | 9.5  |           |
-|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. raport statystyczny      | 14   | zad. 5    |
-|12.| Konsultacje                        |	                 | 11.01              | 19.01             |                             |      | zad. 6    |
-|13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                             |      | zad. 6    |
-|14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                             |      | zad. 6    |      
-|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                             |      | zad. 6    |
-|   |                                    |                       |                    |                   | **Razem**                   | 63   |           |
+|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie                            | Pkt  | Termin      |
+|---|------------------------------------|-----------------------|--------------------|-------------------|------------------------------------|------|-------------|
+|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                                    |      |             |
+|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                                    |      |             |
+|   | Przetwarzanie danych 1             | `pandas`              |                    |                   | 1. zbiór danych                    | 4.5  |             |
+|3. | Przetwarzanie danych 2             | `pandas`  	           | 19.10              | 20.10             |                                    |      | zad. 1      |
+|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             | 2. problemy badawcze               | 2    |             |
+|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                                    |      | zad. 2      | 
+|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3. oczyszczenie danych             | 4.5  |             |
+|   |                                    |                       |                    |                   | Lista zadań - przetwarzanie danych | 16   |             |        
+|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                    |      | zad. 3      |
+|8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy             | 12.5 | lista zadań | 
+|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                    |      | zad. 4      |
+|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne              | 9.5  |             |
+|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. raport statystyczny             | 14   | zad. 5      |
+|12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                    |      | zad. 6      |
+|13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                    |      | zad. 6      |
+|14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                    |      | zad. 6      |      
+|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                    |      | zad. 6      |
+|   |                                    |                       |                    |                   | **Razem**                          | 63   |             |
 
 \* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
 \** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
