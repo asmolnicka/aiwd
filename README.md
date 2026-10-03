@@ -11,7 +11,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-16:15, pokój 110 (bud. AB)
 
 
-## 📚 Organizacja zajęć
+## 🗂️ Organizacja zajęć
 
 1. 11 zajęć laboratoryjnych 
 2. ukończenie projektu realizowanego w trakcie semestru
@@ -66,7 +66,7 @@ Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy pun
 Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji poprojektowej jest obowiązkowe.
 
 
-## 📑 #x1F4CB; Projekt
+## 📑 Projekt
 
 Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Każdy etap poza ostatnim należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie na 4 dni przed swoją konsultacją poprojektową.
 
@@ -96,7 +96,7 @@ Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_
   - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
-## 📋 &#x1F4CB; Lista zadań - Przetwarzanie danych
+## &#x1F4CB; Lista zadań - Przetwarzanie danych
 
 Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
 
