@@ -15,11 +15,11 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 
 1. 11 zajęć laboratoryjnych 
 2. ukończenie projektu realizowanego w trakcie semestru
-3. konsultacje poprojektowe
+3. konsultacja poprojektowa
       
 ## 📅 Terminarz zajęć
 
-|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie                            | Pkt  | Termin      |
+|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie domowe                     | Pkt  | Termin      |
 |---|------------------------------------|-----------------------|--------------------|-------------------|------------------------------------|------|-------------|
 |1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                                    |      |             |
 |2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                                    |      |             |
@@ -50,7 +50,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 - 47 punktów za projekt,
 - 16 punktów za listę zadań z części dotyczącej przetwarzania danych.
     
-Kolejnym ocenom z przedmiotu odpowiadają następujące przedziałom punktów:
+Kolejnym ocenom z przedmiotu odpowiadają następujące przedziały punktów:
 
 | Ocena 	              | Liczba punktów |
 |-------------------------|----------------|
@@ -61,27 +61,19 @@ Kolejnym ocenom z przedmiotu odpowiadają następujące przedziałom punktów:
 | dostateczny (3,0) 	  | [35; 40)       |
 | niedostateczny (2,0)    | [0; 35)        |
 
-Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za zadanie 6 - końcowy etap projekt (7 z 14 punktów).
+Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za zadanie 6 - końcowy etap projektu (7 z 14 punktów).
 
-Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji poprojektowych jest obowiązkowe.
+Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji poprojektowej jest obowiązkowe.
 
 
-## &#x1F4CB; Projekt
+## 📑 #x1F4CB; Projekt
 
-Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
+Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Każdy etap poza ostatnim należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie na 4 dni przed swoją konsultacją poprojektową.
 
-Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach. Każdy z nich powinien zostać wykonany do czasu następnych zajęć. Zadane pliki należy wstawić w odpowiednie miejsce na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020).
 
-### Konsultacje
+### Konsultacje projektowe
 
-W ramach projektu wymagana jest konsultacja poprojektowa - rozmowa o projekcie przy kawie na temat:
-  - kodu analizy w pliku `.ipynb`
-  - raportu w pliku `.pdf`
-
-Należy je przesłać do końca dnia cztery dni przed spotkaniem.
-
-Na konsultacje należy zapisać się do **15. grudnia**.
-
+Wymagana konsultacja projektowa jest rozmową na temat projektu. Należy zapisać się na nią do **15. grudnia**.
 
 **Grupa 1**
 
@@ -104,6 +96,11 @@ Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_
   - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
+## 📋 &#x1F4CB; Lista zadań - Przetwarzanie danych
+
+Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
+
+
 ## &#x1F4CA; DataCamp
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
@@ -115,10 +112,10 @@ Dostęp za pomocą maila uczelnianego trwa do 22 marca (lub dłużej po zgłosze
 Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
   -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
   -	Data Manipulation in Python (`numpy`; `pandas`)
-  - Data Visualization in Python (`matplotlib`; `seaborn`)
-  - Importing & Cleaning Data in Python (`pandas`)
-  - Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
-  - Hypothesis Testing in Python (`pingouin`)
+  -   Data Visualization in Python (`matplotlib`; `seaborn`)
+  -   Importing & Cleaning Data in Python (`pandas`)
+  -   Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
+  -   Hypothesis Testing in Python (`pingouin`)
 
 A także opcjonalnie:
   -	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
