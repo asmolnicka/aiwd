@@ -112,6 +112,7 @@ Podczas wykonywania projektu dozwolone jest korzystanie z GenAI jako:
 Niezależnie od formy użycia konieczne jest jednak szczegółowe zrozumienie otrzymanych wyników oraz umiejętność i gotowość udzielenia odpowiedzi na związane z nimi pytania. Skorzystanie z GenAI w formie trzeciej wymaga ponadto wskazania w plikach załączonych do danego zadania miejsca i zakresu jej użycia. \
 Zabronione jest korzystanie z GenAI do rozwiązywania problemów stanowiących znaczące części zadań i problemów, w których wyręczenie przez GenAI może obniżyć prawdopodobieństwo osiągnięcia zakładanych efektów uczenia się.
 
+
 Podstawową zasadą, którą należy się kierować jest to, aby użycie GenAI było wspierające, a nie zastępujące (definicje korzystają z regulaminu przedmiotu Reasoning):
 - korzystanie wspomagające: ,,korzystanie w celu ułatwienia, wyjaśnienia lub udoskonalenia samodzielnej pracy studenta; student pozostaje głównym autorem, projektantem i decydentem; AI pełni rolę korepetytora lub wyspecjalizowanego redaktora, a nie twórcy''
 - korzystanie zastępujące: ,,korzystanie, w którym AI wykonuje istotne czynności poznawcze przewidziane przez efekty kształcenia danego zadania; w tym trybie AI staje się głównym wnioskującym, autorem lub rozwiązującym problem,
