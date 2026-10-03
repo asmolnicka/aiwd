@@ -71,12 +71,13 @@ Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji poprojektowych je
 
 Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
 
+Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach. Każdy z nich powinien zostać wykonany do czasu następnych zajęć. Zadane pliki należy wstawić w odpowiednie miejsce na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020).
 
 ### Konsultacje
 
 W ramach projektu wymagana jest konsultacja poprojektowa - rozmowa o projekcie przy kawie na temat:
-    - kodu analizy w pliku `.ipynb`
-    - raportu w pliku `.pdf`
+- kodu analizy w pliku `.ipynb`
+- - raportu w pliku `.pdf`
 
 Należy je przesłać do końca dnia cztery dni przed spotkaniem.
 
