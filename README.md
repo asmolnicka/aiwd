@@ -15,7 +15,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 
 1. 11 zajęć laboratoryjnych 
 2. ukończenie projektu realizowanego w trakcie semestru
-3. konsultacje końcowe
+3. konsultacje poprojektowe
       
 ## 📅 Terminarz zajęć
 
@@ -47,9 +47,8 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 ## &#128175; Kryteria oceny z przedmiotu
 
 Łącznie na przedmiocie można zdobyć maksymalnie 63 punkty, na co składa się:
-
-    - 47 punktów za projekt,
-    - 16 punktów za listę zadań z części dotyczącej przetwarzania danych.
+- 47 punktów za projekt,
+- 16 punktów za listę zadań z części dotyczącej przetwarzania danych.
     
 Kolejnym ocenom z przedmiotu odpowiadają następujące przedziałom punktów:
 
