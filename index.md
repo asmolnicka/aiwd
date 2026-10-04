@@ -4,7 +4,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### 📧 Kontakt do prowadzącego
 
-mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smolnicka@amu.edu.pl), dyżur: poniedziałek 14:00-15:00, pokój 110 (bud. AB)
+mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smolnicka@amu.edu.pl), dyżur: wtorek 15:15-16:15, pokój 110 (bud. AB)
 
 ---
 
@@ -20,63 +20,40 @@ mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smo
 -->
 
 
-## 📚 Organizacja zajęć
+## 🗂️ Organizacja zajęć
 
-1. 9 zajęć laboratoryjnych 
-2. Projekt - analiza wybranych danych:
-    - konsultacje wstępne
-    - realizacja projektu
-    - konsultacje końcowe
+1. 11 zajęć laboratoryjnych 
+2. ukończenie projektu realizowanego w trakcie semestru
+3. konsultacja poprojektowa
 
 ---
 
 
 ## 📅 Terminarz zajęć
 
-Grupa nr 3:
+|Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie domowe                     | Pkt  | Termin      |
+|---|------------------------------------|-----------------------|--------------------|-------------------|------------------------------------|------|-------------|
+|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                                    |      |             |
+|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                                    |      |             |
+|   | Przetwarzanie danych 1             | `pandas`              |                    |                   | 1. zbiór danych                    | 4.5  |             |
+|3. | Przetwarzanie danych 2             | `pandas`  	           | 19.10              | 20.10             |                                    |      | zad. 1      |
+|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             | 2. problemy badawcze               | 2    |             |
+|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                                    |      | zad. 2      | 
+|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3. oczyszczenie danych             | 4.5  |             |
+|   |                                    |                       |                    |                   | Lista zadań - przetwarzanie danych | 16   |             |        
+|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                    |      | zad. 3      |
+|8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy             | 12.5 | lista zadań | 
+|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                    |      | zad. 4      |
+|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne              | 9.5  |             |
+|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. raport statystyczny             | 14   | zad. 5      |
+|12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                    |      | zad. 6      |
+|13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                    |      | zad. 6      |
+|14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                    |      | zad. 6      |      
+|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                    |      | zad. 6      |
+|   |                                    |                       |                    |                   | **Razem**                          | 63   |             |
 
-|Nr | Temat 	                    | Biblioteka           | Data (czwartek) |
-|---|-------------------------------|----------------------|-----------------|
-|1. | Obliczenia numeryczne         | `notebook`, `numpy`  | 2.10            |
-|2. | Przetwarzanie danych 1        | `pandas`  	       | 9.10            |
-|3. | Przetwarzanie danych 2        | `pandas`  	       | 16.10           |
-|4. | Przetwarzanie danych 3        | `pandas`             | 23.10           |
-|5. | Czyszczenie danych            | `pandas`, `pyjanitor`| 30.10           |
-|6. | Agregacje                     | `pandas`             | 6.11            |
-|7. | Wizualizacja                  | `matplotlib`         | 13.11           |
-|8. | Testowanie statystyczne   	| `scipy`/`pingouin`   | 20.11           |
-|9. | Raportowanie                  |                      | 27.11           |
-|10.| Konsultacje 1                 |                      | 4.12            |
-|11.| Konsultacje 1                 | 	                   | 11.12           |
-|12.| Konsultacje 1                 |	                   | 18.12           |
-|13.| Konsultacje 2 	            |                      | 8.01            |
-|14.| Konsultacje 2 	            |                      | 15.01           |
-|15.| Konsultacje 2 	            |                      | 22.01           |
-|   | Konsultacje - Poprawa * 	    |                      | 2.02 ?          |
-
-\* w razie nieuzbierania liczby punktów wystarczającej do zdania
-  
-Grupy nr 1, 2:
-
-|Nr | Temat 	                    | Biblioteka           | Data (poniedziałek) |
-|---|-------------------------------|----------------------|---------------------|
-|1. | Obliczenia numeryczne         | `notebook`, `numpy`  | 6.10                |
-|2. | Przetwarzanie danych 1        | `pandas`  	       | 13.10               |
-|3. | Przetwarzanie danych 2        | `pandas`  	       | 20.10               |
-|4. | Przetwarzanie danych 3        | `pandas`  	       | 27.10               |
-|5. | Czyszczenie danych            | `pandas`, `pyjanitor`| 3.11                |
-|6. | Agregacje                     | `pandas`             | 17.11               |
-|7. | Wizualizacja                  | `matplotlib`         | 24.11               |
-|8. | Testowanie statystyczne   	| `scipy`/`pingouin`   | 1.12                |
-|9. | Raportowanie                  |                      | 8.12                |
-|10.| Konsultacje 1                 |                      | 15.12 + 16.12       |
-|11.| Konsultacje 1                 | 	                   | 12.01 + 13.01       |
-|12.| Konsultacje 2                 |	                   | 19.01               |
-|13.| Konsultacje 2 	            |                      | 26.01               |
-|14.| Konsultacje 2 	            |                      | 29.01               |
-|   | Konsultacje - Poprawa *	    |                      | 2.02 ?              |
-
-\* w razie nieuzbierania liczby punktów wystarczającej do zdania
+\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
+\** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
 
 
 ---
@@ -84,159 +61,87 @@ Grupy nr 1, 2:
 
 ## &#128175; Kryteria oceny z przedmiotu
 
-Łącznie na przedmiocie można zdobyć maksymalnie 26 punktów, na co składa się:
-- 20 punktów za projekt,
-- 6 punktów za kartkówki (3 po 2 pkt, niezapowiedziane).
+Łącznie na przedmiocie można zdobyć maksymalnie 63 punkty, na co składa się:
+- 47 punktów za projekt,
+- 16 punktów za listę zadań z części dotyczącej przetwarzania danych.
+    
+Kolejnym ocenom z przedmiotu odpowiadają następujące przedziały punktów:
 
 | Ocena 	              | Liczba punktów |
 |-------------------------|----------------|
-| bardzo dobry (5,0)      | [23,5; 26]     |
-| dobry plus (4,5) 	      | [21; 23,5)     |
-| dobry (4,0) 	          | [18,5; 21)     |
-| dostateczny plus (3,5)  | [16,5; 18,5)   |
-| dostateczny (3,0) 	  | [14,5; 16,5)   |
-| niedostateczny (2,0)    | [0; 14,5)      |
+| bardzo dobry (5,0)      | [57; 63]       |
+| dobry plus (4,5) 	  | [51; 57)       |
+| dobry (4,0) 	        | [45; 51)       |
+| dostateczny plus (3,5)  | [40; 45)       |
+| dostateczny (3,0) 	  | [35; 40)       |
+| niedostateczny (2,0)    | [0; 35)        |
 
-Dozwolone są maksymalnie 2 nieobecności. Odbycie obu konsultacji projektowych jest obowiązkowe.
+Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za zadanie 6 - końcowy etap projektu (7 z 14 punktów).
+
+Dozwolone są maksymalnie 2 nieobecności, przy czym odbycie konsultacji projektowej jest obowiązkowe.
 
 
 ---
 
 
-## &#x1F4CB; Projekt
+## 📑 Projekt
 
-Celem projektu jest przeprowadzenie analiz na wybranym przez siebie zestawie danych oraz zaprezentowanie wyników w raporcie. Ocenie podlegać będzie kod analizy w arkuszu Jupyter Notebook oraz raport w formacie PDF.
-
-
-### Dane
-
-**Strony ze zbiorami danych do pobrania**:
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Dataquest: free datasets for projects](https://www.dataquest.io/blog/free-datasets-for-projects)
-- [freeCodeCamp: open data sources](https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d)
-
-Dane mogą pochodzić też z innego źródła, jeśli będą odpowiednie do analizy.
-
-**Dane oraz 5 pytań badawczych, każde z udziałem dwóch zmiennych, należy dobrać tak, aby**:
-- wśród zmiennych użytych w raporcie były co najmniej dwie zmienne nominalne, co najmniej jedna zmienna porządkowa i co najmniej dwie zmienne ilościowe
-- co najmniej dwa z pytań dotyczyły różnicy między grupami
-- co najmniej dwa z pytań dotyczyły związku pomiędzy zmiennymi
-- badanie co najmniej jednej z hipotez używało metody nieparametrycznej
-
-Zmienne wykorzystane w problemach badawczych mogą być zmiennymi oryginalnymi, zmiennymi powstałymi z ich modyfikacji lub zmiennymi stanowiącymi podzbiory oryginalnych zmiennych.
+Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Każdy etap poza ostatnim należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie na 4 dni przed swoją konsultacją poprojektową.
 
 
-### Struktura kodu
+### Konsultacje projektowe
 
-- wczytanie danych
-- czyszczenie danych
-- analiza ustalonych problemów
-
-
-### Struktura raportu
-
-- **strona tytułowa**
-- **rozdział Dane**
-    * czego dotyczą dane, skąd pochodzą
-    * skąd pobrano dane (np. z Kaggle)
-    * liczba obserwacji i czym jest każda z nich (np. wiersz = osoba)
-    * zmienne użyte w raporcie – co przedstawiają i jakie są skale poszczególnych z nich
-    * opis przetworzenia danych, jeśli ono wystąpiło:
-        - zabiegi wykonane w procesie czyszczenia danych (raczej dość ogólnie na czym one polegały) (np. zmiana odpowiednich wartości na braki w danych)
-        - przekształcenia danych na potrzeby analiz wraz z podaniem ich celu:
-            * utworzone nowe zmienne (na podstawie istniejących) dla zbadania któregoś z wybranych problemów
-            * modyfikacje istniejących kolumn dla możliwości zastosowania testu statystycznego, np. przypisanie poziomów odpowiednim wartościom zmiennej porządkowej lub np. pogrupowanie którychś wartości zmiennej nominalnej z powodu małej ich liczebności)
-- **rozdział Metody**
-    * dla każdego z problemów:
-        - pytanie badawcze
-        - hipoteza badawcza
-        - nazwa zastosowanego testu statystycznego (lub testów jeśli konieczne są również testy wstępne lub testy post-hoc)
-        - opis wyników testów wstępnych, jeśli są konieczne
-        - ewentualne dodatkowe informacje na temat zastosowania testów, jeśli przyjęto jakieś założenia
-- **rozdział Wyniki**
-    * dla każdego z problemów:
-        - hipotezy zerowa i alternatywna testu statystycznego ($H_0$, $H_1$)
-        - wykres wspólnego rozkładu zmiennych biorących udział w teście statystycznym, wizualizujący badany problem
-        - tabele z wynikami testów statystycznych (właściwego i post-hoc)
-        - opis wyników testów statystycznych (właściwego i post-hoc)
-
-
-### Kryteria oceniania projektu
-
-  - **wybór danych i pytania badawcze** (2 pkt - 10%)
-      - odpowiedni dobór danych
-      - poprawny dobór pytań badawczych
-  - **kod i analizy** (7,5 pkt - 37,5%)
-      - poprawne wykonanie testów statystycznych 
-      - czytelny, dobrze zorganizowany kod 
-  - **raport** (6 pkt - 30%)
-      - opis danych
-      - sformułowanie pytań i hipotez badawczych
-      - sformułowanie hipotez statystycznych
-      - wnioski oparte na analizach
-      - struktura raportu
-      - czytelność/estetyka
-  - **wizualizacja** (3,5 pkt - 17,5%)
-      - poprawność wykresów
-      - czytelność wykresów
-      - odpowiednie podpisy i tytuły
-  - **obrona projektu** (1 pkt - 5%)
-      - opowiedzenie o wykonanych działaniach i otrzymanych wynikach
-
-
-### Konsultacje
-
-W ramach projektu wymagane są, co najmniej dwie indywidualne konsultacje, w celu:
-
-1. omówienia wybranego zestawu danych i kierunku pracy – przedstawienie:
-    - wczytanego w Pythonie zbioru
-    - pytań i hipotez badawczych
-    - zaplanowanych testów statystycznych (<u>testów wstępnych i zależnych od ich wyników testów docelowych oraz post-hoc</u>) odpowiednich do zweryfikowania hipotez
-    - zaplanowanych wykresów wizualizujących badany problem
-
-    Należy je przesłać do końca dnia dwa dni przed spotkaniem. Proszę w plikach umieścić zbiór danych.
-
-2. rozmowy o projekcie przy kawie (ale kawę trzeba samemu sobie kupić c'nie) – przedstawienie:
-    - kodu analizy w pliku `.ipynb`
-    - raportu w pliku `.pdf`
-
-    Należy je przesłać do końca dnia pięć dni przed spotkaniem (jeśli jest ono w inny dzień niż 22.01)/trzy dni przed spotkaniem (jeśli jest ono 22.01).
-
-Na obie konsultacje należy zapisać się do **24. listopada**.
-
-**Grupa 3**
-
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-1)  
-  - czwartek 4., 11., 18. grudnia 8:10-9:30 s. 67 
-
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-3-konsultacje-2)  
-  - czwartek 8., 15., 22. stycznia 8:10-9:30 s. 67 
+Wymagana konsultacja projektowa jest rozmową na temat projektu. Należy zapisać się na nią do **15. grudnia**.
 
 **Grupa 1**
 
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
-  - poniedziałek 15. grudnia, 12. stycznia 14:55-16:35 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
-  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
- 
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - poniedziałek 19., 26., 29. stycznia 14:55-16:35 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
-
-\* dzielone z grupą 2
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=STEv1f&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)  
+  - poniedziałek 11., 18., 25. stycznia 15:00-16:30 s. 305 
 
 **Grupa 2**
+ 
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=7b8b8A&nav=MTVfezc3NTY3NUE1LUNENTgtNDk3Ri1BREQwLTI2OUVCOTkxRjU1Rn0)  
+  - poniedziałek 11., 18., 25. stycznia 16:40-18:20 s. 305
+    
+**Grupa 3**
 
-Konsultacje 1 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-1)  
-  - poniedziałek 15. grudnia, 12. stycznia 16:50-18:30 s. 305
-  - poniedziałek 15. grudnia, 12. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 *
-  - wtorek 16. grudnia, 13. stycznia 11:25-13:05 s. 67 * 
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=rcyabD&nav=MTVfezBBNjJEOTJDLTg4OUMtNDdFNy05NEI4LUU2MEQ2MUNFNjFEOH0)  
+  - wtorek 12., 19., 26. stycznia 13:10-14:50 s. 305
+    
+**Grupa 4**
 
-Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje-2)  
-  - poniedziałek 19., 26., 29. stycznia 16:50-18:30 s. 305
-  - poniedziałek 19., 29. stycznia 7:55-9:35 s. 67, 14-14:40 s. 110 * 
+Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=ZCrPOG&nav=MTVfezQxQkYzQ0JCLTgyNDEtNDAwNi1CODUxLUNERDYxMjk1MUVBNH0)  
+  - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
-\* dzielone z grupą 1
+
+## &#x1F4CB; Lista zadań - Przetwarzanie danych
+
+Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
+
+---
+
+
+## 🤖 Zasady używania GenAI
+
+### W projekcie
+
+Podczas wykonywania projektu dozwolone jest korzystanie z GenAI jako:
+- interaktywnej formy dokumentacji bibliotek Pythona,
+- lokalizatora błędów w kodzie
+- wsparcia w znalezieniu rozwiązania problemu analitycznego o niskiej złożoności i niestanowiącego kluczowej części zadania.
+  
+Niezależnie od formy użycia konieczne jest jednak szczegółowe zrozumienie otrzymanych wyników oraz umiejętność i gotowość udzielenia odpowiedzi na związane z nimi pytania. Skorzystanie z GenAI w formie trzeciej wymaga ponadto wskazania w plikach załączonych do danego zadania miejsca i zakresu jej użycia. 
+
+Zabronione jest korzystanie z GenAI do rozwiązywania problemów stanowiących znaczące części zadań i problemów, w których wyręczenie przez GenAI może obniżyć prawdopodobieństwo osiągnięcia zakładanych efektów uczenia się.
+
+Podstawową zasadą, którą należy się kierować jest to, aby użycie GenAI było wspierające, a nie zastępujące (definicje korzystają z regulaminu przedmiotu Reasoning):
+- korzystanie wspomagające: ,,korzystanie w celu ułatwienia, wyjaśnienia lub udoskonalenia samodzielnej pracy studenta; student pozostaje głównym autorem, projektantem i decydentem; AI pełni rolę korepetytora lub wyspecjalizowanego redaktora, a nie twórcy''
+- korzystanie zastępujące: ,,korzystanie, w którym AI wykonuje istotne czynności poznawcze przewidziane przez efekty kształcenia danego zadania; w tym trybie AI staje się głównym wnioskującym, autorem lub rozwiązującym problem,
+  a student zostaje sprowadzony do roli twórcy promptów lub redaktora technicznego. Tego rodzaju użycie omija proces uczenia się.''
+
+### W liście zadań
+
+Podczas rozwiązywania listy zadań z przetwarzania danych korzystanie z GenAI jest zabronione. Wynika to z małej złożoności zadań oraz ich celu, którym jest samodzielne dopasowanie odpowiedniej metody do problemu i wywnioskowanie szczegółów jej zastosowania, korzystając jedynie z udostępnionych materiałów oraz dokumentacji Pythona. 
 
 
 ---
@@ -246,25 +151,52 @@ Konsultacje 2 - [zapisy](https://calendly.com/agnsmo6-amu/aiwd-gr-12-konsultacje
 
 Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowania:
 
-[grupa DataCamp](https://www.datacamp.com/groups/shared_links/a967d2ad50a162684433830baab2d9a4a4eae007f023f18f4c2971b3f99ed678)
+[grupa DataCamp](https://www.datacamp.com/groups/shared_links/da1c5b4f28aab07beeccbce7c6db055e7b0d31d0fd551e1be624499ef83908c2)
 
-Dostęp za pomocą maila uczelnianego trwa do 13 marca (lub dłużej po zgłoszeniu się do mnie).
-Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
-  -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
-  -	Data Manipulation in Python (`numpy`; `pandas`)
-  - Data Visualization in Python (`matplotlib`; `seaborn`)
-  - Importing & Cleaning Data in Python (`pandas`)
-  - Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
-  - Hypothesis Testing in Python (`pingouin`)
+Dostęp za pomocą maila uczelnianego trwa do 22 marca (lub dłużej po zgłoszeniu się do mnie).
 
-A także opcjonalnie:
-  -	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
-  -	Experimental Design in Python $\rightarrow$ szczególnie: Analyzing Experimental Data: Statistical Tests and Power
-  -	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
+Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)).
 
+### Kursy
 
-Kurs zawierający elementy HTML i CSS (dla bardziej zainteresowanych do KCK):
-  -	Web Scraping in Python
+1. Obliczenia numeryczne
+      - Introduction to NumPy
+2. Wizualizacja danych numerycznych
+      - Introduction to Data Visualization with Matplotlib → Introduction to Matplotlib, Sharing visualizations with others
+3. Przetwarzanie danych
+      - Intermediate Python → Dictionaries \& Pandas
+      - Introduction to Importing Data in Python → Introduction and flat files
+      - Data Manipulation with pandas \
+_Rozszerzenie_:
+      - Reshaping Data with pandas
+      - Joining Data with pandas
+4. Czyszczenie danych
+      - Cleaning Data in Python
+5. Agregacje
+      - Introduction to Statistics in Python → Summary Statistics
+6. Wizualizacja zmiennych
+      - Introduction to Data Visualization with Seaborn \
+_Alternatywa_:
+      - Introduction to Data Visualization with Matplotlib → Quantitative comparisons and statistical visualizations \
+_Rozszerzenie_: 
+      - Improving Your Data Visualizations in Python
+7. Testowanie statystyczne
+      - Hypothesis Testing in Python
+      - Exploratory Data Analysis in Python \
+_Rozszerzenie_:
+      - Introduction to Statistics in Python → Correlation and Experimental Design
+      - Experimental Design in Python
+      - Foundations of Inference in Python
+
+### Ścieżki
+
+Ścieżki składają się z kilku powiązanych kursów - wyżej wymienionych oraz zbliżonych do nich tematycznie.
+
+- Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
+- Data Manipulation in Python (`numpy`; `pandas`)
+- Importing \& Cleaning Data in Python (`pandas`)
+- Data Visualization in Python (`matplotlib`; `seaborn`)
+
 
 
 ---
