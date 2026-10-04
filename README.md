@@ -150,24 +150,16 @@ Rozszerzenie:
 4. Czyszczenie danych
 - Cleaning Data in Python
 5. Agregacje
-
 - Introduction to Statistics in Python → Summary Statistics
-
-**Wizualizacja zmiennych**
-
-- Introduction to Data Visualization with Seaborn
-  
+6. Wizualizacja zmiennych
+- Introduction to Data Visualization with Seaborn \
 Alternatywa:
 - Introduction to Data Visualization with Matplotlib, rozdział „Quantitative comparisons and statistical visualizations”
-
-Rozszerzenie: 
+Rozszerzenie: \
 - Improving Your Data Visualizations in Python
-
-**Testowanie statystyczne** 
-
+7. Testowanie statystyczne
 - Hypothesis Testing in Python
 - Exploratory Data Analysis in Python
-  
 Rozszerzenie:
 - Introduction to Statistics in Python, rozdział „Correlation and Experimental Design”
 - Experimental Design in Python
