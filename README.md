@@ -139,12 +139,12 @@ Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Cou
 1. Obliczenia numeryczne
       - Introduction to NumPy
 2. Wizualizacja danych numerycznych
-      - Introduction to Data Visualization with Matplotlib, rozdziały „Introduction to Matplotlib”, „Sharing visualizations with others”
+      - Introduction to Data Visualization with Matplotlib, rozdziały ,,Introduction to Matplotlib'', ,,Sharing visualizations with others''
 3. Przetwarzanie danych
-      - Intermediate Python, rozdział „Dictionaries & Pandas”
-      - Introduction to Importing Data in Python, rozdział „Introduction and flat files”
+      - Intermediate Python, rozdział ,,Dictionaries & Pandas''
+      - Introduction to Importing Data in Python, rozdział ,,Introduction and flat files''
       - Data Manipulation with pandas \
-Rozszerzenie:
+_Rozszerzenie_:
       - Reshaping Data with pandas
       - Joining Data with pandas
 4. Czyszczenie danych
@@ -153,15 +153,15 @@ Rozszerzenie:
       - Introduction to Statistics in Python → Summary Statistics
 6. Wizualizacja zmiennych
       - Introduction to Data Visualization with Seaborn \
-Alternatywa:
-      - Introduction to Data Visualization with Matplotlib, rozdział „Quantitative comparisons and statistical visualizations”
-Rozszerzenie: \
+_Alternatywa_:
+      - Introduction to Data Visualization with Matplotlib, rozdział ,,Quantitative comparisons and statistical visualizations'' \
+_Rozszerzenie_: 
       - Improving Your Data Visualizations in Python
 7. Testowanie statystyczne
       - Hypothesis Testing in Python
       - Exploratory Data Analysis in Python
-Rozszerzenie:
-      - Introduction to Statistics in Python, rozdział „Correlation and Experimental Design”
+_Rozszerzenie_:
+      - Introduction to Statistics in Python, rozdział ,,Correlation and Experimental Design''
       - Experimental Design in Python
       - Foundations of Inference in Python
 
