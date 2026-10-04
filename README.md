@@ -132,18 +132,54 @@ Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowan
 
 Dostęp za pomocą maila uczelnianego trwa do 22 marca (lub dłużej po zgłoszeniu się do mnie).
 
-Przydatne ścieżki/kursy (w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
-  -	Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
-  -	Data Manipulation in Python (`numpy`; `pandas`)
-  -   Data Visualization in Python (`matplotlib`; `seaborn`)
-  -   Importing & Cleaning Data in Python (`pandas`)
-  -   Exploratory Data Analysis in Python (`pandas`; `matplotlib`; `seaborn`)
-  -   Hypothesis Testing in Python (`pingouin`)
+Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
 
-A także opcjonalnie:
-  -	Introduction to Statistics in Python $\rightarrow$ Summary Statistics, Correlation and Experimental Design
-  -	Experimental Design in Python $\rightarrow$ szczególnie: Analyzing Experimental Data: Statistical Tests and Power
-  -	Foundations of Inference in Python $\rightarrow$ Hypothesis Testing Toolkit, Effect Size
+### Kursy
+
+**Obliczenia numeryczne**
+Introduction to NumPy
+
+**Wizualizacja danych numerycznych**
+Introduction to Data Visualization with Matplotlib,
+rozdziały „Introduction to Matplotlib”, „Sharing visualizations with others”
+
+**Przetwarzanie danych**
+Intermediate Python, rozdział „Dictionaries & Pandas”
+Introduction to Importing Data in Python,
+rozdział „Introduction and flat files”
+Data Manipulation with pandas
+Rozszerzenie: Reshaping Data with pandas, Joining Data with pandas
+
+**Czyszczenie danych**
+Cleaning Data in Python
+
+**Agregacje**
+Introduction to Statistics in Python → Summary Statistics
+
+**Wizualizacja zmiennych** 
+Introduction to Data Visualization with Seaborn
+Alternatywa:
+Introduction to Data Visualization with Matplotlib,
+rozdział „Quantitative comparisons and statistical visualizations”
+Rozszerzenie: 
+Improving Your Data Visualizations in Python
+
+**Testowanie statystyczne** 
+Hypothesis Testing in Python
+Exploratory Data Analysis in Python
+Rozszerzenie:
+Introduction to Statistics in Python, rozdział „Correlation and Experimental Design”
+Experimental Design in Python
+Foundations of Inference in Python
+
+### Ścieżki
+
+Ścieżki składają się z kilku powiązanych kursów - wyżej wymienionych oraz zbliżonych do nich tematycznie.
+
+- Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
+- Data Manipulation in Python (`numpy`; `pandas`)
+- Importing \& Cleaning Data in Python (`pandas`)
+- Data Visualization in Python (`matplotlib`; `seaborn`)
 
 
 ## 💻 Instalacja Jupyter Notebook
