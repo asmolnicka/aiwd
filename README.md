@@ -136,29 +136,20 @@ Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Cou
 
 ### Kursy
 
-**Obliczenia numeryczne**
-
+1. Obliczenia numeryczne
 - Introduction to NumPy
-
-**Wizualizacja danych numerycznych**
-
+2. Wizualizacja danych numerycznych
 - Introduction to Data Visualization with Matplotlib, rozdziały „Introduction to Matplotlib”, „Sharing visualizations with others”
-
-**Przetwarzanie danych**
-
+3. Przetwarzanie danych
 - Intermediate Python, rozdział „Dictionaries & Pandas”
 - Introduction to Importing Data in Python, rozdział „Introduction and flat files”
-- Data Manipulation with pandas
-
+- Data Manipulation with pandas \
 Rozszerzenie:
 - Reshaping Data with pandas
 - Joining Data with pandas
-
-**Czyszczenie danych**
-
+4. Czyszczenie danych
 - Cleaning Data in Python
-
-**Agregacje**
+5. Agregacje
 
 - Introduction to Statistics in Python → Summary Statistics
 
