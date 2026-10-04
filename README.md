@@ -63,7 +63,7 @@ Kolejnym ocenom z przedmiotu odpowiadają następujące przedziały punktów:
 
 Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za zadanie 6 - końcowy etap projektu (7 z 14 punktów).
 
-Dozwolone są maksymalnie 2 nieobecności. Odbycie konsultacji poprojektowej jest obowiązkowe.
+Dozwolone są maksymalnie 2 nieobecności, przy czym odbycie konsultacji projektowej jest obowiązkowe.
 
 
 ## 📑 Projekt
