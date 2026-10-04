@@ -132,17 +132,17 @@ Darmowy dostęp do popularnej platformy z kursami z analizy danych i programowan
 
 Dostęp za pomocą maila uczelnianego trwa do 22 marca (lub dłużej po zgłoszeniu się do mnie).
 
-Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)):
+Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Courses (oraz Learn $\rightarrow$ Assignments)).
 
 ### Kursy
 
 1. Obliczenia numeryczne
       - Introduction to NumPy
 2. Wizualizacja danych numerycznych
-      - Introduction to Data Visualization with Matplotlib, rozdziały ,,Introduction to Matplotlib'', ,,Sharing visualizations with others''
+      - Introduction to Data Visualization with Matplotlib, → Introduction to Matplotlib, Sharing visualizations with others
 3. Przetwarzanie danych
-      - Intermediate Python, rozdział ,,Dictionaries & Pandas''
-      - Introduction to Importing Data in Python, rozdział ,,Introduction and flat files''
+      - Intermediate Python → Dictionaries \& Pandas
+      - Introduction to Importing Data in Python → Introduction and flat files
       - Data Manipulation with pandas \
 _Rozszerzenie_:
       - Reshaping Data with pandas
@@ -154,14 +154,14 @@ _Rozszerzenie_:
 6. Wizualizacja zmiennych
       - Introduction to Data Visualization with Seaborn \
 _Alternatywa_:
-      - Introduction to Data Visualization with Matplotlib, rozdział ,,Quantitative comparisons and statistical visualizations'' \
+      - Introduction to Data Visualization with Matplotlib → Quantitative comparisons and statistical visualizations \
 _Rozszerzenie_: 
       - Improving Your Data Visualizations in Python
 7. Testowanie statystyczne
       - Hypothesis Testing in Python
       - Exploratory Data Analysis in Python
 _Rozszerzenie_:
-      - Introduction to Statistics in Python, rozdział ,,Correlation and Experimental Design''
+      - Introduction to Statistics in Python → Correlation and Experimental Design
       - Experimental Design in Python
       - Foundations of Inference in Python
 
