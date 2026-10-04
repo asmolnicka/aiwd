@@ -96,7 +96,7 @@ Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_
   - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
-## &#x1F4CB; Lista zadań - Przetwarzanie danych
+## &#x1F4CB; Lista zadań 
 
 Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
 
