@@ -158,7 +158,7 @@ Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Cou
 2. Wizualizacja danych numerycznych
       - Introduction to Data Visualization with Matplotlib → Introduction to Matplotlib, Sharing visualizations with others
 3. Przetwarzanie danych
-      - Intermediate Python → Dictionaries \& Pandas
+      - Intermediate Python → Dictionaries & Pandas
       - Introduction to Importing Data in Python → Introduction and flat files
       - Data Manipulation with pandas \
 _Rozszerzenie_:
@@ -188,7 +188,7 @@ _Rozszerzenie_:
 
 - Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
 - Data Manipulation in Python (`numpy`; `pandas`)
-- Importing \& Cleaning Data in Python (`pandas`)
+- Importing & Cleaning Data in Python (`pandas`)
 - Data Visualization in Python (`matplotlib`; `seaborn`)
 
 
