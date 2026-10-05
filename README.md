@@ -65,6 +65,8 @@ Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy pun
 
 Dozwolone są maksymalnie 2 nieobecności, przy czym odbycie konsultacji projektowej jest obowiązkowe.
 
+W przypadku nieosiągnięcia liczby punktów wystarczającej do zdania, możliwa jest jednorazowa poprawa całości projektu.
+
 
 ## 📑 Projekt
 
@@ -75,24 +77,16 @@ Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego p
 
 Wymagana konsultacja projektowa jest rozmową na temat projektu. Należy zapisać się na nią do **15. grudnia**.
 
-**Grupa 1**
-
-Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=STEv1f&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)  
+**Grupa 1**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=STEv1f&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)  
   - poniedziałek 11., 18., 25. stycznia 15:00-16:30 s. 305 
 
-**Grupa 2**
- 
-Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=7b8b8A&nav=MTVfezc3NTY3NUE1LUNENTgtNDk3Ri1BREQwLTI2OUVCOTkxRjU1Rn0)  
+**Grupa 2**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=7b8b8A&nav=MTVfezc3NTY3NUE1LUNENTgtNDk3Ri1BREQwLTI2OUVCOTkxRjU1Rn0)  
   - poniedziałek 11., 18., 25. stycznia 16:40-18:20 s. 305
     
-**Grupa 3**
-
-Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=rcyabD&nav=MTVfezBBNjJEOTJDLTg4OUMtNDdFNy05NEI4LUU2MEQ2MUNFNjFEOH0)  
+**Grupa 3**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=rcyabD&nav=MTVfezBBNjJEOTJDLTg4OUMtNDdFNy05NEI4LUU2MEQ2MUNFNjFEOH0)  
   - wtorek 12., 19., 26. stycznia 13:10-14:50 s. 305
     
-**Grupa 4**
-
-Konsultacje - [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=ZCrPOG&nav=MTVfezQxQkYzQ0JCLTgyNDEtNDAwNi1CODUxLUNERDYxMjk1MUVBNH0)  
+**Grupa 4**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=ZCrPOG&nav=MTVfezQxQkYzQ0JCLTgyNDEtNDAwNi1CODUxLUNERDYxMjk1MUVBNH0)  
   - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
 
 
@@ -110,11 +104,11 @@ Podczas wykonywania projektu dozwolone jest korzystanie z GenAI jako:
 - lokalizatora błędów w kodzie
 - wsparcia w znalezieniu rozwiązania problemu analitycznego o niskiej złożoności i niestanowiącego kluczowej części zadania.
   
-Niezależnie od formy użycia konieczne jest jednak szczegółowe zrozumienie otrzymanych wyników oraz umiejętność i gotowość udzielenia odpowiedzi na związane z nimi pytania. Skorzystanie z GenAI w formie trzeciej wymaga ponadto wskazania w plikach załączonych do danego zadania miejsca i zakresu jej użycia. 
+Niezależnie od formy użycia konieczne jest jednak szczegółowe zrozumienie otrzymanych wyników oraz umiejętność i gotowość udzielenia odpowiedzi na związane z nimi pytania. Skorzystanie z GenAI w formie trzeciej z wymienionych wymaga ponadto wskazania w plikach załączonych do danego zadania miejsca i zakresu jej użycia. 
 
-Zabronione jest korzystanie z GenAI do rozwiązywania problemów stanowiących znaczące części zadań i problemów, w których wyręczenie przez GenAI może obniżyć prawdopodobieństwo osiągnięcia zakładanych efektów uczenia się.
+Zabronione jest korzystanie z GenAI do rozwiązywania problemów stanowiących znaczące części zadań i problemów, w których wyręczenie przez GenAI spowodowałoby nieosiągnięcie zakładanych efektów uczenia się.
 
-Podstawową zasadą, którą należy się kierować jest to, aby użycie GenAI było wspierające, a nie zastępujące (definicje korzystają z regulaminu przedmiotu Reasoning):
+Podstawową zasadą, którą należy się kierować jest to, aby użycie GenAI było wspierające, a nie zastępujące - fragmenty definicji z regulaminu przedmiotu Reasoning:
 - korzystanie wspomagające: ,,korzystanie w celu ułatwienia, wyjaśnienia lub udoskonalenia samodzielnej pracy studenta; student pozostaje głównym autorem, projektantem i decydentem; AI pełni rolę korepetytora lub wyspecjalizowanego redaktora, a nie twórcy''
 - korzystanie zastępujące: ,,korzystanie, w którym AI wykonuje istotne czynności poznawcze przewidziane przez efekty kształcenia danego zadania; w tym trybie AI staje się głównym wnioskującym, autorem lub rozwiązującym problem,
   a student zostaje sprowadzony do roli twórcy promptów lub redaktora technicznego. Tego rodzaju użycie omija proces uczenia się.''
@@ -141,7 +135,7 @@ Przydatne kursy można znaleźć w zakładce Learn (na górze) $\rightarrow$ Cou
 2. Wizualizacja danych numerycznych
       - Introduction to Data Visualization with Matplotlib → Introduction to Matplotlib, Sharing visualizations with others
 3. Przetwarzanie danych
-      - Intermediate Python → Dictionaries \& Pandas
+      - Intermediate Python → Dictionaries & Pandas
       - Introduction to Importing Data in Python → Introduction and flat files
       - Data Manipulation with pandas \
 _Rozszerzenie_:
@@ -171,7 +165,7 @@ _Rozszerzenie_:
 
 - Python Data Fundamentals (podstawy Pythona; podstawy `matplotlib` i `numpy`; `pandas`; `seaborn`)
 - Data Manipulation in Python (`numpy`; `pandas`)
-- Importing \& Cleaning Data in Python (`pandas`)
+- Importing & Cleaning Data in Python (`pandas`)
 - Data Visualization in Python (`matplotlib`; `seaborn`)
 
 
@@ -196,5 +190,5 @@ python -m notebook
 ```
 
 Środowisko Dziobak - chmura na pliki: http://150.254.90.119 \
-Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu (na Dziobaka).
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu (do Dziobaka).
     
