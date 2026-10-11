@@ -65,7 +65,7 @@ Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy pun
 
 Dozwolone są maksymalnie 2 nieobecności, przy czym odbycie konsultacji projektowej jest obowiązkowe.
 
-W przypadku nieosiągnięcia liczby punktów wystarczającej do zdania, możliwa jest jednorazowa poprawa całości projektu.
+W przypadku nieosiągnięcia łącznej liczby punktów wystarczającej do zdania, możliwa jest jednorazowa poprawa całości projektu, a w przypadku niespełnienia warunku dotyczącego zadania 6 - poprawa niego samego.
 
 
 ## 📑 Projekt
