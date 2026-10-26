@@ -39,7 +39,7 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |   |                                    |	                 | 1.02               | 2.02              |                                    |      | zad. 5 i 6  |
 |   |                                    |                       |                    |                   | **Razem**                          | 63   |             |
 
-\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
+\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 
 
 
 ## &#128175; Kryteria oceny z przedmiotu
