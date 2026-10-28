@@ -68,7 +68,7 @@ W przypadku nieosiągnięcia łącznej liczby punktów wystarczającej do zdania
 
 ## 📑 Projekt
 
-Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Każdy etap poza ostatnim należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie do 1.02 w przypadku grup poniedziałkowych i 2.02 w przypadku grup wtorkowych.
+Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Pierwsze cztery etapy należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie do 1.02 w przypadku grup poniedziałkowych i 2.02 w przypadku grup wtorkowych.
 
 
 ## &#x1F4CB; Lista zadań 
