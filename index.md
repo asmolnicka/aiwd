@@ -22,9 +22,8 @@ mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smo
 
 ## 🗂️ Organizacja zajęć
 
-1. 11 zajęć laboratoryjnych 
-2. ukończenie projektu realizowanego w trakcie semestru
-3. konsultacja poprojektowa
+1. 13 zajęć laboratoryjnych 
+2. ukończenie projektu realizowanego w trakcie 
 
 ---
 
@@ -33,27 +32,25 @@ mgr Agnieszka Smolnicka, [`agnieszka.smolnicka@amu.edu.pl`](mailto:agnieszka.smo
 
 |Nr | Temat 	                       | Biblioteka            | Data gr. 1,2 (pon) | Data gr. 3,4 (wt) | Zadanie domowe                     | Pkt  | Termin      |
 |---|------------------------------------|-----------------------|--------------------|-------------------|------------------------------------|------|-------------|
-|1. | Obliczenia numeryczne              | `notebook`, `numpy`   | 5.10               | 6.10              |                                    |      |             |
-|2. | Wizualizacja danych numerycznych   | `matplotlib`   	     | 12.10              | 13.10             |                                    |      |             |
+|1. | Obliczenia numeryczne 1            | `notebook`, `numpy`   | 5.10               | 6.10              |                                    |      |             |
+|2. | Obliczenia numeryczne 2            | `numpy`      	     | 12.10              | 13.10             |                                    |      |             |
 |   | Przetwarzanie danych 1             | `pandas`              |                    |                   | 1. zbiór danych                    | 4.5  |             |
-|3. | Przetwarzanie danych 2             | `pandas`  	           | 19.10              | 20.10             |                                    |      | zad. 1      |
-|4. | Przetwarzanie danych 3             | `pandas`              | 26.10              | 27.10             | 2. problemy badawcze               | 2    |             |
-|5. | Przetwarzanie danych 4             | `pandas`              | 9.11               | 10.11 \*          |                                    |      | zad. 2      | 
-|6. | Czyszczenie danych                 | `pandas`, `pyjanitor` | 16.11              | 17.11             | 3. oczyszczenie danych             | 4.5  |             |
-|   |                                    |                       |                    |                   | Lista zadań - przetwarzanie danych | 16   |             |        
-|7. | Agregacje                          | `pandas`              | 23.11              | 24.11             |                                    |      | zad. 3      |
-|8. | Wizualizacja zmiennych  	     | `seaborn`             | 30.11              | 1.12              | 4. agregacje i wykresy             | 12.5 | lista zadań | 
-|9. | Testowanie statystyczne 1          | `pingouin`            | 7.12               | 8.12              |                                    |      | zad. 4      |
-|10.| Testowanie statystyczne 2          | `pingouin`            | 14.12              | 15.12             | 5. testy statystyczne              | 9.5  |             |
-|11.| Raportowanie                       | 	                 | 21.12              | 22.12             | 6. raport statystyczny             | 14   | zad. 5      |
-|12.| Konsultacje                        |	                 | 11.01              | 19.01             |                                    |      | zad. 6      |
-|13.| Konsultacje 	                 |                       | 18.01              | 19.01             |                                    |      | zad. 6      |
-|14.| Konsultacje 	                 |                       | 25.01              | 26.01             |                                    |      | zad. 6      |      
-|15.| Konsultacje - Termin dodatkowy \** |                       | 1.02               | 1.02              |                                    |      | zad. 6      |
+|3. | Wizualizacja danych numerycznych   | `matplotlib`    	     | 19.10              | 20.10             |                                    |      | zad. 1      |
+|4. | Przetwarzanie danych 2             | `pandas`              | 26.10              | 27.10             | 2. problemy badawcze               | 2    |             |
+|5. | Przetwarzanie danych 3/4           | `pandas`              | 9.11               | 10.11 \*          |                                    |      | zad. 2      | 
+|6. | Czyszczenie danych 1               | `pandas`, `pyjanitor` | 16.11              | 17.11             |                                    |      |             |
+|7. | Czyszczenie danych 2               | `pandas`, `pyjanitor` | 23.11              | 24.11             | 3. oczyszczenie danych             | 4.5  |             |          
+|8. | Agregacje                          | `pandas`              | 30.11              | 1.12              | Lista zadań - przetwarzanie danych | 16   | zad. 3      |
+|9. | Wizualizacja zmiennych 1 	     | `seaborn`             | 7.12               | 8.12              |                                    |      |             |
+|10.| Wizualizacja zmiennych 2 	     | `seaborn`             | 14.12              | 15.12             | 4. agregacje i wykresy             | 12.5 | lista zadań | 
+|11.| Testowanie statystyczne 1          | `pingouin`            | 21.12              | 22.12             |                                    |      | zad. 4      |
+|12.| Testowanie statystyczne 2          | `pingouin`            | 11.01              | 12.01             |                                    |      |             |
+|13.| Raportowanie                       | 	                 | 18.01              | 19.01             | 5. testy statystyczne              | 9.5  |             |
+|   |                                    | 	                 |                    |                   | 6. raport statystyczny             | 14   |             |
+|   |                                    |	                 | 1.02               | 2.02              |                                    |      | zad. 5 i 6  |
 |   |                                    |                       |                    |                   | **Razem**                          | 63   |             |
 
-\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 \
-\** w razie nieuzbierania liczby punktów wystarczającej do zdania lub nieobecności na swoim terminie 
+\* brak zajęć 3.11 ze względu na poprzedzający go dzień rektorski 2.11 
 
 
 ---
@@ -78,39 +75,21 @@ Kolejnym ocenom z przedmiotu odpowiadają następujące przedziały punktów:
 
 Warunkiem zaliczenia poza osiągnięciem odpowiednio wysokiej łącznej sumy punktów, zgodnej z powyższą tabelą, jest uzyskanie minimum połowy punktów za zadanie 6 - końcowy etap projektu (7 z 14 punktów).
 
-Dozwolone są maksymalnie 2 nieobecności, przy czym odbycie konsultacji projektowej jest obowiązkowe.
+Dozwolone są maksymalnie 2 nieobecności.
 
-W przypadku nieosiągnięcia łącznej liczby punktów wystarczającej do zdania, możliwa jest jednorazowa poprawa całości projektu, a w przypadku niespełnienia warunku dotyczącego zadania 6 - poprawa niego samego.
-
+W przypadku nieosiągnięcia łącznej liczby punktów wystarczającej do zdania, możliwa jest jednorazowa poprawa całości projektu, a w przypadku niespełnienia warunku dotyczącego zadania 6 - poprawa niego samego. W razie poprawy całości projektu, po obowiązkowym indywidualnym umówieniu się odbyłaby się konsultacja poprojektowa na jego temat.
 
 ---
 
 
 ## 📑 Projekt
 
-Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Każdy etap poza ostatnim należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie na 4 dni przed swoją konsultacją poprojektową.
-
-
-### Konsultacje projektowe
-
-Wymagana konsultacja projektowa jest rozmową na temat projektu. Należy zapisać się na nią do **15. grudnia**.
-
-**Grupa 1**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=STEv1f&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)  
-  - poniedziałek 11., 18., 25. stycznia 15:00-16:30 s. 305 
-
-**Grupa 2**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=7b8b8A&nav=MTVfezc3NTY3NUE1LUNENTgtNDk3Ri1BREQwLTI2OUVCOTkxRjU1Rn0)  
-  - poniedziałek 11., 18., 25. stycznia 16:40-18:20 s. 305
-    
-**Grupa 3**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=rcyabD&nav=MTVfezBBNjJEOTJDLTg4OUMtNDdFNy05NEI4LUU2MEQ2MUNFNjFEOH0)  
-  - wtorek 12., 19., 26. stycznia 13:10-14:50 s. 305
-    
-**Grupa 4**: [zapisy](https://uam-my.sharepoint.com/:x:/g/personal/agnsmo6_amu_edu_pl/IQCdviYcJ-eaS4exwswuTjBAAQl5ZWq12e30IYm8Kj1Sn04?e=ZCrPOG&nav=MTVfezQxQkYzQ0JCLTgyNDEtNDAwNi1CODUxLUNERDYxMjk1MUVBNH0)  
-  - wtorek 12., 19., 26. stycznia 16:45-18:15 s. 305
+Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego przez siebie zestawu danych oraz zaprezentowanie otrzymanych wyników w postaci raportu. Projekt będzie realizowany w etapach wyznaczonych przez kolejne tematy omawiane na zajęciach, zgodnie z harmonogramem wyżej. Dokładna treść poszczególnych zadań i miejsce na wstawienie swoich rozwiązań znajduje się na platformie [Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020). Pierwsze cztery etapy należy wykonać do czasu następnych zajęć, natomiast finalna wersja projektu powinna zostać umieszczona na stronie do 1.02 w przypadku grup poniedziałkowych i 2.02 w przypadku grup wtorkowych.
 
 
 ## &#x1F4CB; Lista zadań
 
-Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
+Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 8. 
 
 ---
 
