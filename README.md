@@ -30,8 +30,8 @@ mgr Agnieszka Smolnicka, `agnieszka.smolnicka@amu.edu.pl`, dyżur: wtorek 15:15-
 |6. | Czyszczenie danych 1               | `pandas`, `pyjanitor`   | 16.11              | 17.11             |                                    |      |             |
 |7. | Czyszczenie danych 2               | `pandas`, `pyjanitor`   | 23.11              | 24.11             | 3. oczyszczenie danych             | 4.5  |             |          
 |8. | Agregacje                          | `pandas`                | 30.11              | 1.12              | Lista zadań - przetwarzanie danych | 16   | zad. 3      |
-|9. | Wizualizacja zmiennych 1 	     | `seaborn`, 'matplotlib' | 7.12               | 8.12              |                                    |      |             |
-|10.| Wizualizacja zmiennych 2 	     | `seaborn`, 'matplotlib' | 14.12              | 15.12             | 4. agregacje i wykresy             | 12.5 | lista zadań | 
+|9. | Wizualizacja zmiennych 1 	     | `seaborn`, `matplotlib` | 7.12               | 8.12              |                                    |      |             |
+|10.| Wizualizacja zmiennych 2 	     | `seaborn`, `matplotlib` | 14.12              | 15.12             | 4. agregacje i wykresy             | 12.5 | lista zadań | 
 |11.| Testowanie statystyczne 1          | `pingouin`              | 21.12              | 22.12             |                                    |      | zad. 4      |
 |12.| Testowanie statystyczne 2          | `pingouin`              | 11.01              | 12.01             |                                    |      |             |
 |13.| Raportowanie                       | 	                   | 18.01              | 19.01             | 5. testy statystyczne              | 9.5  |             |
