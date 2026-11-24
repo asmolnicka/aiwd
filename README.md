@@ -73,7 +73,7 @@ Celem projektu jest zbadanie zależności między 5 parami zmiennych wybranego p
 
 ## &#x1F4CB; Lista zadań 
 
-Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 6. 
+Lista zadań ma na celu uzupełnienie projektu pod względem głębszego sprawdzenia umiejętności przetwarzania danych. Zawiera ona 14 krótkich podpunktów do rozwiązania na swoim projektowym zbiorze danych ([Moodle](https://lms.amu.edu.pl/sns/course/view.php?id=2020)). W skład jej oceny wchodzą odpowiedzi do zadań oraz ich odpowiedni komentarz. Na czas wykonania listy zadań jest dwa tygodnie od jej zadania, czyli od zajęć nr 8. 
 
 
 ## 🤖 Zasady używania GenAI
